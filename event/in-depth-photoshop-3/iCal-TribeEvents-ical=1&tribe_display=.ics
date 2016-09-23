@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161025T190000
+DTEND;VALUE=DATE-TIME:20161025T210000
+DTSTAMP:20160922T153524
+CREATED:20160912T113624
+LAST-MODIFIED:20160912T113624
+UID:35288-1477422000-1477429200@http://www.betahaus.com/berlin
+SUMMARY:In-depth Photoshop
+DESCRIPTION:Start your graphic design journey  Photoshop is a highly powerful tool which can help users to create truly fantastic graphics. From working with photography\, prepping items for online use and creating websites to illustrating and working with typography\, there is something for every designer who wants to use this program. The beginner is usually faced with the question\, where to do I start and how do I make things look professional?  Our Photoshop for Beginners class aims to teach the basics\, from scratch\, through mini projects and top tips on how to get to grips with how Photoshop works\, it will benefit your design work and aid your imagination. You will leave with the confidence to use a large number of tools\, in a professional way.  SESSION OVERVIEW  FIRST SESSION: OCT 25th  First session will start with the basics of Photoshop and how to get started by covering the introduction to pixels\, user interface\, document setup. We will go into tools and pallets\, layers and history.  SECOND SESSION: OCT 26th  Checking skills after the first lesson and then moving on to more functions like the selection tools\, adjustments on photography and mastering cropping.  THIRD SESSION: NOV 1st  In the third session we will continue from the previous session by working with type\, learning how to work with colour and tackling masks and paths.  FOURTH SESSION: NOV 2nd  In the final session participants can bring ideas for their own project and get help and inspiration kickstarting it off in Photoshop  INSTRUCTOR: Sarah Kennedy  Sarah Kennedy is a designer who has been working with Photoshop for last 13 years: using it to create artworks for a range of clients across fashion\, branding\, illustration\, web and products. Her multi disciplined portfolio and skills will help participants on the course with any ideas they want to bring to Photoshop.  NEEDED  A Laptop and Photoshop CS6 or CC already installed (preferably the English version) Adobe offer a free 30 day trail version of Photoshop which can be used during the course.  WHERE AT BETAHAUS  Once you arrive climb up to the first floor and you will find your class  CERTIFICATE:   After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/in-depth-photoshop-3/
+CATEGORIES:Art & Design,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160419092532/db612c1a-6868-421f-9bca-a8ca1746eb4d.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

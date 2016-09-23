@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160920T140000
+DTEND;VALUE=DATE-TIME:20160920T160000
+DTSTAMP:20160922T154343
+CREATED:20160908T154016
+LAST-MODIFIED:20160909T090844
+UID:35280-1474380000-1474387200@http://www.betahaus.com/berlin
+SUMMARY:Startups &amp; Corporates in the Digital Transformation
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    &nbsp;    Event description:    Corporations\, governmental agencies\, non-profits and other medium and large organizations are partnering with start-ups in order to monetize data and digital assets. Data might be the new oil\, but applications\, platforms\, hardware\, cloud services\, databases\, analytics engines\, delivery\, project &amp; process management\, collaboration tools and more are all part of the refinery necessary to create a winning strategy for the digital era.    This event is meant to answer specific questions and concerns\, as well as give practical advice about partnerships between startups and larger organizations. Whether you are a startup looking to be part of a corporate big data implementation or an organization looking to modernize your business model and operations through partnerships with startups\, we can answer your questions.    Topics can include:      Hot use cases in the market and how different industries could leverage data to modernize their business models.    Examples of what different companies have done successfully.    What is working in different innovation ecosystems.    How to approach and work with innovation partners.    &nbsp;    About the event holder:    Elizabeth Press\, founder of D3M Labs\, understands innovation partnerships from both the corporate and the startup side.    D3M Labs is a consultancy that empowers organizations to cultivate strategic advantages through monetization of digital assets and partnerships with innovators. As one of her core activities\, Elizabeth scouts startups globally on behalf of her clients. Organizations D3M Labs has worked with include Betahaus and Mondelez\, as well as large players in mobility\, automotive\, mechanical engineering and financial services. As an intrapreneur at Dell\, Elizabeth built up and managed global advanced analytics functions. At Dell\, Elizabeth worked with a geographically diverse set of emerging vendors. Before Dell\, she worked in top-tier strategy consulting and quantitative finance. Elizabeth mentors at the ReDI school of Digital Integration. She has a BA in International Relations from Tufts University and an MSc in International Economics and Business from the Stockholm School of Economics.    She has published papers on predictive analytics\, as well as knowledge management and innovation and was an official Dell Social Subject Matter Expert on Decision Management and Organizational Transformation. She is also a speaker at Data Natives Berlin.    &nbsp;    Important Information      To secure your spot please register in advance by sending an email to Elizabeth.Press@d3mlabs.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception. The event will take place at reception.    Only one session (30 minutes) per person per Office Hours day. Only one consultation per quarter.    If you would like to cancel\, please have the courtesy to email Elizabeth.Press@d3mlabs.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/startups-corporates-in-the-digital-transformation/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160908154016/IMG_5983_cropped_1.jpg
+END:VEVENT
+END:VCALENDAR

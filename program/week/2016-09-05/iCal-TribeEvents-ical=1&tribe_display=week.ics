@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160906T130000
+DTEND;VALUE=DATE-TIME:20160906T140000
+DTSTAMP:20160922T163102
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34323-1473166800-1473170400@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-09-06/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160906T160000
+DTEND;VALUE=DATE-TIME:20160906T173000
+DTSTAMP:20160922T163102
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35128-1473177600-1473183000@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-09-06/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160906T180000
+DTEND;VALUE=DATE-TIME:20160906T210000
+DTSTAMP:20160922T163102
+CREATED:20160816T115224
+LAST-MODIFIED:20160816T115224
+UID:35189-1473184800-1473195600@http://www.betahaus.com/berlin
+SUMMARY:Weekly Woodworking
+DESCRIPTION:Every Tuesday evening\, we have “Woodworking” at betahaus! All the machines and tools in the woodshop are available to use… PLUS\, a woodworking professional will be in the workshop to help you with all your wonderful ideas. Join us!  Important things to know about woodworking sessions:  Before registering for a Woodworking Evening\, you MUST have taken “Working with Wood”        You have to REGISTER ONLINE for this event (obligatory)!    Your registration is only valid for the date you signed up for.    Registration options:        book single ticket 15eur    book a free ticket and use one of the Vouchers from Introduction to Woodshop    WHERE AT BETAHAUS?  Go inside and walk straight to the Open Design City (ODC)  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the session In case you are using the Free option\, please bring the Voucher with you as well.  This course was created by betahaus I Academy. Check out the whole Program www.academy.betahaus.com
+URL:http://www.betahaus.com/berlin/event/weekly-woodworking-99/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160504093514/b3aed604-ec8b-43ca-aea0-8e3050a68e3b.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160906T180000
+DTEND;VALUE=DATE-TIME:20160906T210000
+DTSTAMP:20160922T163102
+CREATED:20160902T102211
+LAST-MODIFIED:20160902T102211
+UID:35250-1473184800-1473195600@http://www.betahaus.com/berlin
+SUMMARY:FinTech - Zwischen Hype und Hoffnung
+DESCRIPTION:Die Digitalisierung verändert den Finanzsektor. Gerade die technologischen Innovationen von FinTech-Startups bieten neue Chancen. Salesforce unterstützt als einer der weltweit führenden Anbieter von Cloud-basierter Unternehmenssoftware schon heute Kunden bei der digitalen Transformation.    Wir laden Euch herzlich ein\, mit Startups\, Politik und Banken in den Austausch darüber zu treten\, wie neue Technologien die tägliche Arbeit von Finanzunternehmen aller Größen verändert haben und in Zukunft verändern werden.    PANEL      Dr. Jens Zimmermann MdB | Member of the Bundestag    Susanne Krehl | Chairwoman FinTech Group\, German Startups Association; Head of Marketing &amp; PR at Barzahlen; Host of the FinTech Stammtisch    Ulrich Coenen | Group Head Digital Transformation\, Commerzbank AG    Julian Teicke | CEO &amp; Founder\, FinanceFox    MODERATOR      Christine Kiefer | Former Goldman-Sachs analyst\, now startup founder and initiator of a women in FinTech network    &nbsp;    Im Anschluss freuen wir uns auf das gemeinsame Netzwerken bei Drinks und Snacks.    Weitere Information und Anmeldung unter: https://salesforcefintechberlin.splashthat.com/
+URL:http://www.betahaus.com/berlin/event/fintech-zwischen-hype-und-hoffnung/
+CATEGORIES:Business,Community,Technology
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160902072711/BerlinFinTech.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160907T110000
+DTEND;VALUE=DATE-TIME:20160907T130000
+DTSTAMP:20160922T163102
+CREATED:20160218T142531
+LAST-MODIFIED:20160622T092337
+UID:34159-1473246000-1473253200@http://www.betahaus.com/berlin
+SUMMARY:Patents – Protection and Monetization of Technical Inventions
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    If you work on a technical project\, you might be able to protect its results by filing a patent application. There is also a good chance that other peoples’ patents will have an impact on what you do.    A single patent\, if you own it\, may turn a half-baked idea into an investment opportunity. A single patent may also sink three years of hard work\, if someone else owns it. Investors tend to take intellectual property – “IP”\, of which patents are the most important example - extremely seriously. Billions are exchanged every year in IP-driven transactions.    In this office hour (1 on 1 session) we will listen to your plans and problems\, and point out what IP issues are most likely to matter to your business. Where possible\, we will help you to find solutions.    Key topics we often consult on are:      Can I protect my invention? How much does that cost?    Does it make sense to file a patent in my situation?    How do I know what other patents are out there?    What do I need to do if I want to license a patent? How is this done?    About Event Holder    We are patent attorneys with degrees in different technical fields\, from engineering to chemistry. In order to select the right attorney for your field\, please send us a short description of your topic of interest within IP (to: office@mittepatent.de\, subject: betahaus office hours). Anything you tell us will be kept completely confidential.      Knut Seliger is a mechanical engineer\, with a focus on automotive and hardware engineering.    Ben Jesko Schulz is a physicist\, with considerable experience in IT-based inventions\, hardware and physics.    Claas Junghans is a chemist (and serial entrepreneur) with a focus on the strategic aspects of start-up IP work.    Important Information      Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please ensure you come prepared with your own questions.    Once you arrive\, please go to reception.    Only one session (30 minutes) per person per Office Hours day.    To secure your spot please register in advance and send an email to office@mittepatent.de to introduce yourself and explain your topic of interest in order for the right attorney to be allocated to you    If you would like to cancel\, please have the courtesy to email office@mittepatent.de to let them know.    Please print your ticket and bring it to the session!  
+URL:http://www.betahaus.com/berlin/event/patents-protection-and-monetization-of-technical-inventions-9/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/jesko.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T090000
+DTEND;VALUE=DATE-TIME:20160908T170000
+DTSTAMP:20160922T163103
+CREATED:20160722T110937
+LAST-MODIFIED:20160722T110937
+UID:35037-1473325200-1473354000@http://www.betahaus.com/berlin
+SUMMARY:AUGENHÖHECamp Berlin 2016
+DESCRIPTION:Alle sprechen von der neuen Arbeitswelt. Die Filme AUGENHÖHE und AUGENHÖHEwege bieten viel Inspiration dazu. Für alle\, die tiefer einsteigen wollen\, gibt es AUGENHÖHEcamps – nun auch zum ersten Mal in Berlin!    AUGENHÖHEcamp: Das Barcamp für Organisationsentwicklung    Wie kann man eine Arbeitswelt auf Augenhöhe gestalten\, was konkret tun? Das AUGENHÖHEcamp bietet eine Plattform für Unternehmer\, Führungskräfte und Personaler\, die sich dazu austauschen und voneinander lernen möchten. Das AUGENHÖHEcamp lädt dazu ein\, eigene Erfahrungen weiter zu geben\, zu inspirieren und sich inspirieren zu lassen\, vom jungen Personaler bis zum gestandenen Geschäftsführer – auf Augenhöhe.    Organisation begegnet Mensch
+URL:http://www.betahaus.com/berlin/event/augenhohecamp-berlin-2016/
+CATEGORIES:Business
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160717162118/ahcbln2016.jpg
+ORGANIZER;CN=AUGENHÖHECamp Berlin-Team:MAILTO:berlin@augenhoehe-camp.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T093000
+DTEND;VALUE=DATE-TIME:20160908T110000
+DTSTAMP:20160922T163103
+CREATED:20160127T112741
+LAST-MODIFIED:20160907T115913
+UID:33957-1473327000-1473332400@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ Social Science Works and Costume Kingdom
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have Social Science Works and Costume Kingdom with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-37/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T170000
+DTEND;VALUE=DATE-TIME:20160908T190000
+DTSTAMP:20160922T163103
+CREATED:20150520T090927
+LAST-MODIFIED:20150520T090927
+UID:34326-1473354000-1473361200@http://www.betahaus.com/berlin
+SUMMARY:Betahaus Food Assembly's weekly collection
+DESCRIPTION:Every week you find great products direct from local quality farms.    1. Simply register as a member of the Betahaus Food Assembly on www.thefoodassembly.de. This is free and doesn't commit you to ordering the same produce each week.    2. Shop online. We've got organic vegetable and fruit\, meat\, eggs\, cheese\, honey\, jams\, cakes\, and much more to discover.    3. Collect your local produce every Thursday at The Betahaus in Kreuzberg between 5-7pm.    It's fairer\, better and (for a lot of people) closer than the local supermarket. Come and meet the producers and support local farms and craft.    We hope to see you soon!    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betahaus-food-assemblys-weekly-collection/2016-09-08/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/spring-party-picture.jpg
+ORGANIZER;CN=Violette Bonnebas:MAILTO:betahausassembly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T190000
+DTEND;VALUE=DATE-TIME:20160908T220000
+DTSTAMP:20160922T163103
+CREATED:20160726T122209
+LAST-MODIFIED:20160726T122210
+UID:35075-1473361200-1473372000@http://www.betahaus.com/berlin
+SUMMARY:Vegan Cheese
+DESCRIPTION:Discover new tastes     Nuts\, beans and seeds are a protein-rich\, nutritious and affordable part of vegan (or not) diet. Learn the secrets behind making these foods into 'cheeses'\, dips and spreads that are easy to digest and packed with flavour.  In an anti-bacterial age\, fermentation is quickly becoming a lost art. We are here to reclaim it as an energy efficient food-preservation technique which is rooted in our cultural histories. We are captivated and inspired by the way fermented foods engage our senses and enhance whole food eating.  ABOUT THE WORKSHOP   The workshop will be interactive and informative. Through taste\, touch\, sight\, smell and discussion you will explore the fascinating microbiological processes that turns nuts\, beans and seeds into probiotic condiments. Each participant will have the chance to sample and join in discussions about the benefits of fermented foods. We will explore our individual taste preferences and then delve into the do-it-yourself seed cheese making station so everyone can go home with their very own creation.      INSTRUCTOR: ALEXIS GOERTZ  The 25 year old Canadian Bacteria-Barista\, Alexis\, co-founded Edible Alchemy in Winnipeg\, Canada in 2013\, and after exploring more of the world of fermentation over many travels brought Edible Alchemy to Berlin in September 2014. The enthusiasm and desire to share about the wondrous world of fermentation has brought Edible Alchemy to classrooms\, festivals\, farmer’s markets\, rooftops\, studio spaces and on European and Canadian tours. Working with fermentation is an accessible way to have a little laboratory in the kitchen\, which Alexis loves doing experiments and seeing people get really excited about taking back traditional food\, deskilling to create self-reliance.  MATERIALS:  All the materials will be provided at the workshop.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/vegan-cheese-2/
+CATEGORIES:DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160726122139/vegan-cheese-21.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160909T120000
+DTEND;VALUE=DATE-TIME:20160909T140000
+DTSTAMP:20160922T163103
+CREATED:20160907T121523
+LAST-MODIFIED:20160907T121523
+UID:35272-1473422400-1473429600@http://www.betahaus.com/berlin
+SUMMARY:Crank Up Your Traction!
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Events Description  As a startup\, you've got a limited amount of time\, money and resources so it's critical your energy is focused on the right channels and activities. Let's look at where you're at and where it makes the most sense to focus.   During this event we'll quickly review:        Customer acquisition strategies - this could be SEO\, paid advertising\, social\, email\, etc. - are you focused on the right channels?    Tracking / analytics - are you keeping track of the right KPIs?    Product - what are the quick wins to improve conversion rates and help dramatically lower CPAs by driving more people through the funnel?    We can also discuss any other issues you have related to growth or improving your KPIs.  About Event Holder  This is a one-on-one session with Keith Baumwald.  Keith has been a digital marketer for over 10 years working for agencies\, corporates and startups across the US\, Australia\, Japan and Europe. Keith works most often with startups to help them get from their seed round to A round. One of his clients in the UK recently hit #1 in the app store.  Important Information    For all betahaus members this Office Hours session is for free      To secure your spot please register in advance by sending an email to keith@leverag.com. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email keith@leverag.com.  
+URL:http://www.betahaus.com/berlin/event/crank-up-your-traction-5/2016-09-09/
+CATEGORIES:Business,Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160411104659/Keith.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160909T130000
+DTEND;VALUE=DATE-TIME:20160909T160000
+DTSTAMP:20160922T163103
+CREATED:20160829T125458
+LAST-MODIFIED:20160829T125458
+UID:35239-1473426000-1473436800@http://www.betahaus.com/berlin
+SUMMARY:Mindset Coaching – The most important factor to your success?
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30-45 mins) with experts from our community to our community.    Session Overview    When people think that they are stuck\, overwhelmed\, not making progress or simply failing\, they tend to blame it on the fact that they don't know how to do certain things.    But business success has been figured out and it has never been easier to learn from the most successful business people in relation to what to do in order to succeed. So why then do so many entrepreneurs struggle or fail in being successful (and happy)? Though success is a logical process\, it is executed by emotional beings. And that is where things can get messed up.    If your frame of mind is what's getting in between you and your success\, then I can help you. I can help you identify your limiting thoughts and perspectives and replace them with new and empowering ones that will help you achieve your goals.    More specifically\, I can enable you to:      become decisive and make powerful decisions    overcome procrastination    get out of feeling overwhelmed and into a clear headspace    massively reduce stress    become a more powerful manager and leader of people    move to the next level in your business    build the confidence to boldly start or launch your own business    Schedule a session with me now so I can help you upgrade your mind-set and so you can move your business to the next level.    Office Hours Holder    Robert is a self-employed Life &amp; Business Coach. Running his own business\, he has faced and handled many challenges and struggles entrepreneurs face first hand. He holds a university degree in Business Administration and specialized in entrepreneurship where in his final thesis he investigated on how significant emotional events influenced the propensity to start a business. He is all about self-improvement and the science of success and loves working with entrepreneurs and freelancers guiding them to tap into more of their infinite potential to share their gifts and passion with the world more successfully    Important Information      To secure your spot please register in advance by sending an email to robert@personal-coach.berlin. Once your booking is confirmed\, Robert will send your an "in-take form" to fill out prior to your session.    In your email please indicate which 45-minute time slot you would like on the day. Your preferred 45-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, go to reception and wait for Robert. The session will take place at reception.    Only one session (45 minutes) per person per month.    Please contact Robert via email (robert@personal-coach.berlin) as soon as you have made a reservation to confirm attendance and request "in-take form".    If you would like to book a session but either all slots are already taken or you aren’t able to make it at a prescribed time\, please write an email to robert@personal-coach.berlin and he will try and find a solution.  
+URL:http://www.betahaus.com/berlin/event/mindset-coaching-the-most-important-factor-to-your-success-3/2016-09-09/
+CATEGORIES:Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160112155556/Bewerbung_Warm_600.jpg
+END:VEVENT
+END:VCALENDAR

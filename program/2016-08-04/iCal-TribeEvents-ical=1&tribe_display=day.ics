@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160804T040000
+DTEND;VALUE=DATE-TIME:20160804T180000
+DTSTAMP:20160922T162950
+CREATED:20160530T132526
+LAST-MODIFIED:20160622T090256
+UID:34896-1470283200-1470333600@http://www.betahaus.com/berlin
+SUMMARY:Crowdfunding Startnext
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (20 mins) with experts from our community to our community.    Event Description    This Office Hours (1 on 1 sessions) will give you insights into crowdfunding\, an innovate model to finance ideas\, projects and startups with the support of many people.    During the Crowdfunding office hour the team from Startnext offers direct counselling for project starters who are interested in financing their project via Crowdfunding. We take the time to guide you individually through the most important steps of building and performing a campaign and are happy to share insights into success as well as communication strategies.    Ask us how to design your pitch video\, images\, project description and rewards to present your idea as convincing as possible.    Your questions will be answered by our Crowdfunding expert Markus Streichardt who counsels project starters on a daily basis at Startnext.    Startnext is the leading Crowdfunding Community in the German speaking area. Situated in the heart of Berlin we are a platform for artists\, creative people\, inventors and entrepreneurs and offer a very high success rate for our project starters.    We are excited to getting to know you and hearing more about your project\, idea or startup.    Important Information      Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place there.    Only one session (20 minutes) per person per month.    Please book your time slot here: www.calendly.com/startnext-betahaus      If you would like to cancel\, please have the courtesy to let Startnext now. You’ll find the contact in your Calendly confirmation e-mail    
+URL:http://www.betahaus.com/berlin/event/crowdfunding-startnext-18/2016-08-04/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160530132526/Startnext-Markus_Streichardt_web.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160804T093000
+DTEND;VALUE=DATE-TIME:20160804T110000
+DTSTAMP:20160922T162950
+CREATED:20160127T111512
+LAST-MODIFIED:20160804T070955
+UID:33952-1470303000-1470308400@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast with TRACK, People in Beta and One Coworking
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have TRACK and Jack will get you psyched for this week's People in Beta.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-32/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160804T170000
+DTEND;VALUE=DATE-TIME:20160804T190000
+DTSTAMP:20160922T162950
+CREATED:20150520T090927
+LAST-MODIFIED:20150520T090927
+UID:34004-1470330000-1470337200@http://www.betahaus.com/berlin
+SUMMARY:Betahaus Food Assembly's weekly collection
+DESCRIPTION:Every week you find great products direct from local quality farms.    1. Simply register as a member of the Betahaus Food Assembly on www.thefoodassembly.de. This is free and doesn't commit you to ordering the same produce each week.    2. Shop online. We've got organic vegetable and fruit\, meat\, eggs\, cheese\, honey\, jams\, cakes\, and much more to discover.    3. Collect your local produce every Thursday at The Betahaus in Kreuzberg between 5-7pm.    It's fairer\, better and (for a lot of people) closer than the local supermarket. Come and meet the producers and support local farms and craft.    We hope to see you soon!    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betahaus-food-assemblys-weekly-collection/2016-08-04/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/spring-party-picture.jpg
+ORGANIZER;CN=Violette Bonnebas:MAILTO:betahausassembly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160804T193000
+DTEND;VALUE=DATE-TIME:20160804T230000
+DTSTAMP:20160922T162950
+CREATED:20140925T110912
+LAST-MODIFIED:20140925T110912
+UID:34003-1470339000-1470351600@http://www.betahaus.com/berlin
+SUMMARY:Drupal Berlin Usergroup
+DESCRIPTION:Bei dieser monatlichen Veranstaltung treffen sich die Berliner Anwender und Entwickler des CMS DRUPAL.    Drupal ist eine unter der GNU General Public License veröffentlichte und von einer breiten Community stetig weiterentwickelte Software.    Sie dient in erster Linie dem Erstellen\, Publizieren und Organisieren verschiedenster Inhalte einer Website.    Aufgrund ihres modularen Aufbaus ist in höchstem Maße ein flexibler Einsatz in allen nur erdenklichen Bereichen möglich.    Also egal\, ob Intranet oder Internet\, ob e-Government\, Commerce oder Community\, ob redaktionelle Inhalte oder "user generated content".    Drupal ist die Lösung! Bei unserem Treffen im betahaus geht es uns um einen möglichst breiten Austausch. Jeder Interessierte\, unabhängig vom Wissensstand\, ist willkommen!!! Es werden Sessions und Flashtalks gehalten. Individuelle Probleme können angesprochen und hoffentlich auch gelöst werden.    Informiert euch vorab über geplante Vorträge und stimmt über Themenvorschläge ab.    Join The Drupal Community!
+URL:http://www.betahaus.com/berlin/event/drupal-berlin-usergroup/2016-08-04/
+CATEGORIES:Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/dug_berlin_betahaus-e1386171675109.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160111T133000
+DTEND;VALUE=DATE-TIME:20160111T153000
+DTSTAMP:20160922T154826
+CREATED:20151124T115126
+LAST-MODIFIED:20160222T110552
+UID:33609-1452519000-1452526200@http://www.betahaus.com/berlin
+SUMMARY:Improve your Online Marketing and Get Results with Bào Hà
+DESCRIPTION:We seem to hear Community Management\, Social Media Marketing\, Content Marketing\, SEO\, and SEM/SEA buzzwords everywhere but how can we know what to focus on and measure the impact on the bottom line? The secret is not to look at every online marketing tools as separate entities to manage but to look at online marketing as a whole. Then\, we look at how it can best be used to reach our business objectives.    During this Office Hour\, you will have the opportunity to discuss any aspect of your challenges for 30 min and we can look into:     What are my business objectives and based on them\, how can we define the proper digital objectives?   How can I measure my digital marketing initiatives?   Which digital marketing efforts should I prioritize based on my ressources and budget?   What are potential campaigns or stunts that we can come up with to grow my brand?   What are the quick fix that I can do in the next 14 days?    Bào Hà is an entrepreneur from Montreal\, Canada and have been running Co’Narra\, a digital marketing agency\, for 3 years. Bào has over 7 years of online marketing experience with the North American as well as with the international market. He has worked with start ups\, local businesses\, and Fortune 500 companies in various industries such as transportation\, gaming\, tech\, media\, fashion\, retail\, e-commerce\, tourism\, utilities\, beauty\, etc.    Let’s talk about how digital marketing can be leveraged efficiently to reach your business objectives and grow your business. Book your appointment on Eventbrite now.
+URL:http://www.betahaus.com/berlin/event/improve-your-online-marketing-and-get-results-with-bao-ha/2016-01-11/
+CATEGORIES:Business,Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/BaoProfileBH.jpeg
+END:VEVENT
+END:VCALENDAR

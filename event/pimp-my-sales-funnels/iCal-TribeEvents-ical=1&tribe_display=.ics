@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160929T140000
+DTEND;VALUE=DATE-TIME:20160929T160000
+DTSTAMP:20160922T153230
+CREATED:20160921T162757
+LAST-MODIFIED:20160921T171458
+UID:35333-1475157600-1475164800@http://www.betahaus.com/berlin
+SUMMARY:Pimp my sales funnels
+DESCRIPTION:This betahaus | Office Hours is an exclusive two-day only\, one-on-one free consultancy session (30 mins) with experts.    Events Description  The digital age makes it possible for start-ups to achieve break even and grow sales very fast. This could make the next financial round needless for these companies - with the correct sales channels with a high ROI and profits.  Nescho and Janina will help you to find the right marketing to push the sales and to develop sales channels with a high ROI and profits. They will show you how to build smart sales funnels\, optimize your value ladder and earn more from new and existing clients.   About Event Holder  Nescho and Janina are digital sales experts and passionate entrepreneurs. They have more than a decade of experience in creating go-to-market strategies\, sales campaigns and sales funnels.  They know how to promote product launches\, how to drive community engagement\, and how to turn offline efforts into an online result that creates sales. And there’s more.  The clients of Top Ideas .digital (www.topideas.digital) range from Fortune 500 companies to small and booming businesses with excellent ideas\, products and proofs of concept. Their strength is planning\, creating and executing campaigns on a national and international level in the core European markets.  Important Information      To secure your spot please register in advance by sending an email to nescho.topalov@topideas.digital    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/pimp-my-sales-funnels/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160921162157/Nescho_Janina_TopIdeas.jpg
+END:VEVENT
+END:VCALENDAR

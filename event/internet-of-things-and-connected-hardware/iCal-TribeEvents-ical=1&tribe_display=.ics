@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161014T110000
+DTEND;VALUE=DATE-TIME:20161014T160000
+DTSTAMP:20160922T161715
+CREATED:20160919T103117
+LAST-MODIFIED:20160919T103117
+UID:35324-1476442800-1476460800@http://www.betahaus.com/berlin
+SUMMARY:Internet of Things and connected hardware
+DESCRIPTION:This betahaus | Office Hours is an exclusive one-day only\, one-on-one free consultancy session (30 mins) with an expert.    Events Description  Matt has been working with connected hardware for a decade\, has developed IoT platforms and products\, advises hardware startups\, and now runs a new Internet of Things startup accelerator in London\, UK\, aimed at startups across Europe. This session is for startups that involve IoT and hardware\, to compare notes\, and to discuss the new accelerator.  About Event Holder  Matt is MD of R/GA IoT Venture Studio UK &lt;http://www.rgaiot.com&gt;. Matt was previously co-founder CEO of BERG\, the London design studio responsible for Little Printer\, an early (and cute!) connected gadget for the home. He is an advisor to two London-based hardware startups  Important Information      To secure your spot please register in advance by sending an email to matt@interconnected.org. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/internet-of-things-and-connected-hardware/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160919103035/Matt-Webb-Twitter-avatar-April-2016-small.jpg
+END:VEVENT
+END:VCALENDAR

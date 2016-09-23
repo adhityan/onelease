@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160920T160000
+DTEND;VALUE=DATE-TIME:20160920T173000
+DTSTAMP:20160922T154347
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35129-1474387200-1474392600@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-09-20/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+END:VCALENDAR

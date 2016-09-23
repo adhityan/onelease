@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160901T040000
+DTEND;VALUE=DATE-TIME:20160901T180000
+DTSTAMP:20160922T161806
+CREATED:20160530T132526
+LAST-MODIFIED:20160622T090257
+UID:34897-1472702400-1472752800@http://www.betahaus.com/berlin
+SUMMARY:Crowdfunding Startnext
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (20 mins) with experts from our community to our community.    Event Description    This Office Hours (1 on 1 sessions) will give you insights into crowdfunding\, an innovate model to finance ideas\, projects and startups with the support of many people.    During the Crowdfunding office hour the team from Startnext offers direct counselling for project starters who are interested in financing their project via Crowdfunding. We take the time to guide you individually through the most important steps of building and performing a campaign and are happy to share insights into success as well as communication strategies.    Ask us how to design your pitch video\, images\, project description and rewards to present your idea as convincing as possible.    Your questions will be answered by our Crowdfunding expert Markus Streichardt who counsels project starters on a daily basis at Startnext.    Startnext is the leading Crowdfunding Community in the German speaking area. Situated in the heart of Berlin we are a platform for artists\, creative people\, inventors and entrepreneurs and offer a very high success rate for our project starters.    We are excited to getting to know you and hearing more about your project\, idea or startup.    Important Information      Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place there.    Only one session (20 minutes) per person per month.    Please book your time slot here: www.calendly.com/startnext-betahaus      If you would like to cancel\, please have the courtesy to let Startnext now. You’ll find the contact in your Calendly confirmation e-mail    
+URL:http://www.betahaus.com/berlin/event/crowdfunding-startnext-18/2016-09-01/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160530132526/Startnext-Markus_Streichardt_web.jpg
+END:VEVENT
+END:VCALENDAR

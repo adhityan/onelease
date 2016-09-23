@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T090000
+DTEND;VALUE=DATE-TIME:20160908T170000
+DTSTAMP:20160922T154253
+CREATED:20160722T110937
+LAST-MODIFIED:20160722T110937
+UID:35037-1473325200-1473354000@http://www.betahaus.com/berlin
+SUMMARY:AUGENHÖHECamp Berlin 2016
+DESCRIPTION:Alle sprechen von der neuen Arbeitswelt. Die Filme AUGENHÖHE und AUGENHÖHEwege bieten viel Inspiration dazu. Für alle\, die tiefer einsteigen wollen\, gibt es AUGENHÖHEcamps – nun auch zum ersten Mal in Berlin!    AUGENHÖHEcamp: Das Barcamp für Organisationsentwicklung    Wie kann man eine Arbeitswelt auf Augenhöhe gestalten\, was konkret tun? Das AUGENHÖHEcamp bietet eine Plattform für Unternehmer\, Führungskräfte und Personaler\, die sich dazu austauschen und voneinander lernen möchten. Das AUGENHÖHEcamp lädt dazu ein\, eigene Erfahrungen weiter zu geben\, zu inspirieren und sich inspirieren zu lassen\, vom jungen Personaler bis zum gestandenen Geschäftsführer – auf Augenhöhe.    Organisation begegnet Mensch
+URL:http://www.betahaus.com/berlin/event/augenhohecamp-berlin-2016/
+CATEGORIES:Business
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160717162118/ahcbln2016.jpg
+ORGANIZER;CN=AUGENHÖHECamp Berlin-Team:MAILTO:berlin@augenhoehe-camp.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T093000
+DTEND;VALUE=DATE-TIME:20160908T110000
+DTSTAMP:20160922T154253
+CREATED:20160127T112741
+LAST-MODIFIED:20160907T115913
+UID:33957-1473327000-1473332400@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ Social Science Works and Costume Kingdom
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have Social Science Works and Costume Kingdom with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-37/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T170000
+DTEND;VALUE=DATE-TIME:20160908T190000
+DTSTAMP:20160922T154253
+CREATED:20150520T090927
+LAST-MODIFIED:20150520T090927
+UID:34326-1473354000-1473361200@http://www.betahaus.com/berlin
+SUMMARY:Betahaus Food Assembly's weekly collection
+DESCRIPTION:Every week you find great products direct from local quality farms.    1. Simply register as a member of the Betahaus Food Assembly on www.thefoodassembly.de. This is free and doesn't commit you to ordering the same produce each week.    2. Shop online. We've got organic vegetable and fruit\, meat\, eggs\, cheese\, honey\, jams\, cakes\, and much more to discover.    3. Collect your local produce every Thursday at The Betahaus in Kreuzberg between 5-7pm.    It's fairer\, better and (for a lot of people) closer than the local supermarket. Come and meet the producers and support local farms and craft.    We hope to see you soon!    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betahaus-food-assemblys-weekly-collection/2016-09-08/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/spring-party-picture.jpg
+ORGANIZER;CN=Violette Bonnebas:MAILTO:betahausassembly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T190000
+DTEND;VALUE=DATE-TIME:20160908T220000
+DTSTAMP:20160922T154253
+CREATED:20160726T122209
+LAST-MODIFIED:20160726T122210
+UID:35075-1473361200-1473372000@http://www.betahaus.com/berlin
+SUMMARY:Vegan Cheese
+DESCRIPTION:Discover new tastes     Nuts\, beans and seeds are a protein-rich\, nutritious and affordable part of vegan (or not) diet. Learn the secrets behind making these foods into 'cheeses'\, dips and spreads that are easy to digest and packed with flavour.  In an anti-bacterial age\, fermentation is quickly becoming a lost art. We are here to reclaim it as an energy efficient food-preservation technique which is rooted in our cultural histories. We are captivated and inspired by the way fermented foods engage our senses and enhance whole food eating.  ABOUT THE WORKSHOP   The workshop will be interactive and informative. Through taste\, touch\, sight\, smell and discussion you will explore the fascinating microbiological processes that turns nuts\, beans and seeds into probiotic condiments. Each participant will have the chance to sample and join in discussions about the benefits of fermented foods. We will explore our individual taste preferences and then delve into the do-it-yourself seed cheese making station so everyone can go home with their very own creation.      INSTRUCTOR: ALEXIS GOERTZ  The 25 year old Canadian Bacteria-Barista\, Alexis\, co-founded Edible Alchemy in Winnipeg\, Canada in 2013\, and after exploring more of the world of fermentation over many travels brought Edible Alchemy to Berlin in September 2014. The enthusiasm and desire to share about the wondrous world of fermentation has brought Edible Alchemy to classrooms\, festivals\, farmer’s markets\, rooftops\, studio spaces and on European and Canadian tours. Working with fermentation is an accessible way to have a little laboratory in the kitchen\, which Alexis loves doing experiments and seeing people get really excited about taking back traditional food\, deskilling to create self-reliance.  MATERIALS:  All the materials will be provided at the workshop.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/vegan-cheese-2/
+CATEGORIES:DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160726122139/vegan-cheese-21.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

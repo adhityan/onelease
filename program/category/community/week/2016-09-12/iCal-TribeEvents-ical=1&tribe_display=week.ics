@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160913T130000
+DTEND;VALUE=DATE-TIME:20160913T140000
+DTSTAMP:20160922T161356
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34356-1473771600-1473775200@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-09-13/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160913T183000
+DTEND;VALUE=DATE-TIME:20160913T213000
+DTSTAMP:20160922T161356
+CREATED:20160905T151101
+LAST-MODIFIED:20160905T151101
+UID:35257-1473791400-1473802200@http://www.betahaus.com/berlin
+SUMMARY:Kx Community Berlin Meetup
+DESCRIPTION:Hi Kx Community Berlin\,    We're holding our next Kx Meetup on Tuesday 13th September - we hope you can join!    We'll be hosting our event in Betahaus' Cafe! Our speaker will be announced ASAP!    Date:  Tuesday 13th September    Time:  18.30 - 21.00    Speaker: TBC    Presentation: Intro to Kx    So join us on the 13th for all things Kx...as well as some pizza &amp; beer! ;)    We look forward to meeting all of you!    Kx Community Berlin
+URL:http://www.betahaus.com/berlin/event/kx-community-berlin-meetup/
+CATEGORIES:Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160905141129/Kx-Logo.jpeg
+ORGANIZER;CN=Alan Hughes:MAILTO:ahughes@firstderivatives.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160914T150000
+DTEND;VALUE=DATE-TIME:20160914T170000
+DTSTAMP:20160922T161356
+CREATED:20160324T123017
+LAST-MODIFIED:20160617T103927
+UID:34433-1473865200-1473872400@http://www.betahaus.com/berlin
+SUMMARY:Managing Your People &amp; Culture
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description:    Truly engaged and motivated working people are the greatest competitive resource in every organization. A committed employee helps shape a great company culture and is a multiplier for every HR Business Strategy. This is the office hour (one-on-one session) with Bridgery.    Topics we cover:      Sustainable Recruiting    Employer Branding    HR Innovation Management    Talent &amp; Culture Management    Retention Strategy    About Event Holder    Bridgery focuses on empowering Managers &amp; HR Professionals to create people-centred innovation by engaging interdisciplinary teams and crafting sustainable HR solutions with innovative methods such as Design Thinking\, Positive Psychology\, OKR’s and Lean Management.    Important Information      To secure your spot please register in advance by sending an email to nina@bridgery.de . In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email nina@bridgery.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/managing-your-people-culture-22/2016-09-14/
+CATEGORIES:Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/nina-buschle-new-profile-photo.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160915T093000
+DTEND;VALUE=DATE-TIME:20160915T110000
+DTSTAMP:20160922T161356
+CREATED:20160127T112930
+LAST-MODIFIED:20160909T103441
+UID:33958-1473931800-1473937200@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ Influanza, Local Guddy and Jey Jetter (Powered by BIC 101)
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week's betabreakfast is sponsored by BIC 101 and we have Influanza\, Local Guddy\, and Jey Jetter  presenting with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-38/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160915T170000
+DTEND;VALUE=DATE-TIME:20160915T190000
+DTSTAMP:20160922T161356
+CREATED:20150520T090927
+LAST-MODIFIED:20150520T090927
+UID:34366-1473958800-1473966000@http://www.betahaus.com/berlin
+SUMMARY:Betahaus Food Assembly's weekly collection
+DESCRIPTION:Every week you find great products direct from local quality farms.    1. Simply register as a member of the Betahaus Food Assembly on www.thefoodassembly.de. This is free and doesn't commit you to ordering the same produce each week.    2. Shop online. We've got organic vegetable and fruit\, meat\, eggs\, cheese\, honey\, jams\, cakes\, and much more to discover.    3. Collect your local produce every Thursday at The Betahaus in Kreuzberg between 5-7pm.    It's fairer\, better and (for a lot of people) closer than the local supermarket. Come and meet the producers and support local farms and craft.    We hope to see you soon!    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betahaus-food-assemblys-weekly-collection/2016-09-15/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/spring-party-picture.jpg
+ORGANIZER;CN=Violette Bonnebas:MAILTO:betahausassembly@gmail.com
+END:VEVENT
+END:VCALENDAR

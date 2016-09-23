@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161004T130000
+DTEND;VALUE=DATE-TIME:20161004T140000
+DTSTAMP:20160922T161349
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34545-1475586000-1475589600@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-10-04/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+END:VCALENDAR

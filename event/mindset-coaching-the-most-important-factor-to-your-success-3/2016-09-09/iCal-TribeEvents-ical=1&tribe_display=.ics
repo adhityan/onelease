@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160909T130000
+DTEND;VALUE=DATE-TIME:20160909T160000
+DTSTAMP:20160922T154259
+CREATED:20160829T125458
+LAST-MODIFIED:20160829T125458
+UID:35239-1473426000-1473436800@http://www.betahaus.com/berlin
+SUMMARY:Mindset Coaching – The most important factor to your success?
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30-45 mins) with experts from our community to our community.    Session Overview    When people think that they are stuck\, overwhelmed\, not making progress or simply failing\, they tend to blame it on the fact that they don't know how to do certain things.    But business success has been figured out and it has never been easier to learn from the most successful business people in relation to what to do in order to succeed. So why then do so many entrepreneurs struggle or fail in being successful (and happy)? Though success is a logical process\, it is executed by emotional beings. And that is where things can get messed up.    If your frame of mind is what's getting in between you and your success\, then I can help you. I can help you identify your limiting thoughts and perspectives and replace them with new and empowering ones that will help you achieve your goals.    More specifically\, I can enable you to:      become decisive and make powerful decisions    overcome procrastination    get out of feeling overwhelmed and into a clear headspace    massively reduce stress    become a more powerful manager and leader of people    move to the next level in your business    build the confidence to boldly start or launch your own business    Schedule a session with me now so I can help you upgrade your mind-set and so you can move your business to the next level.    Office Hours Holder    Robert is a self-employed Life &amp; Business Coach. Running his own business\, he has faced and handled many challenges and struggles entrepreneurs face first hand. He holds a university degree in Business Administration and specialized in entrepreneurship where in his final thesis he investigated on how significant emotional events influenced the propensity to start a business. He is all about self-improvement and the science of success and loves working with entrepreneurs and freelancers guiding them to tap into more of their infinite potential to share their gifts and passion with the world more successfully    Important Information      To secure your spot please register in advance by sending an email to robert@personal-coach.berlin. Once your booking is confirmed\, Robert will send your an "in-take form" to fill out prior to your session.    In your email please indicate which 45-minute time slot you would like on the day. Your preferred 45-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, go to reception and wait for Robert. The session will take place at reception.    Only one session (45 minutes) per person per month.    Please contact Robert via email (robert@personal-coach.berlin) as soon as you have made a reservation to confirm attendance and request "in-take form".    If you would like to book a session but either all slots are already taken or you aren’t able to make it at a prescribed time\, please write an email to robert@personal-coach.berlin and he will try and find a solution.  
+URL:http://www.betahaus.com/berlin/event/mindset-coaching-the-most-important-factor-to-your-success-3/2016-09-09/
+CATEGORIES:Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160112155556/Bewerbung_Warm_600.jpg
+END:VEVENT
+END:VCALENDAR

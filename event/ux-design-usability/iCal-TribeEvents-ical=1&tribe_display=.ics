@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161027T190000
+DTEND;VALUE=DATE-TIME:20161027T220000
+DTSTAMP:20160922T154030
+CREATED:20160916T104149
+LAST-MODIFIED:20160916T104513
+UID:35321-1477594800-1477605600@http://www.betahaus.com/berlin
+SUMMARY:UX Design &amp; Usability
+DESCRIPTION:Develop an interaction-rich experience  User experience design and usability are critical factors for all companies to develop sustainable customer relationships. Also\, as a rule of thumb\, you can say\, every 1 euro you invest in Usability and UX\, saves 10 euros in development and 100 euros after the initial product launch. These are only two facts\, why there is such a high demand of UX experts at the moment.  This UX design &amp; Usability course for beginners will teach you all the important basics from scratch about user centered design\, web and application design and usability testing. In each session\, we will explore the most relevant topics in theory and do practical exercises along an imaginary project that you later can use as a first example in your portfolio.  AFTER THE COURSE\, YOU WILL BE ABLE TO:        Create a design strategy for your own projects    Develop interview guidelines for user research and usability tests    Set up an information architecture for your next project    Transform your product ideas into scribbles and wireframes    Decide about appropriate ux and usability methods in your projects    Choose the right software and tools in each design step    Conduct a card sorting and usability test    Implement ux and usability practices into your design team    Present first examples of your ux and usability work in your portfolio    &nbsp;  SESSIONOVERVIEW   Session 1  In the first session\, we will get to know eachother and start diving into the basic foundations of UX Design. We will get familiar with VIMM analysis\, mental models and basic gestalt principles. You will also learn how to create a design strategy.  Session 2  In the second session\, you will learn basic knowledge about user centered design. After the theoretical part\, we will practice how to create personae\, conduct user interviews\, perform a task flow analysis and develop a roadmap for the project.  Session 3  In the third session\, we will get deeper into the topic of web and application design. You'll learn about navigation and get familiar with different navigation patterns. Afterwards you'll practice how to develop an own information architecture. You'll also learn about different software for UX Design and practice how to sketch and wireframe a digital product.  Session 4  In the last session of the course\, we will cover the topic of practical usability testing. After a theoretical introduction\, we will perform our own card sorting to test our information architecture\, develop interview guidelines for a usability test and perform our own little test in the group.  &nbsp;  INSTRUCTOR: NICOLE FUHR  Nicole Fuhr is an empathetic user experience designer with a behavioral science and marketing background and 7 years of experience in creating digital products and coworking with graphic designers\, developers and product managers.  She worked with several digital agencies\, startups and non-profit-organizations as a UX design lead and created awarded projects for brands like ZDF\, Pro Sieben\, UEFA Champions League\, L'Oréal Paris\, WWF\, Bosch and many more.  NEEDED  You don't need a computer or software to attend this course. Please bring some paper and pens for the exercises.  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/ux-design-usability/
+CATEGORIES:Art & Design,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160916104130/usability-.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

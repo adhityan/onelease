@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20151103T190000
+DTEND;VALUE=DATE-TIME:20151103T220000
+DTSTAMP:20160922T154839
+CREATED:20150908T124403
+LAST-MODIFIED:20151002T121605
+UID:32726-1446577200-1446588000@http://www.betahaus.com/berlin
+SUMMARY:Probiotic Soda Pop Workshop
+DESCRIPTION:Learn how to use yeasts in the air and starter cultures like water kefir grains or kombucha SCOBYs\, ginger beer\, and more. Participants will learn how to transform their favourite fruits and flavours into fizzy drinks and raw vinegars. Mix and match and take home a custom soda pop.    &nbsp;    ABOUT THE WORKSHOP:    In this interactive\, tasty and bubbling workshop\, participants will leave knowing their ‘kvass’ from ‘kefirs’\, how to brew ‘kombuch'a and beyond!    We will first cover the principles of wild fermentation\, how one can create their own ginger beer and use natural yeasts to inoculate other drinks to create naturally carbonated and healthy herbal sodas. We will then talk more about cultured fermentation\, such as water kefir\, milk kefir\, and kombucha.    Probiotic sodas and snacks are provided so that participants can find the taste that suits them best. Using your favourite taste\, we will be mixing and pouring and swirling our own soda pops to be taken home and continue the fermentation process.    The workshop is interactive\, informational and delicious. So come prepared with curious tastebuds and an open mind to the world of fermentation.    &nbsp;    THE WORKSHOP HOLDER:    The 25 year old Canadian Bacteria-Barista\, Alexis\, co-founded Edible Alchemy in Winnipeg\, Canada in 2013\, and after exploring more of the world of fermentation over many travels brought Edible Alchemy to Berlin in September 2014. The enthusiasm and desire to share about the wondrous world of fermentation has brought Edible Alchemy to classrooms\, festivals\, farmer’s markets\, rooftops\, studio spaces and on European and Canadian tours.    Working with fermentation is an accessible way to have a little laboratory in the kitchen\, which Alexis loves doing experiments and seeing people get really excited about taking back traditional food\, deskilling to create self-reliance.  MATERIALS:  All materials will be provided at the workshop.  WHERE AT BETAHAUS?  Once you arrive\, pass by the bar in the Cafe and you will find Open Design City in front of you!  ANY QUESTIONS?   Drop a line to education@betahaus.de  Please print your ticket and bring it to the workshop!  &nbsp;    &nbsp;
+URL:http://www.betahaus.com/berlin/event/probiotic-soda-pop-workshop/
+LOCATION:Prinzessinstraße 19-20, Berlin, berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/FERMENT.jpg
+END:VEVENT
+END:VCALENDAR

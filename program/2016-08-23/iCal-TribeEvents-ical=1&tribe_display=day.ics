@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160823T130000
+DTEND;VALUE=DATE-TIME:20160823T140000
+DTSTAMP:20160922T163030
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34224-1471957200-1471960800@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-08-23/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160823T180000
+DTEND;VALUE=DATE-TIME:20160823T210000
+DTSTAMP:20160922T163030
+CREATED:20160718T093144
+LAST-MODIFIED:20160718T093144
+UID:35042-1471975200-1471986000@http://www.betahaus.com/berlin
+SUMMARY:Weekly Woodworking
+DESCRIPTION:Every Tuesday evening\, we have “Woodworking” at betahaus! All the machines and tools in the woodshop are available to use… PLUS\, a woodworking professional will be in the workshop to help you with all your wonderful ideas. Join us!    Important things to know about woodworking sessions:    Before registering for a Woodworking Evening\, you MUST have taken “Working with Wood”      You have to REGISTER ONLINE for this event (obligatory)!    Your registration is only valid for the date you signed up for.    Registration options:      book single ticket 15eur    book a free ticket and use one of the Vouchers from Introduction to Woodshop    WHERE AT BETAHAUS?    Go inside and walk straight to the Open Design City (ODC)    QUESTIONS?    Drop us a line at academy@betahaus.de    Please print your ticket and bring it to the session In case you are using the Free option\, please bring the Voucher with you as well.    This course was created by betahaus I Academy. Check out the whole Program www.academy.betahaus.com
+URL:http://www.betahaus.com/berlin/event/weekly-woodworking-97/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160504093514/b3aed604-ec8b-43ca-aea0-8e3050a68e3b.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160823T190000
+DTEND;VALUE=DATE-TIME:20160823T220000
+DTSTAMP:20160922T163030
+CREATED:20160817T152622
+LAST-MODIFIED:20160817T153004
+UID:35206-1471978800-1471989600@http://www.betahaus.com/berlin
+SUMMARY:DNX - Digital Nomad &amp; Lifehacking Meetup
+DESCRIPTION:The global DNX movement connects and supports location independent entrepreneurs\, freelancers and lifehackers all around the globe  &gt; www.dnxglobal.com | www.dnxhub.com | www.dnxcamp.com    Felicia Hargarten &amp; Marcus Meurer started the movement and would love to invite you all for an unconventional meetup in the betahaus café.    JOIN US for free\, connect with like-minded people\, check out the newest Gear Virtual Reality glasses from Samsung.  We are in promising discussion with betaband that they will also perform at this event after their epic gig at the betahaus festival some weeks ago :)    &nbsp;    Register here: https://www.facebook.com/events/290207314705921/
+URL:http://www.betahaus.com/berlin/event/dnx-digital-nomad-lifehacking-meetup/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160817150658/13988227_1081636005235556_4527827075876387713_o.jpg
+ORGANIZER;CN=DNX:MAILTO:info@dnxglobal.com
+END:VEVENT
+END:VCALENDAR

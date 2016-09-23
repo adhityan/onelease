@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160818T093000
+DTEND;VALUE=DATE-TIME:20160818T110000
+DTSTAMP:20160922T163025
+CREATED:20160127T112054
+LAST-MODIFIED:20160816T141304
+UID:33954-1471512600-1471518000@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast with One Coworking, Plentie and Tell History
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. Every week we have different startups and interesting projects pitching. This week we have One Coworking App\, Plentie and Tell History presenting with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-34/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160818T170000
+DTEND;VALUE=DATE-TIME:20160818T190000
+DTSTAMP:20160922T163025
+CREATED:20150520T090927
+LAST-MODIFIED:20150520T090927
+UID:34167-1471539600-1471546800@http://www.betahaus.com/berlin
+SUMMARY:Betahaus Food Assembly's weekly collection
+DESCRIPTION:Every week you find great products direct from local quality farms.    1. Simply register as a member of the Betahaus Food Assembly on www.thefoodassembly.de. This is free and doesn't commit you to ordering the same produce each week.    2. Shop online. We've got organic vegetable and fruit\, meat\, eggs\, cheese\, honey\, jams\, cakes\, and much more to discover.    3. Collect your local produce every Thursday at The Betahaus in Kreuzberg between 5-7pm.    It's fairer\, better and (for a lot of people) closer than the local supermarket. Come and meet the producers and support local farms and craft.    We hope to see you soon!    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betahaus-food-assemblys-weekly-collection/2016-08-18/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/spring-party-picture.jpg
+ORGANIZER;CN=Violette Bonnebas:MAILTO:betahausassembly@gmail.com
+END:VEVENT
+END:VCALENDAR

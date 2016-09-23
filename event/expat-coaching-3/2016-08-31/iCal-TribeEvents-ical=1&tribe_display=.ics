@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160831T130000
+DTEND;VALUE=DATE-TIME:20160831T150000
+DTSTAMP:20160922T154224
+CREATED:20160615T090538
+LAST-MODIFIED:20160622T100354
+UID:34934-1472648400-1472655600@http://www.betahaus.com/berlin
+SUMMARY:Expat Coaching
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Events Description  Need to find a new flat asap?  Got a work permit application coming up?  Confused about how to start freelancing?  Not finding enough work?  Got a weird letter in the mail that says you owe money?  Trying to put your kids in school?  Expath can help!  Join our Office Hours for 1-on-1 coaching on your life in Berlin as an expat.  Bring us your questions and issues\, forms\, documents\, etc. and we'll help you find solutions\, outline an action plan\, write an email or make a phone call in German\, fill out your forms\, etc..  (Note: We can provide basic general information about work permits\, freelance taxes and invoicing and insurance\, but for official legal\, tax or insurance advice\, we will need to refer you on to a lawyer\, tax or insurance professional.) Not sure if we can cover your questions? Just email us the details of your situation and we'll let you know!  About Event Holder  Tia Robinson is the cofounder of Expath\, a German language school that also helps expats deal with life in Berlin.  She currently runs Expath's workshops 'Getting started in Berlin\,' 'Finding a job in Berlin\,' 'Finding a flat in Berlin' and 'How to become a freelancer in Berlin.'  Tia has over 15 years' experience in language teaching and school management\, HR and business operations.  Originally from Ohio\, USA\, Tia has worked as a freelancer\, employee and business operator in Berlin\, has permanent residency and is now working on German citizenship.   Important Information    For all betahaus members this Office Hours session is for free      To secure your spot please register in advance by sending an email to coaching@expath.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email coaching@expath.de.  
+URL:http://www.betahaus.com/berlin/event/expat-coaching-3/2016-08-31/
+CATEGORIES:Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160510144823/Tia2.jpg
+END:VEVENT
+END:VCALENDAR

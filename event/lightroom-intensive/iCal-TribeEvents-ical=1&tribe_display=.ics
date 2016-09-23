@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160816T173000
+DTEND;VALUE=DATE-TIME:20160816T213000
+DTSTAMP:20160922T163017
+CREATED:20160525T135651
+LAST-MODIFIED:20160711T101744
+UID:34807-1471368600-1471383000@http://www.betahaus.com/berlin
+SUMMARY:Lightroom Intensive
+DESCRIPTION:Create art with photography   Adobe Lightroom has been designed to integrate\, in one single program\, all the features involved in the photographer’s workflow. It’s powerful\, yet intuitive. Learn all you need to know to start editing\, organising and publishing your digital photos.  You’ll quickly learn how to make your photos shine\, how to manage your photo library so that you can quickly find what you are looking for and how to create a web page and a slideshow with them.  We will combine theoretical explanations with practical exercises using images provided by the instructor or your own ones\, if you prefer.  SESSION OVERVIEW   Session 1   After a quick introduction to see all the possibilities that Lightroom has to offer\, we will learn how to import photos to our library and how to apply some basic edition to them.    Session 2   Lightroom is extremely powerful when it comes to organising your images. Let’s make the most of it! And let’s also go deeper into its editing capabilities.    Session 3   In this session we will go into the advanced editing tools and the special effects in depth. Who said you take a picture when you release the shutter button? That’s only the beginning! Finally\, it’s time to close the circle. With all the processed material along the course we will generate a web page and a slideshow.  INSTRUCTOR: TOMÁS CORREA  Tomás has more than 15 years of experience as a photographer. His work has received awards in various prestigious contests and has been exhibited at different museums and galleries.  Having lived in many places in Europe: Canary Islands (where he was born)\, Madrid\, Paris\, London\, Amsterdam... he decided to settle down in Berlin\, a place he fell in love with back in 1994\, during a first visit that lasted some months.  For some years now\, Tomás has been involved in the educational field and developed a personal way of teaching\, highly rated by those who attend his workshops.  For a detailed biography visit http://www.tomascorrea.com/about/  CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/lightroom-intensive/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:Art & Design,DIY,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160525135601/tulip-1-1482659.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

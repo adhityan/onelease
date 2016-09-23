@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T162758
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

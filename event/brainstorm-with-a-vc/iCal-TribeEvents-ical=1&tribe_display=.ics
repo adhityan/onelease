@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161021T140000
+DTEND;VALUE=DATE-TIME:20161021T180000
+DTSTAMP:20160922T160646
+CREATED:20160915T102848
+LAST-MODIFIED:20160916T110430
+UID:35302-1477058400-1477072800@http://www.betahaus.com/berlin
+SUMMARY:Brainstorm with a VC!
+DESCRIPTION:This betahaus | Office Hours is an exclusive one-day only\, one-on-one free consultancy session (30 mins) with experts.    Events Description  Founders\, you are invited to apply for the Redstone Office Hours @ Betahaus Berlin on Friday October 21 starting at 2 PM. We are looking forward to discuss your most pressing questions in a one-on-one session!  About Event Holder  REDSTONE  Redstone Digital is a Berlin based venture capital management company investing in high opportunity targets on all financing stages. We manage diverse corporate and institutional investment funds.  JULIUS BACHMANN  Prior to joining Redstone Julius was an associate for angel syndicate flight.vc on US deals and later helped to set up the UK investment operations. He worked at German online insurance broker start-up Finanzchef24 in operations and business development and co-founded Startup Weekend Switzerland during his studies in St. Gallen\, Singapore and London. Julius started his career as a consultant with Ernst &amp; Young in Switzerland and is a passionate guitar player and mountaineer.  BASTIAN FAULHABER  Bastian holds university degrees in engineering and business from the Technical University of Munich and ESCP Europe. During his studies he gained international experience in New York\, London\, Paris and Munich as well as worked for Rocket Internet in Indonesia’s biggest eCommerce company. Bastian has always been involved in extracurricular engagement like working for a student consultancy in Germany and South Africa\, gaining experiences as a management consultant at PwC and being the co-founder of a social media company. He is an ambitious marathon runner and biker crossing the Alps already several times.  VIDEESHA KUNKULAGUNTA  Videesha has over a decade of work experience in the areas of business/product development\, sales\, finance and venture capital. Before moving to Berlin she worked as an Associate for London based Venture Capital fund PROfounders Capital. She has recently been awarded a Digital Policy Fellowship to investigate pressing policy or regulatory issues for the transatlantic digital economy by the German Marshall Fund of the United States a public policy think tank. Formerly she was an Entrepreneur in Residence for FTSE 250 Telco TalkTalk Plc working on strategic innovation and data driven customer relationship management. At the start of her career she worked as a Credit Analyst for Lehman Brothers and transitioned to a generalist Private Banking role with exposure to product and business development at Barclays Wealth in London and Singapore. Beside her work at Redstone Digital she is an avid traveler\, design enthusiast and angel investor  Important Information      To secure your spot please register in advance.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/brainstorm-with-a-vc/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160915102826/juliusBachmann.png
+END:VEVENT
+END:VCALENDAR

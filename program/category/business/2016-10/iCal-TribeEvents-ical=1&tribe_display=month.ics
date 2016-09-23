@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161105T100000
+DTEND;VALUE=DATE-TIME:20161105T180000
+DTSTAMP:20160922T160135
+CREATED:20160811T150858
+LAST-MODIFIED:20160919T150725
+UID:35183-1478340000-1478368800@http://www.betahaus.com/berlin
+SUMMARY:The Pitch Doctor
+DESCRIPTION:Public Speaking and Presenting  A (future) professional must be able to confidently present his or herself. A presentation succeeds because of content and the way you communicate. In this workshop we will look at your choice of words\, your posture and movement\, your appearance\, and the use of your voice.  It’s not about the right way\, but about your way of presenting. We start with your skills and teach you how to deploy them. To achieve this we work with exercises that are derived from theatre. This way you get a clear picture of how you come across and what suits you.  SESSION OVERVIEW:  In the first Part of the Workshop you will focus on the ability to grab audience attention and Storytelling skills. In the Second we will look at how to create a Pitch. Each contender will get feedback on their individual Pitch presentation. When it comes to working with empathy\, charisma and expression\, we apply theatrical methods. The theatrical exercises are taught in groups\, with a focus on the individual.  INSTRUCTOR: Bjørn de Wildt  Bjørn studied at the Fontys Academy for Theater in Tilbug (NL) and was named “Talent of the year 2008”. He is a socially critical theater maker that is concerned with the participatory role of the audience. At the moment Bjørn is artistic director of theater group PlayBack Berlin. Next to PlayBack Berlin he also works as a freelance theatre lecturer\, internship coordinator and career coach at various Dutch universities and conducts various amateur groups. As an actor he played several years in productions of playback NL and build up a lot of experience in working with different kind of audiences. As a presentation coach Bjørn works for Wooga\, AKQA and Freie Universität Berlin.  CERTIFICATE:   After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/present-yourself-3/
+LOCATION:prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160811150858/betapitch-global-Images-by-Heisenberg-Media-391.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161103T093000
+DTEND;VALUE=DATE-TIME:20161103T110000
+DTSTAMP:20160922T160135
+CREATED:20160127T133321
+LAST-MODIFIED:20160127T133321
+UID:33965-1478165400-1478170800@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. Every week we have different startups and interesting projects pitching.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-45/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161101T160000
+DTEND;VALUE=DATE-TIME:20161101T173000
+DTSTAMP:20160922T160135
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35132-1478016000-1478021400@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-11-01/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161101T183000
+DTEND;VALUE=DATE-TIME:20161101T213000
+DTSTAMP:20160922T160135
+CREATED:20160915T163902
+LAST-MODIFIED:20160915T163903
+UID:35319-1478025000-1478035800@http://www.betahaus.com/berlin
+SUMMARY:Wordpress Intermediate
+DESCRIPTION:Get more out of your website    This is an intermediate course to help you work directly on your website and integrate some upper skilled features and launch a Pro looking website.  During this course you will be directly working on your own product\, so you should have a domain already purchased and a basic framework of your future website built. The course is limited to only three participants\, in order to receive enough one-on-one mentoring by the WordPress expert.  You will be working on how to build some more complex features\, customizing themes and plugins/  Event thought this is an extension of WordPress users\, but you will learn tricks expanding beyond just using WordPress tool to build your website. Tricks with a short code or other services you can integrate will be presented as well.  AFTER THE COURSE\, YOU WILL BE ABLE TO:         Evaluate and check the compatibility of different plug ins    Install and maintain professional plug ins    Handle all the professional features of WordPress    Customize WordPress themes and see how can you build your own    Have a professional looking website    Are you a total beginner? Get first some grip with Wordpress during Build your Website course.    SESSION OVERVIEW     Session 1  In the first session we will quickly go through basics of WordPress\, a recap on refreshing your WordPress knowledge.    Session 2   Second session we already get down to business. You will receive guidance of installing the right theme directly to your domain. By this time\, you’ll need to have ready a mock-up of your site and an approximate idea of how it will look like.    Session 3   Going deeper in it. During this session you’ll conclude the preparation of the content of your site (Images\, texts\, videos\, etc.). Additional you will also touch base with UX and UI of your website and receive guidance on how to acquire valuable feedback.    Session 4   First stage of fine tuning is here - plug ins. You will be evaluating and testing with various plug ins to make sure they fit your website and they are all able to function without interference.    Session 5   Last two sessions are devoted to fine-tinning. You will be implementing the changes you acquired from the feedback\, working more on seamless flow of your website and installing advanced plug ins to make it truly professional looking. In this session you will be able to customize using CSS and PHP coding\, by the help of the mentor.    Session 6   During last session you will continue fine tuning from session 5 and implementing final touch to your website to make it ready to launch!    INSTRUCTOR: MAURICIO DISILVESTRO  Mauricio Disilvestro is a freelance web developer with 5 years of experience building WordPress sites for small companies\, agencies and online entrepreneurs. When he started learning web development\, he decided to focus his efforts on WordPress for its large flexibility\, documentation and solutions available. Passionate of coaching and teaching\, he loves to assist his clients and students in the process of developing their space on the web.    NEEDED   Please bring your laptop to all sessions.  CERTIFICATES  After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/wordpress-intermediate/
+CATEGORIES:Business,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160915163619/build-your-website-2.0-.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161027T093000
+DTEND;VALUE=DATE-TIME:20161027T110000
+DTSTAMP:20160922T160135
+CREATED:20160127T133140
+LAST-MODIFIED:20160127T133140
+UID:33964-1477560600-1477566000@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. Every week we have different startups and interesting projects pitching.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-44/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161027T150000
+DTEND;VALUE=DATE-TIME:20161027T163000
+DTSTAMP:20160922T160135
+CREATED:20160802T143518
+LAST-MODIFIED:20160802T143518
+UID:35126-1477580400-1477585800@http://www.betahaus.com/berlin
+SUMMARY:Communications - where to start?
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    Are you planning your communications activities but not sure where to start? Struggling with defining your brand or product for customers? Do you just want to sound-check some ideas? This Office Hours session (one-to-one consulting) can help.    About Event Holder    Jon\, lead and strategist at Us Berlin\, has over 7 years experience in communications\, including global product launches and brand creation. Co-ordinating the team of experts at Us Berlin\, in everything from copywriting and conception to web development and campaigns\, he can help you:      Simplify and define your messaging or position    Define audiences and relevant attributes to these    Prioritise channels of communication - what is the most efficient and useful    Push the boundaries of what is possible    Learn how to make your ideas happen    Important Information      To secure your spot please register in advance by sending an email to jon@usberlin.co. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait for Jon.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email jon@usberlin.co to let him know.  
+URL:http://www.betahaus.com/berlin/event/communications-where-to-start-10/2016-10-27/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/jon-sykesDSC_9166.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161026T150000
+DTEND;VALUE=DATE-TIME:20161026T170000
+DTSTAMP:20160922T160136
+CREATED:20160802T135101
+LAST-MODIFIED:20160802T135101
+UID:35116-1477494000-1477501200@http://www.betahaus.com/berlin
+SUMMARY:Managing Your People &amp; Culture
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description:    Truly engaged and motivated working people are the greatest competitive resource in every organization. A committed employee helps shape a great company culture and is a multiplier for every HR Business Strategy. This is the office hour (one-on-one session) with Bridgery.    Topics we cover:      Sustainable Recruiting    Employer Branding    HR Innovation Management    Talent &amp; Culture Management    Retention Strategy    About Event Holder    Bridgery focuses on empowering Managers &amp; HR Professionals to create people-centred innovation by engaging interdisciplinary teams and crafting sustainable HR solutions with innovative methods such as Design Thinking\, Positive Psychology\, OKR’s and Lean Management.    Important Information      To secure your spot please register in advance by sending an email to nina@bridgery.de . In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email nina@bridgery.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/managing-your-people-culture-23/2016-10-26/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/nina-buschle-bridgery.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161021T130000
+DTEND;VALUE=DATE-TIME:20161021T190000
+DTSTAMP:20160922T160136
+CREATED:20160919T121424
+LAST-MODIFIED:20160919T121425
+UID:35327-1477054800-1477076400@http://www.betahaus.com/berlin
+SUMMARY:Brand Booster
+DESCRIPTION:Supercharge your brand  If you are a busy entrepreneur\, startup or freelance professional\, chances are that brand building is not at the top of your list. The only time that your brand takes center stage is when you feel that you haven’t tapped into the full potential of branding and you know that something is holding you back.  This course will take you through well defined action-steps that can be easily implemented to boost your brand experience. You will be provided by Benno’s secret brand building formula so you can lead your business to much greater success. The BRAND BOOSTER! workshop is full of examples that will have you looking at your business in a whole new light.  The workshop is ideal for startups\, freelancers and entrepreneurs looking to build and grow their very own brand. A strong brand helps you to charge higher prices\, work with only the customers you want\, recruit highly motivated employees and create much more customer engagement.  Early Bird Ticket available until 10th of October for 90 euro.    SESSION OVERVIEW:  You will learn why a Brand is much more than a logo and why your logo still counts. We will start to create your a Brand Identity and you will soon realise why emotions count. Dig deeper with discovering your brand values\, learn what brand positioning is good for and what that damn USP is all about. You will define your target groups with creating personas\, create a compelling brand story and learn how to use branded content for your marketing. In the end we will dive into tips and ways to grow your brand even further with tools like offline events\, audio branding\, e-mail marketing and so much much more...  INSTRUCTOR: Benno Sawitzki  Benno Sawitzki is an expert in branding\, digital marketing and e-commerce. He runs his own marketing agency EFFEKTLABOR for more then ten years now and gives regular keynotes at events like the Entrepreneurship Summit\, Startup Camp or Music Tech Fest to name a few. He’s inspired by great design\, innovative business concepts and the latest trends in technology and marketing. Running several MeetUps in Berlin like the Masters of Marketing MeetUp or the Music Marketing Meetup he is always in touch with the core of Berlins creative entrepreneurs. Besides business he loves electronic music\, nature &amp; traveling and all kinds of freaky spiritual stuff.  CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/brand-booster-2/
+LOCATION:prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160919121350/branding-.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161021T140000
+DTEND;VALUE=DATE-TIME:20161021T180000
+DTSTAMP:20160922T160136
+CREATED:20160915T102848
+LAST-MODIFIED:20160916T110430
+UID:35302-1477058400-1477072800@http://www.betahaus.com/berlin
+SUMMARY:Brainstorm with a VC!
+DESCRIPTION:This betahaus | Office Hours is an exclusive one-day only\, one-on-one free consultancy session (30 mins) with experts.    Events Description  Founders\, you are invited to apply for the Redstone Office Hours @ Betahaus Berlin on Friday October 21 starting at 2 PM. We are looking forward to discuss your most pressing questions in a one-on-one session!  About Event Holder  REDSTONE  Redstone Digital is a Berlin based venture capital management company investing in high opportunity targets on all financing stages. We manage diverse corporate and institutional investment funds.  JULIUS BACHMANN  Prior to joining Redstone Julius was an associate for angel syndicate flight.vc on US deals and later helped to set up the UK investment operations. He worked at German online insurance broker start-up Finanzchef24 in operations and business development and co-founded Startup Weekend Switzerland during his studies in St. Gallen\, Singapore and London. Julius started his career as a consultant with Ernst &amp; Young in Switzerland and is a passionate guitar player and mountaineer.  BASTIAN FAULHABER  Bastian holds university degrees in engineering and business from the Technical University of Munich and ESCP Europe. During his studies he gained international experience in New York\, London\, Paris and Munich as well as worked for Rocket Internet in Indonesia’s biggest eCommerce company. Bastian has always been involved in extracurricular engagement like working for a student consultancy in Germany and South Africa\, gaining experiences as a management consultant at PwC and being the co-founder of a social media company. He is an ambitious marathon runner and biker crossing the Alps already several times.  VIDEESHA KUNKULAGUNTA  Videesha has over a decade of work experience in the areas of business/product development\, sales\, finance and venture capital. Before moving to Berlin she worked as an Associate for London based Venture Capital fund PROfounders Capital. She has recently been awarded a Digital Policy Fellowship to investigate pressing policy or regulatory issues for the transatlantic digital economy by the German Marshall Fund of the United States a public policy think tank. Formerly she was an Entrepreneur in Residence for FTSE 250 Telco TalkTalk Plc working on strategic innovation and data driven customer relationship management. At the start of her career she worked as a Credit Analyst for Lehman Brothers and transitioned to a generalist Private Banking role with exposure to product and business development at Barclays Wealth in London and Singapore. Beside her work at Redstone Digital she is an avid traveler\, design enthusiast and angel investor  Important Information      To secure your spot please register in advance.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/brainstorm-with-a-vc/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160915102826/juliusBachmann.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161020T093000
+DTEND;VALUE=DATE-TIME:20161020T110000
+DTSTAMP:20160922T160136
+CREATED:20160127T132954
+LAST-MODIFIED:20160919T150332
+UID:33963-1476955800-1476961200@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ Play-o-logy
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have Play-o-logy presenting with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-43/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161019T160000
+DTEND;VALUE=DATE-TIME:20161019T180000
+DTSTAMP:20160922T160136
+CREATED:20160802T141819
+LAST-MODIFIED:20160920T092630
+UID:35121-1476892800-1476900000@http://www.betahaus.com/berlin
+SUMMARY:Get Funding!
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    With these Office Hours (1 on 1 sessions) you will gain insights into the seed investors perspective and support on topics such as business modelling\, go 2 market approach\, target group structuring and on funding need/valuation etc.    About Event Holder (WestTech Ventures and Project Flying Elephant)    WestTech Ventures is a technology-oriented early-stage investor in Berlin. WestTech invests in startups in the pre-seed phase\, during founding and building of the company in the seed phase and continues to support the growth stage and the exit. The focus of WestTech is on topics such as: software\, software engineering\, B2B\, SaaS\, mobile services\, media\, media technology and education. eCommerce and Games projects are not in their focus. WestTech Ventures also has launched Project Flying Elephant\, a Deep Tech Incubator. The program supports strong tech teams with up to €50\,000 in funding as well mentoring\, workshops\, office space and various high-quality services.      Masoud Kamali\, is the CEO and Founder of WestTech and also the Founder of the S&amp;S Media Group. The group is a publisher of magazines\, books and online portals and as conference organizer for major technologies from Java and .NET to web development and mobile technologies. He studied computer science and philosophy in Frankfurt am Main and lived and worked in Singapore and Silicon Valley.    Alexander Kölpin is COO and Partner at WestTech Ventures. He is a co-founder of the Berlin Web Week\, co-founded and was the COO of the SeedVC German Startups Group Berlin AG. Prior to this he was e.g. management consultant at inubit AG (now Bosch Software Innovations) and Arthur Andersen. He holds postgraduate degrees in Economics\, European Studies and Sociology from Berlin\, Exeter (UK) and Krakow (PL).    Fabian Leipelt is the Business Analyst of WestTech and also the programm manager of the Project Flying Elephant. He studied Management at the University of Leipzig. During his studies he spent time abroad in Slovenia and Indonesia. His experience includes also working for Groupon in Australia and Germany.    Important Information:      To secure your spot please register in advance.     Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.  
+URL:http://www.betahaus.com/berlin/event/get-funding-21-2016-10-19/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160125145322/Foto_WestTech-Ventures.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161019T160000
+DTEND;VALUE=DATE-TIME:20161019T180000
+DTSTAMP:20160922T160136
+CREATED:20160802T142504
+LAST-MODIFIED:20160802T142504
+UID:35122-1476892800-1476900000@http://www.betahaus.com/berlin
+SUMMARY:Data science, machine learning &amp; AI
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    Big data is suddenly everywhere. Its applications seem to be limitless and its role in our lives is becoming increasingly important. However\, big data without data science is blind. In order to derive useful insights from data\, the power of machine learning needs to be unleashed. Only then may businesses benefit from new perspectives\, such as to understand their customers better or to monitor key processes in real-time. But is that really “the new oil”? How does it work? And what use is it to me and my business? In this Office Hours session (1-on-1)\, Paul helps you disentangle the world of data science\, machine learning\, and artificial intelligence\, and talks you through how that might apply to your project.    About Event Holder    Dr. Paul von Bünau is the managing director of idalab\, a Berlin-based analytics consulting boutique specialising in high-end mathematical modelling. He advises clients ranging from multinational banks and biotechnology companies\, to the digital sector and its innovative start-ups. He holds a Ph.D. in statistical data analysis from TU Berlin and an M.Sc. in pure mathematics from the University of St. Andrews.    Important Information      To secure your spot please register in advance by sending an email to serena.rota@idalab.de.    In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please prepare and come to the session with your own questions.    Once you arrive\, please go to reception and wait. The session will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email serena.rota@idalab.de.  
+URL:http://www.betahaus.com/berlin/event/data-science-machine-learning-ai-3/2016-10-19/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160324125734/DRVON.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161018T160000
+DTEND;VALUE=DATE-TIME:20161018T173000
+DTSTAMP:20160922T160136
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35131-1476806400-1476811800@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-10-18/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161014T110000
+DTEND;VALUE=DATE-TIME:20161014T160000
+DTSTAMP:20160922T160136
+CREATED:20160919T103117
+LAST-MODIFIED:20160919T103117
+UID:35324-1476442800-1476460800@http://www.betahaus.com/berlin
+SUMMARY:Internet of Things and connected hardware
+DESCRIPTION:This betahaus | Office Hours is an exclusive one-day only\, one-on-one free consultancy session (30 mins) with an expert.    Events Description  Matt has been working with connected hardware for a decade\, has developed IoT platforms and products\, advises hardware startups\, and now runs a new Internet of Things startup accelerator in London\, UK\, aimed at startups across Europe. This session is for startups that involve IoT and hardware\, to compare notes\, and to discuss the new accelerator.  About Event Holder  Matt is MD of R/GA IoT Venture Studio UK &lt;http://www.rgaiot.com&gt;. Matt was previously co-founder CEO of BERG\, the London design studio responsible for Little Printer\, an early (and cute!) connected gadget for the home. He is an advisor to two London-based hardware startups  Important Information      To secure your spot please register in advance by sending an email to matt@interconnected.org. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/internet-of-things-and-connected-hardware/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160919103035/Matt-Webb-Twitter-avatar-April-2016-small.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161013T093000
+DTEND;VALUE=DATE-TIME:20161013T110000
+DTSTAMP:20160922T160136
+CREATED:20160127T132557
+LAST-MODIFIED:20160909T093726
+UID:33962-1476351000-1476356400@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ ROOBAR
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have ROOBAR with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-42/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T150000
+DTEND;VALUE=DATE-TIME:20161012T170000
+DTSTAMP:20160922T160136
+CREATED:20160802T135101
+LAST-MODIFIED:20160802T135101
+UID:35115-1476284400-1476291600@http://www.betahaus.com/berlin
+SUMMARY:Managing Your People &amp; Culture
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description:    Truly engaged and motivated working people are the greatest competitive resource in every organization. A committed employee helps shape a great company culture and is a multiplier for every HR Business Strategy. This is the office hour (one-on-one session) with Bridgery.    Topics we cover:      Sustainable Recruiting    Employer Branding    HR Innovation Management    Talent &amp; Culture Management    Retention Strategy    About Event Holder    Bridgery focuses on empowering Managers &amp; HR Professionals to create people-centred innovation by engaging interdisciplinary teams and crafting sustainable HR solutions with innovative methods such as Design Thinking\, Positive Psychology\, OKR’s and Lean Management.    Important Information      To secure your spot please register in advance by sending an email to nina@bridgery.de . In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email nina@bridgery.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/managing-your-people-culture-23/2016-10-12/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/nina-buschle-bridgery.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161010T153000
+DTEND;VALUE=DATE-TIME:20161010T173000
+DTSTAMP:20160922T160136
+CREATED:20160802T150719
+LAST-MODIFIED:20160802T150719
+UID:35135-1476113400-1476120600@http://www.betahaus.com/berlin
+SUMMARY:Let's talk about your brand?
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description  You should take into consideration that the way you present yourself or your product is one of the key factors for your success and it is something that is often not taken seriously into consideration.    Google the word image and you will find:      a representation of the external form of a person or thing in art – Synonyms: likeness\, resemblance        a simile or metaphor    …and finally\,        the general impression that a person\, organization\, or product presents to the public – Synonyms:  public perception\, persona\, profile\, reputation\, stature\, standing; face    What is not in Google is our process. We use all these meanings of the word “image” to dive into your project and determine what are the main aspects to be transmitted to the public.    The 30 minutes free session will help you to find out these key values that needs to be synthesized. It will enable you to develop a design that can be understood by many.    Check some of our results here: http://www.nanana.me      About Event holder    Denis Alschul    Graduated in Media and Communication Science at the University of Passau-Germany\, concentrated his studies on the research of Sharing Economy. As Community Manager at AGORA COLLECTIVE\, became an expert in team building\, project management and short cuts finder for the execution of creative ideas. Also was invited as a speaker to lead a discussion about innovative forms of work at the Youth European Partnership Forum 2015\, in Riga/Latvia.    Luter Filho    With 12 years of experience in advertising agencies around Rio de Janeiro\, São Paulo\, Budapest and Berlin\, Luter is a heavy concept thinker with planner skills. Awarded internationally\, Luter also represented Brazil in the Young Lion Competition during the Cannes Lions Festival\, in 2010    Important Information    For all betahaus members this office hour is for free      To secure your spot please register in advance by sending an email to contact@nanana.me. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email contact@nanana.me to let them know.  
+URL:http://www.betahaus.com/berlin/event/lets-talk-about-your-brand-5/2016-10-10/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222133731/DenisLuter_Photo.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161010T153000
+DTEND;VALUE=DATE-TIME:20161010T173000
+DTSTAMP:20160922T160136
+CREATED:20160804T151618
+LAST-MODIFIED:20160804T151618
+UID:35148-1476113400-1476120600@http://www.betahaus.com/berlin
+SUMMARY:Insights into Tax and Accounting Matters
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    Besides pushing forward your business idea\, networking and all the other important things\, it is essential that your business meets the legal tax and accounting requirements. Your potential business partners\, investors and employees will keep a watchful eye on how you are positioned in these areas.    During this event you will get an overview of      relevant forms of German taxes and system of taxation    legal forms of companies from a tax perspective    accounting and tax requirements\, especially during the start-up phase    Furthermore\, there will be room for discussion of your specific issues to enable you to take the right next steps.  About Event Holder    This is one-on-one session with Henry Franz.    Henry is Certified Public Accountant and Tax Advisor with more than 10 years experience in the auditing\, tax and accounting field. He has provided consulting services for several successful start-ups with national and international background.    Important Information      This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception ask for Meeting Room 2. The event will take place there.    Only one session (30 minutes) per person per month.    To secure your spot please register in advance and send an email to henry.franz@hecht-kollegen.de and introduce yourself. If you have any questions please email henry.franz@hecht-kollegen.de    If you would like to cancel\, please have the courtesy to email henry.franz@hecht-kollegen.de to let him know.    Please print your ticket and bring it to the session!  
+URL:http://www.betahaus.com/berlin/event/insights-into-tax-and-accounting-matters-17/2016-10-10/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/Henry-Franz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161008T110000
+DTEND;VALUE=DATE-TIME:20161008T170000
+DTSTAMP:20160922T160136
+CREATED:20160823T135349
+LAST-MODIFIED:20160823T135349
+UID:35222-1475924400-1475946000@http://www.betahaus.com/berlin
+SUMMARY:Front End Code
+DESCRIPTION:Become a web developer in 5 weeks  Through this intensive 5-week course you will learn the building blocks of web design. You will cover all bases\, from coding sessions to design and user experience! Take the first steps to your career in web development.  This course is a focus on front end web development. You will learn the basics of HTML\, CSS and Javascript and by the end of the course you will be able to use these skills to build a responsive portfolio website.  EARLY BIRD AVAILABLE UNTIL 15th OF SEPTEMBER   After the course\, you will be able to        Build a one page website    Code with HTML\, CSS and Javascript    Select and integrate different image formats    Upload your website to a live serverUse basic UX and UI principles    Understand the design to development workflow    Test your website on different browsers and devices      SESSION 1  In this session you’ll get to know your tutor and classmates and get straight into coding. You’ll install common web development tools and use them to create your very first website. By the end of the session you’ll be able to create a short profile of yourself with text\, colours and images. You’ll also learn how to upload your website to a server via FTP.  SESSION 2  In this session you'll learn how to use cascading style sheets (CSS) to control the layout and design of web pages. We'll cover positioning elements on the page\, web fonts\, colours\, gradients and more\, and then put it all together to create a responsive portfolio page.  SESSION 3  In this session we take a break from coding and look at the design workflow for front end development. We’ll cover approaches to designing for the responsive web\, web typography\, accessibility\, and user interface design (UI). In the second half of the session\, you’ll have a chance to practice designing for the web by making style tiles and wireframe layouts.  SESSION 4  In this session we’ll add animations and interactivity to our web pages with Javascript. You’ll learn about variables\, functions and control statements\, and use them to write simple Javascript programs. We’ll also take a look at the popular jQuery library. At the end of the day you’ll be building an image slider and a slide out menu.  SESSION 5  In our final session we will cover the use of professional development frameworks. You'll learn how to rapidly prototype a website with Bootstrap and about the role of CSS pre-compilers and Javascript libraries. Depending on class demand\, we'll also look at more sophisticated HTML elements including audio\, video and forms. Finally\, you'll learn how to test your website in a range of browsers and devices so you can be confident sharing it with the world. By now\, you'll be able to combine your new skills to create a multi-page website with a navigation menu\, image slider and more.  INSTRUCTOR: Melanie Thewlis  Melanie Thewlis is an Australian web developer living in Berlin. As co-founder of Little Web Giants\, an online marketing and web development agency\, she has worked with businesses and non-profit organisations on four continents. She's worked as lead developer on a diverse range of web projects\, from fashion\, media and environmental startups to data visualizations of climate change and gentrification.  REQUIREMENTS:  Please bring your laptop to every session.  CERTIFICATE:   After completing this course you will only receive a certificate from betahaus | Academy.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/front-end-code-4/
+CATEGORIES:Business,Technology,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160527120814/man-person-apple-iphone-large1.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161007T190000
+DTEND;VALUE=DATE-TIME:20161007T220000
+DTSTAMP:20160922T160136
+CREATED:20160825T164918
+LAST-MODIFIED:20160913T121206
+UID:35226-1475866800-1475877600@http://www.betahaus.com/berlin
+SUMMARY:Easy Marketing
+DESCRIPTION:Craft a story that sells   Every business has a story to tell\, but not all stories were story well. Whenever you are pitching yourself\, you are telling a story. Based on how you tell the story\, your success varies. Why? Because a good story is the backbone of word-of-mouth marketing. This course will teach you through step-by-step process on how to master good storytellingfor business. Once you accomplish it\, you can easily reuse the storytelling skills and apply it to every aspect of your business or personal life.  EARLY BIRD AVAILABLE UNTIL 15th OF SEPTEMBER  &nbsp;  After this workshop\, you will be able to:        Tell your story efficiently    Look at your business in a completely new way    Learn to connect with their market and entice buyers in a new way    Approach your marketing / communication efforts afresh and with a consistent perspective and story approach    Create a unique personality of your business    Draw in the right buyers    Use business storytelling profitably for your business (even if it’s a new business)    SESSION OVERVIEW   Session 1   We will kick off the workshop with an introduction to storytelling\, understanding the root-concept and talk about how storytelling can be a game-changer for your business. After we learned the real meaning of storytelling we will take a look into important elements which build an effective story.    Session 2   During the second session it’s time to work on your own story while connecting it to your audience. Afterwards you will learn to structures and finalize your business story. We end up the course by presenting our story to each other and get some real-time feedback. The whole workshop well be very interactive and based on practical exercises.    INSTRUCTOR: Reema Singhal  Reema Singhal earns her bread\, butter and all the happiness in the world by helping small businesses in spreading their ideas. She works tirelessly by crafting businesses’ pitch\, story &amp; delivery in an exciting and communicative way. She has a background in International Marketing and content\, and currently works independently in Berlin. Some of her ideas and advice are reflected in her blog.  Additional Info:  Lunch menu is included in the price and will be provided on every session.  Certificates:  After completing the course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/easy-marketing/
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160825164918/presentting-1.png
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161006T040000
+DTEND;VALUE=DATE-TIME:20161006T180000
+DTSTAMP:20160922T160136
+CREATED:20160530T132526
+LAST-MODIFIED:20160622T090257
+UID:34898-1475726400-1475776800@http://www.betahaus.com/berlin
+SUMMARY:Crowdfunding Startnext
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (20 mins) with experts from our community to our community.    Event Description    This Office Hours (1 on 1 sessions) will give you insights into crowdfunding\, an innovate model to finance ideas\, projects and startups with the support of many people.    During the Crowdfunding office hour the team from Startnext offers direct counselling for project starters who are interested in financing their project via Crowdfunding. We take the time to guide you individually through the most important steps of building and performing a campaign and are happy to share insights into success as well as communication strategies.    Ask us how to design your pitch video\, images\, project description and rewards to present your idea as convincing as possible.    Your questions will be answered by our Crowdfunding expert Markus Streichardt who counsels project starters on a daily basis at Startnext.    Startnext is the leading Crowdfunding Community in the German speaking area. Situated in the heart of Berlin we are a platform for artists\, creative people\, inventors and entrepreneurs and offer a very high success rate for our project starters.    We are excited to getting to know you and hearing more about your project\, idea or startup.    Important Information      Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place there.    Only one session (20 minutes) per person per month.    Please book your time slot here: www.calendly.com/startnext-betahaus      If you would like to cancel\, please have the courtesy to let Startnext now. You’ll find the contact in your Calendly confirmation e-mail    
+URL:http://www.betahaus.com/berlin/event/crowdfunding-startnext-18/2016-10-06/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160530132526/Startnext-Markus_Streichardt_web.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161006T093000
+DTEND;VALUE=DATE-TIME:20161006T110000
+DTSTAMP:20160922T160136
+CREATED:20160127T113815
+LAST-MODIFIED:20160914T131412
+UID:33961-1475746200-1475751600@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ MGH, TravelersBox and Circuit
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week\, we have MGH\, TravelersBox and Circuit presenting with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-41/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161006T190000
+DTEND;VALUE=DATE-TIME:20161006T213000
+DTSTAMP:20160922T160136
+CREATED:20160914T135252
+LAST-MODIFIED:20160914T135252
+UID:35266-1475780400-1475789400@http://www.betahaus.com/berlin
+SUMMARY:Aging2.0 presents: Living With Dementia: Supportive Products&amp;Services
+DESCRIPTION:Let us get together to talk about how to support those with dementia as well as their relatives\, caregivers and friends. What products&amp;services are already out there or still needed?    We invite (startup) companies\, social associations and unions of any kind to talk about their supportive products and their ideas on this topic. We also warmly invite you to come to this meetup to either just share your personal experiences and give your input\, or to just listen and to let the group know your dementia-sensitive or age-related questions. We are looking forward to meeting you! Let us make this another inspiring and solution-oriented meetup.
+URL:http://www.betahaus.com/berlin/event/aging2-0-presents-living-with-dementia-supportive-productsservices/
+CATEGORIES:Business,Community,Technology
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160905170213/aging2.0-2.png
+ORGANIZER;CN=Carolin Makus:MAILTO:info@carolinmakus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161004T160000
+DTEND;VALUE=DATE-TIME:20161004T173000
+DTSTAMP:20160922T160136
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35130-1475596800-1475602200@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-10-04/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160930T110000
+DTEND;VALUE=DATE-TIME:20160930T130000
+DTSTAMP:20160922T160136
+CREATED:20160921T162819
+LAST-MODIFIED:20160921T171504
+UID:35334-1475233200-1475240400@http://www.betahaus.com/berlin
+SUMMARY:Pimp my sales funnels
+DESCRIPTION:This betahaus | Office Hours is an exclusive two-day only\, one-on-one free consultancy session (30 mins) with experts.    Events Description  The digital age makes it possible for start-ups to achieve break even and grow sales very fast. This could make the next financial round needless for these companies - with the correct sales channels with a high ROI and profits.  Nescho and Janina will help you to find the right marketing to push the sales and to develop sales channels with a high ROI and profits. They will show you how to build smart sales funnels\, optimize your value ladder and earn more from new and existing clients.   About Event Holder  Nescho and Janina are digital sales experts and passionate entrepreneurs. They have more than a decade of experience in creating go-to-market strategies\, sales campaigns and sales funnels.  They know how to promote product launches\, how to drive community engagement\, and how to turn offline efforts into an online result that creates sales. And there’s more.  The clients of Top Ideas .digital (www.topideas.digital) range from Fortune 500 companies to small and booming businesses with excellent ideas\, products and proofs of concept. Their strength is planning\, creating and executing campaigns on a national and international level in the core European markets.  Important Information      To secure your spot please register in advance by sending an email to nescho.topalov@topideas.digital    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/pimp-my-sales-funnels-2/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160921162157/Nescho_Janina_TopIdeas.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160929T093000
+DTEND;VALUE=DATE-TIME:20160929T110000
+DTSTAMP:20160922T160136
+CREATED:20160127T113458
+LAST-MODIFIED:20160921T163009
+UID:33960-1475141400-1475146800@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast with Little Web Giants, Luminami and Top Ideas
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!    Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have Little Web Giants\, Luminami and Top Ideas presenting with us.    Looking forward to seeing you! If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-40/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160929T140000
+DTEND;VALUE=DATE-TIME:20160929T160000
+DTSTAMP:20160922T160136
+CREATED:20160921T162757
+LAST-MODIFIED:20160921T171458
+UID:35333-1475157600-1475164800@http://www.betahaus.com/berlin
+SUMMARY:Pimp my sales funnels
+DESCRIPTION:This betahaus | Office Hours is an exclusive two-day only\, one-on-one free consultancy session (30 mins) with experts.    Events Description  The digital age makes it possible for start-ups to achieve break even and grow sales very fast. This could make the next financial round needless for these companies - with the correct sales channels with a high ROI and profits.  Nescho and Janina will help you to find the right marketing to push the sales and to develop sales channels with a high ROI and profits. They will show you how to build smart sales funnels\, optimize your value ladder and earn more from new and existing clients.   About Event Holder  Nescho and Janina are digital sales experts and passionate entrepreneurs. They have more than a decade of experience in creating go-to-market strategies\, sales campaigns and sales funnels.  They know how to promote product launches\, how to drive community engagement\, and how to turn offline efforts into an online result that creates sales. And there’s more.  The clients of Top Ideas .digital (www.topideas.digital) range from Fortune 500 companies to small and booming businesses with excellent ideas\, products and proofs of concept. Their strength is planning\, creating and executing campaigns on a national and international level in the core European markets.  Important Information      To secure your spot please register in advance by sending an email to nescho.topalov@topideas.digital    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/pimp-my-sales-funnels/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160921162157/Nescho_Janina_TopIdeas.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160929T190000
+DTEND;VALUE=DATE-TIME:20160929T220000
+DTSTAMP:20160922T160136
+CREATED:20160825T165231
+LAST-MODIFIED:20160919T150556
+UID:35229-1475175600-1475186400@http://www.betahaus.com/berlin
+SUMMARY:3 Ways of Pitching
+DESCRIPTION:A 360° Workshop on Pitching   When you pitch you have a minute amount of time to make a good first impression so that your audience feels confident in what you have to say. You want to shine when speaking to them and make them connect with your product immediately!  Your body language tells a lot\, but the crucial part of a successful pitch is what you have to say\, the structure and personification of your story. In this 6-hour workshop you will learn how to write your pitch according to your audience. Win that first impression and take your business to skyrocketing heights.  You will work thoroughly on ways to pitch your idea to potential customers\, investors\, sponsors\, media\, supporters etc. You will gain in-depth understanding on how the concept of your idea needs to be tailored to your audience’s life. Learn to carefully place your idea in people’s minds without using the standard sales pitch.  This is perfect for startups\, small businesses and marketing &amp; sales professionals.  SESSION OVERVIEW:  During the session you will be working hands-on on developing your pitch and adapting the concept. Through analysing examples you will learn how to win attention and respect within 30 seconds. By the end of the workshop you will obtain a practical step-by-step method to generate your pitch and have a prepared pitch for your individual business situation\, to be used online as well as offline.  INSTRUCTOR: Reema Singhal  Reema Singhal earns her bread\, butter and all the happiness in the world by helping small businesses in spreading their ideas. She works tirelessly by crafting businesses’ pitch\, story &amp; delivery in an exciting and communicative way. She has a background in International Marketing and content\, and currently works independently in Berlin. Some of her ideas and advice are reflected in her blog  CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/3-ways-of-pitching/
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160825165231/IMG_23802.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160928T160000
+DTEND;VALUE=DATE-TIME:20160928T180000
+DTSTAMP:20160922T160136
+CREATED:20160802T141819
+LAST-MODIFIED:20160920T092640
+UID:35120-1475078400-1475085600@http://www.betahaus.com/berlin
+SUMMARY:Get Funding!
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    With these Office Hours (1 on 1 sessions) you will gain insights into the seed investors perspective and support on topics such as business modelling\, go 2 market approach\, target group structuring and on funding need/valuation etc.    About Event Holder (WestTech Ventures and Project Flying Elephant)    WestTech Ventures is a technology-oriented early-stage investor in Berlin. WestTech invests in startups in the pre-seed phase\, during founding and building of the company in the seed phase and continues to support the growth stage and the exit. The focus of WestTech is on topics such as: software\, software engineering\, B2B\, SaaS\, mobile services\, media\, media technology and education. eCommerce and Games projects are not in their focus. WestTech Ventures also has launched Project Flying Elephant\, a Deep Tech Incubator. The program supports strong tech teams with up to €50\,000 in funding as well mentoring\, workshops\, office space and various high-quality services.      Masoud Kamali\, is the CEO and Founder of WestTech and also the Founder of the S&amp;S Media Group. The group is a publisher of magazines\, books and online portals and as conference organizer for major technologies from Java and .NET to web development and mobile technologies. He studied computer science and philosophy in Frankfurt am Main and lived and worked in Singapore and Silicon Valley.    Alexander Kölpin is COO and Partner at WestTech Ventures. He is a co-founder of the Berlin Web Week\, co-founded and was the COO of the SeedVC German Startups Group Berlin AG. Prior to this he was e.g. management consultant at inubit AG (now Bosch Software Innovations) and Arthur Andersen. He holds postgraduate degrees in Economics\, European Studies and Sociology from Berlin\, Exeter (UK) and Krakow (PL).    Fabian Leipelt is the Business Analyst of WestTech and also the programm manager of the Project Flying Elephant. He studied Management at the University of Leipzig. During his studies he spent time abroad in Slovenia and Indonesia. His experience includes also working for Groupon in Australia and Germany.    Important Information:      To secure your spot please register in advance.     Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.  
+URL:http://www.betahaus.com/berlin/event/get-funding-21/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160125145322/Foto_WestTech-Ventures.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160928T190000
+DTEND;VALUE=DATE-TIME:20160928T220000
+DTSTAMP:20160922T160136
+CREATED:20160914T135126
+LAST-MODIFIED:20160914T135126
+UID:35269-1475089200-1475100000@http://www.betahaus.com/berlin
+SUMMARY:CO-FOUND BERLIN
+DESCRIPTION:What a Summer Event to Remember!! :)    Since our inception\, We've committed ourselves to creating an organic and inspiring environment for You to Connect\, Network\, Share and Co-Found!    We're excited to continue in our efforts and look forward to seeing You all again Very soon...
+URL:http://www.betahaus.com/berlin/event/co-found-berlin-4/
+CATEGORIES:Art & Design,Business,Community,hardwareco lab,Technology
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160907083748/Bildschirmfoto-2016-01-09-um-19.10.141.png
+ORGANIZER;CN=Michael L. Usher / CLYC:MAILTO:info@justclyc.com 
+END:VEVENT
+END:VCALENDAR

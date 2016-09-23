@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T090000
+DTEND;VALUE=DATE-TIME:20160908T170000
+DTSTAMP:20160922T154250
+CREATED:20160722T110937
+LAST-MODIFIED:20160722T110937
+UID:35037-1473325200-1473354000@http://www.betahaus.com/berlin
+SUMMARY:AUGENHÖHECamp Berlin 2016
+DESCRIPTION:Alle sprechen von der neuen Arbeitswelt. Die Filme AUGENHÖHE und AUGENHÖHEwege bieten viel Inspiration dazu. Für alle\, die tiefer einsteigen wollen\, gibt es AUGENHÖHEcamps – nun auch zum ersten Mal in Berlin!    AUGENHÖHEcamp: Das Barcamp für Organisationsentwicklung    Wie kann man eine Arbeitswelt auf Augenhöhe gestalten\, was konkret tun? Das AUGENHÖHEcamp bietet eine Plattform für Unternehmer\, Führungskräfte und Personaler\, die sich dazu austauschen und voneinander lernen möchten. Das AUGENHÖHEcamp lädt dazu ein\, eigene Erfahrungen weiter zu geben\, zu inspirieren und sich inspirieren zu lassen\, vom jungen Personaler bis zum gestandenen Geschäftsführer – auf Augenhöhe.    Organisation begegnet Mensch
+URL:http://www.betahaus.com/berlin/event/augenhohecamp-berlin-2016/
+CATEGORIES:Business
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160717162118/ahcbln2016.jpg
+ORGANIZER;CN=AUGENHÖHECamp Berlin-Team:MAILTO:berlin@augenhoehe-camp.de
+END:VEVENT
+END:VCALENDAR

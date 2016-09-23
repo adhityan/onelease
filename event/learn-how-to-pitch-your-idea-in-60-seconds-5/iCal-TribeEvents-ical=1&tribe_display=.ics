@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20151103T190000
+DTEND;VALUE=DATE-TIME:20151103T220000
+DTSTAMP:20160922T164237
+CREATED:20151015T151243
+LAST-MODIFIED:20151015T151243
+UID:33195-1446577200-1446588000@http://www.betahaus.com/berlin
+SUMMARY:Learn how to pitch your idea in 60 seconds!
+DESCRIPTION:All right\, so you have an awesome idea or concept that you want to pitch?    We at Funk-e Animations know what this is like. And\, lucky for you\, we like to share our knowledge. That why we host this monthly workshop called Pitch-e.    During this free 3hr workshop you’ll learn how to write your own 60-second elevator pitch\, how to simplify your story\, structure it clearly and get to the core of why your idea or product rocks.    So\, what’s your idea? Who would benefit from it? Who do you need to convince?    The program for this evening:    19.00 - 19.15 Doors open for everyone that wants to improve their story.    19.15 We’ll kick off with a presentation on storytelling\, which includes a lot of tips &amp; tricks.    19.45 Now it’s time to start writing! We will be there to answer all questions you may have.    20.30 When all stories are written it is time to pitch your story on the stage.    The pitches are recorded\, and afterwards you’ll receive a link to your personal video so you can watch your pitch again. Or show off your awesomeness to all your family\, friends or colleagues!    Join Pitch-e and turn your story around: Don’t confuse them\, convince them. (And have free beer while you’re at it!)    Check out: http://pitch-e.nl/en/    Because at our last meetups we had a lot of trouble with people RSVPing but not showing up\, and as we want to give all participants quality time: from november on we will charge 5 Euro for the event (and provide beers for it ;) )    Please buy your ticket via this link on eventbrite: https://www.eventbrite.de/e/learn-how-to-pitch-your-idea-in-60-seconds-tickets-19078055979
+URL:http://www.betahaus.com/berlin/event/learn-how-to-pitch-your-idea-in-60-seconds-5/
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/,Community
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/banner_communication-media-670x502-670x502.png
+ORGANIZER;CN=Funk-e Animations:MAILTO:info@funk-e.net
+END:VEVENT
+END:VCALENDAR

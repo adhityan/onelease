@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160908T190000
+DTEND;VALUE=DATE-TIME:20160908T220000
+DTSTAMP:20160922T154255
+CREATED:20160726T122209
+LAST-MODIFIED:20160726T122210
+UID:35075-1473361200-1473372000@http://www.betahaus.com/berlin
+SUMMARY:Vegan Cheese
+DESCRIPTION:Discover new tastes     Nuts\, beans and seeds are a protein-rich\, nutritious and affordable part of vegan (or not) diet. Learn the secrets behind making these foods into 'cheeses'\, dips and spreads that are easy to digest and packed with flavour.  In an anti-bacterial age\, fermentation is quickly becoming a lost art. We are here to reclaim it as an energy efficient food-preservation technique which is rooted in our cultural histories. We are captivated and inspired by the way fermented foods engage our senses and enhance whole food eating.  ABOUT THE WORKSHOP   The workshop will be interactive and informative. Through taste\, touch\, sight\, smell and discussion you will explore the fascinating microbiological processes that turns nuts\, beans and seeds into probiotic condiments. Each participant will have the chance to sample and join in discussions about the benefits of fermented foods. We will explore our individual taste preferences and then delve into the do-it-yourself seed cheese making station so everyone can go home with their very own creation.      INSTRUCTOR: ALEXIS GOERTZ  The 25 year old Canadian Bacteria-Barista\, Alexis\, co-founded Edible Alchemy in Winnipeg\, Canada in 2013\, and after exploring more of the world of fermentation over many travels brought Edible Alchemy to Berlin in September 2014. The enthusiasm and desire to share about the wondrous world of fermentation has brought Edible Alchemy to classrooms\, festivals\, farmer’s markets\, rooftops\, studio spaces and on European and Canadian tours. Working with fermentation is an accessible way to have a little laboratory in the kitchen\, which Alexis loves doing experiments and seeing people get really excited about taking back traditional food\, deskilling to create self-reliance.  MATERIALS:  All the materials will be provided at the workshop.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/vegan-cheese-2/
+CATEGORIES:DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160726122139/vegan-cheese-21.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

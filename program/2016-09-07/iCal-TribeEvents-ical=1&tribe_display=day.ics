@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160907T110000
+DTEND;VALUE=DATE-TIME:20160907T130000
+DTSTAMP:20160922T154249
+CREATED:20160218T142531
+LAST-MODIFIED:20160622T092337
+UID:34159-1473246000-1473253200@http://www.betahaus.com/berlin
+SUMMARY:Patents – Protection and Monetization of Technical Inventions
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    If you work on a technical project\, you might be able to protect its results by filing a patent application. There is also a good chance that other peoples’ patents will have an impact on what you do.    A single patent\, if you own it\, may turn a half-baked idea into an investment opportunity. A single patent may also sink three years of hard work\, if someone else owns it. Investors tend to take intellectual property – “IP”\, of which patents are the most important example - extremely seriously. Billions are exchanged every year in IP-driven transactions.    In this office hour (1 on 1 session) we will listen to your plans and problems\, and point out what IP issues are most likely to matter to your business. Where possible\, we will help you to find solutions.    Key topics we often consult on are:      Can I protect my invention? How much does that cost?    Does it make sense to file a patent in my situation?    How do I know what other patents are out there?    What do I need to do if I want to license a patent? How is this done?    About Event Holder    We are patent attorneys with degrees in different technical fields\, from engineering to chemistry. In order to select the right attorney for your field\, please send us a short description of your topic of interest within IP (to: office@mittepatent.de\, subject: betahaus office hours). Anything you tell us will be kept completely confidential.      Knut Seliger is a mechanical engineer\, with a focus on automotive and hardware engineering.    Ben Jesko Schulz is a physicist\, with considerable experience in IT-based inventions\, hardware and physics.    Claas Junghans is a chemist (and serial entrepreneur) with a focus on the strategic aspects of start-up IP work.    Important Information      Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please ensure you come prepared with your own questions.    Once you arrive\, please go to reception.    Only one session (30 minutes) per person per Office Hours day.    To secure your spot please register in advance and send an email to office@mittepatent.de to introduce yourself and explain your topic of interest in order for the right attorney to be allocated to you    If you would like to cancel\, please have the courtesy to email office@mittepatent.de to let them know.    Please print your ticket and bring it to the session!  
+URL:http://www.betahaus.com/berlin/event/patents-protection-and-monetization-of-technical-inventions-9/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/jesko.png
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161027T150000
+DTEND;VALUE=DATE-TIME:20161027T163000
+DTSTAMP:20160922T161138
+CREATED:20160802T143518
+LAST-MODIFIED:20160802T143518
+UID:35126-1477580400-1477585800@http://www.betahaus.com/berlin
+SUMMARY:Communications - where to start?
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    Are you planning your communications activities but not sure where to start? Struggling with defining your brand or product for customers? Do you just want to sound-check some ideas? This Office Hours session (one-to-one consulting) can help.    About Event Holder    Jon\, lead and strategist at Us Berlin\, has over 7 years experience in communications\, including global product launches and brand creation. Co-ordinating the team of experts at Us Berlin\, in everything from copywriting and conception to web development and campaigns\, he can help you:      Simplify and define your messaging or position    Define audiences and relevant attributes to these    Prioritise channels of communication - what is the most efficient and useful    Push the boundaries of what is possible    Learn how to make your ideas happen    Important Information      To secure your spot please register in advance by sending an email to jon@usberlin.co. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait for Jon.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email jon@usberlin.co to let him know.  
+URL:http://www.betahaus.com/berlin/event/communications-where-to-start-10/2016-10-27/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/jon-sykesDSC_9166.jpg
+END:VEVENT
+END:VCALENDAR

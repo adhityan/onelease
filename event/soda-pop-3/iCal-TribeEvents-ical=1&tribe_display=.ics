@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161006T190000
+DTEND;VALUE=DATE-TIME:20161006T220000
+DTSTAMP:20160922T153719
+CREATED:20160725T150034
+LAST-MODIFIED:20160915T164418
+UID:35071-1475780400-1475791200@http://www.betahaus.com/berlin
+SUMMARY:Soda Pop
+DESCRIPTION:Beats Coke  Learn how to use yeasts in the air and starter cultures like water kefir grains or kombucha SCOBYs\, ginger beer\, and more. Participants will learn how to transform their favourite fruits and flavours into fizzy drinks and raw vinegars. Mix and match and take home a custom soda pop.  ABOUT THE WORKSHOP:  In this interactive\, tasty and bubbling workshop\, participants will leave knowing their ‘kvass’ from ‘kefirs’\, how to brew ‘kombuch’a and beyond!  The workshop is interactive\, informational and delicious. So come prepared with curious tastebuds and an open mind to the world of fermentation.  SESSION OVERVIEW:  We will first cover the principles of wild fermentation\, how one can create their own ginger beer and use natural yeasts to inoculate other drinks to create naturally carbonated and healthy herbal sodas. We will then talk more about cultured fermentation\, such as water kefir\, milk kefir\, and kombucha. Probiotic sodas and snacks are provided so that participants can find the taste that suits them best. Using your favourite taste\, we will be mixing and pouring and swirling our own soda pops to be taken home and continue the fermentation process.  INSTRUCTOR: ALEXIS GOERTZ  The 25 year old Canadian Bacteria-Barista\, Alexis\, co-founded Edible Alchemy in Winnipeg\, Canada in 2013\, and after exploring more of the world of fermentation over many travels brought Edible Alchemy to Berlin in September 2014. The enthusiasm and desire to share about the wondrous world of fermentation has brought Edible Alchemy to classrooms\, festivals\, farmer’s markets\, rooftops\, studio spaces and on European and Canadian tours. Working with fermentation is an accessible way to have a little laboratory in the kitchen\, which Alexis loves doing experiments and seeing people get really excited about taking back traditional food\, deskilling to create self-reliance.  MATERIALS:  All the materials will be provided at the workshop.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/soda-pop-3/
+CATEGORIES:DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725145937/Alexis-Goertz.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

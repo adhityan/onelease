@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160808T153000
+DTEND;VALUE=DATE-TIME:20160808T173000
+DTSTAMP:20160922T162958
+CREATED:20160509T115959
+LAST-MODIFIED:20160622T090923
+UID:34703-1470670200-1470677400@http://www.betahaus.com/berlin
+SUMMARY:Insights into Tax and Accounting Matters
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    Besides pushing forward your business idea\, networking and all the other important things\, it is essential that your business meets the legal tax and accounting requirements. Your potential business partners\, investors and employees will keep a watchful eye on how you are positioned in these areas.    During this event you will get an overview of      relevant forms of German taxes and system of taxation    legal forms of companies from a tax perspective    accounting and tax requirements\, especially during the start-up phase    Furthermore\, there will be room for discussion of your specific issues to enable you to take the right next steps.  About Event Holder    This is one-on-one session with Henry Franz.    Henry is Certified Public Accountant and Tax Advisor with more than 10 years experience in the auditing\, tax and accounting field. He has provided consulting services for several successful start-ups with national and international background.    Important Information      This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception ask for Meeting Room 2. The event will take place there.    Only one session (30 minutes) per person per month.    To secure your spot please register in advance and send an email to henry.franz@hecht-kollegen.de and introduce yourself. If you have any questions please email henry.franz@hecht-kollegen.de    If you would like to cancel\, please have the courtesy to email henry.franz@hecht-kollegen.de to let him know.    Please print your ticket and bring it to the session!  
+URL:http://www.betahaus.com/berlin/event/insights-into-tax-and-accounting-matters-16/
+CATEGORIES:Business,Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/Henry-Franz.jpg
+END:VEVENT
+END:VCALENDAR

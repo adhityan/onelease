@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161007T190000
+DTEND;VALUE=DATE-TIME:20161007T220000
+DTSTAMP:20160922T153346
+CREATED:20160825T164918
+LAST-MODIFIED:20160913T121206
+UID:35226-1475866800-1475877600@http://www.betahaus.com/berlin
+SUMMARY:Easy Marketing
+DESCRIPTION:Craft a story that sells   Every business has a story to tell\, but not all stories were story well. Whenever you are pitching yourself\, you are telling a story. Based on how you tell the story\, your success varies. Why? Because a good story is the backbone of word-of-mouth marketing. This course will teach you through step-by-step process on how to master good storytellingfor business. Once you accomplish it\, you can easily reuse the storytelling skills and apply it to every aspect of your business or personal life.  EARLY BIRD AVAILABLE UNTIL 15th OF SEPTEMBER  &nbsp;  After this workshop\, you will be able to:        Tell your story efficiently    Look at your business in a completely new way    Learn to connect with their market and entice buyers in a new way    Approach your marketing / communication efforts afresh and with a consistent perspective and story approach    Create a unique personality of your business    Draw in the right buyers    Use business storytelling profitably for your business (even if it’s a new business)    SESSION OVERVIEW   Session 1   We will kick off the workshop with an introduction to storytelling\, understanding the root-concept and talk about how storytelling can be a game-changer for your business. After we learned the real meaning of storytelling we will take a look into important elements which build an effective story.    Session 2   During the second session it’s time to work on your own story while connecting it to your audience. Afterwards you will learn to structures and finalize your business story. We end up the course by presenting our story to each other and get some real-time feedback. The whole workshop well be very interactive and based on practical exercises.    INSTRUCTOR: Reema Singhal  Reema Singhal earns her bread\, butter and all the happiness in the world by helping small businesses in spreading their ideas. She works tirelessly by crafting businesses’ pitch\, story &amp; delivery in an exciting and communicative way. She has a background in International Marketing and content\, and currently works independently in Berlin. Some of her ideas and advice are reflected in her blog.  Additional Info:  Lunch menu is included in the price and will be provided on every session.  Certificates:  After completing the course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/easy-marketing/
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160825164918/presentting-1.png
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

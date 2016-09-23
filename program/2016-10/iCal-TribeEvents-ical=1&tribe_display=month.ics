@@ -1,0 +1,823 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161105T100000
+DTEND;VALUE=DATE-TIME:20161105T180000
+DTSTAMP:20160922T154141
+CREATED:20160811T150858
+LAST-MODIFIED:20160919T150725
+UID:35183-1478340000-1478368800@http://www.betahaus.com/berlin
+SUMMARY:The Pitch Doctor
+DESCRIPTION:Public Speaking and Presenting  A (future) professional must be able to confidently present his or herself. A presentation succeeds because of content and the way you communicate. In this workshop we will look at your choice of words\, your posture and movement\, your appearance\, and the use of your voice.  It’s not about the right way\, but about your way of presenting. We start with your skills and teach you how to deploy them. To achieve this we work with exercises that are derived from theatre. This way you get a clear picture of how you come across and what suits you.  SESSION OVERVIEW:  In the first Part of the Workshop you will focus on the ability to grab audience attention and Storytelling skills. In the Second we will look at how to create a Pitch. Each contender will get feedback on their individual Pitch presentation. When it comes to working with empathy\, charisma and expression\, we apply theatrical methods. The theatrical exercises are taught in groups\, with a focus on the individual.  INSTRUCTOR: Bjørn de Wildt  Bjørn studied at the Fontys Academy for Theater in Tilbug (NL) and was named “Talent of the year 2008”. He is a socially critical theater maker that is concerned with the participatory role of the audience. At the moment Bjørn is artistic director of theater group PlayBack Berlin. Next to PlayBack Berlin he also works as a freelance theatre lecturer\, internship coordinator and career coach at various Dutch universities and conducts various amateur groups. As an actor he played several years in productions of playback NL and build up a lot of experience in working with different kind of audiences. As a presentation coach Bjørn works for Wooga\, AKQA and Freie Universität Berlin.  CERTIFICATE:   After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/present-yourself-3/
+LOCATION:prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160811150858/betapitch-global-Images-by-Heisenberg-Media-391.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161103T093000
+DTEND;VALUE=DATE-TIME:20161103T110000
+DTSTAMP:20160922T154141
+CREATED:20160127T133321
+LAST-MODIFIED:20160127T133321
+UID:33965-1478165400-1478170800@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. Every week we have different startups and interesting projects pitching.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-45/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161103T170000
+DTEND;VALUE=DATE-TIME:20161103T190000
+DTSTAMP:20160922T154141
+CREATED:20150520T090927
+LAST-MODIFIED:20150520T090927
+UID:34688-1478192400-1478199600@http://www.betahaus.com/berlin
+SUMMARY:Betahaus Food Assembly's weekly collection
+DESCRIPTION:Every week you find great products direct from local quality farms.    1. Simply register as a member of the Betahaus Food Assembly on www.thefoodassembly.de. This is free and doesn't commit you to ordering the same produce each week.    2. Shop online. We've got organic vegetable and fruit\, meat\, eggs\, cheese\, honey\, jams\, cakes\, and much more to discover.    3. Collect your local produce every Thursday at The Betahaus in Kreuzberg between 5-7pm.    It's fairer\, better and (for a lot of people) closer than the local supermarket. Come and meet the producers and support local farms and craft.    We hope to see you soon!    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betahaus-food-assemblys-weekly-collection/2016-11-03/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/spring-party-picture.jpg
+ORGANIZER;CN=Violette Bonnebas:MAILTO:betahausassembly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161103T193000
+DTEND;VALUE=DATE-TIME:20161103T230000
+DTSTAMP:20160922T154141
+CREATED:20140925T110912
+LAST-MODIFIED:20140925T110912
+UID:34687-1478201400-1478214000@http://www.betahaus.com/berlin
+SUMMARY:Drupal Berlin Usergroup
+DESCRIPTION:Bei dieser monatlichen Veranstaltung treffen sich die Berliner Anwender und Entwickler des CMS DRUPAL.    Drupal ist eine unter der GNU General Public License veröffentlichte und von einer breiten Community stetig weiterentwickelte Software.    Sie dient in erster Linie dem Erstellen\, Publizieren und Organisieren verschiedenster Inhalte einer Website.    Aufgrund ihres modularen Aufbaus ist in höchstem Maße ein flexibler Einsatz in allen nur erdenklichen Bereichen möglich.    Also egal\, ob Intranet oder Internet\, ob e-Government\, Commerce oder Community\, ob redaktionelle Inhalte oder "user generated content".    Drupal ist die Lösung! Bei unserem Treffen im betahaus geht es uns um einen möglichst breiten Austausch. Jeder Interessierte\, unabhängig vom Wissensstand\, ist willkommen!!! Es werden Sessions und Flashtalks gehalten. Individuelle Probleme können angesprochen und hoffentlich auch gelöst werden.    Informiert euch vorab über geplante Vorträge und stimmt über Themenvorschläge ab.    Join The Drupal Community!
+URL:http://www.betahaus.com/berlin/event/drupal-berlin-usergroup/2016-11-03/
+CATEGORIES:Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/dug_berlin_betahaus-e1386171675109.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161101T130000
+DTEND;VALUE=DATE-TIME:20161101T140000
+DTSTAMP:20160922T154141
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34678-1478005200-1478008800@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-11-01/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161101T160000
+DTEND;VALUE=DATE-TIME:20161101T173000
+DTSTAMP:20160922T154141
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35132-1478016000-1478021400@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-11-01/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161101T183000
+DTEND;VALUE=DATE-TIME:20161101T213000
+DTSTAMP:20160922T154141
+CREATED:20160915T163902
+LAST-MODIFIED:20160915T163903
+UID:35319-1478025000-1478035800@http://www.betahaus.com/berlin
+SUMMARY:Wordpress Intermediate
+DESCRIPTION:Get more out of your website    This is an intermediate course to help you work directly on your website and integrate some upper skilled features and launch a Pro looking website.  During this course you will be directly working on your own product\, so you should have a domain already purchased and a basic framework of your future website built. The course is limited to only three participants\, in order to receive enough one-on-one mentoring by the WordPress expert.  You will be working on how to build some more complex features\, customizing themes and plugins/  Event thought this is an extension of WordPress users\, but you will learn tricks expanding beyond just using WordPress tool to build your website. Tricks with a short code or other services you can integrate will be presented as well.  AFTER THE COURSE\, YOU WILL BE ABLE TO:         Evaluate and check the compatibility of different plug ins    Install and maintain professional plug ins    Handle all the professional features of WordPress    Customize WordPress themes and see how can you build your own    Have a professional looking website    Are you a total beginner? Get first some grip with Wordpress during Build your Website course.    SESSION OVERVIEW     Session 1  In the first session we will quickly go through basics of WordPress\, a recap on refreshing your WordPress knowledge.    Session 2   Second session we already get down to business. You will receive guidance of installing the right theme directly to your domain. By this time\, you’ll need to have ready a mock-up of your site and an approximate idea of how it will look like.    Session 3   Going deeper in it. During this session you’ll conclude the preparation of the content of your site (Images\, texts\, videos\, etc.). Additional you will also touch base with UX and UI of your website and receive guidance on how to acquire valuable feedback.    Session 4   First stage of fine tuning is here - plug ins. You will be evaluating and testing with various plug ins to make sure they fit your website and they are all able to function without interference.    Session 5   Last two sessions are devoted to fine-tinning. You will be implementing the changes you acquired from the feedback\, working more on seamless flow of your website and installing advanced plug ins to make it truly professional looking. In this session you will be able to customize using CSS and PHP coding\, by the help of the mentor.    Session 6   During last session you will continue fine tuning from session 5 and implementing final touch to your website to make it ready to launch!    INSTRUCTOR: MAURICIO DISILVESTRO  Mauricio Disilvestro is a freelance web developer with 5 years of experience building WordPress sites for small companies\, agencies and online entrepreneurs. When he started learning web development\, he decided to focus his efforts on WordPress for its large flexibility\, documentation and solutions available. Passionate of coaching and teaching\, he loves to assist his clients and students in the process of developing their space on the web.    NEEDED   Please bring your laptop to all sessions.  CERTIFICATES  After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/wordpress-intermediate/
+CATEGORIES:Business,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160915163619/build-your-website-2.0-.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161028T180000
+DTEND;VALUE=DATE-TIME:20161028T210000
+DTSTAMP:20160922T154141
+CREATED:20160830T141812
+LAST-MODIFIED:20160830T141812
+UID:35246-1477677600-1477688400@http://www.betahaus.com/berlin
+SUMMARY:Working with Wood
+DESCRIPTION:Hands on wood experience  Got a cool woodworking project that you want to start? Perhaps you want to join some of our woodworking evenings? Well\, you’ll need access to professional tools\, and know how to use them!  In this two-day course for rookies\, Lluis will give you a basic introduction into the machines and tools in the betahaus woodshop.  But it won’t just be learning the basics and getting to know the machines\, you will be building your own cool piece of furniture to be used as a Laptop desk or just a beautiful wooden bed tray. Through a shared\, basic\, and take-home project you will acquire enough skills to start working on simple projects afterwards.  SESSION OVERVIEW  First Session\, Friday: You will get to know the material and dig in into planning. How to approach the project with sketch. Once you perfected your design on paper you will transfer the measurements on the wood piece. How to measure the right way\, calculate material thickness and offcuts. In the last stage of first session you will make your first cut and learn who to securely use the table saw.  Second Session\, Saturday: On the second sessions you will continue working on your cuts and trying out different machines like miter saw\, the drill press and sanders. The time to assemble your table design will come. Learn to make different joints the advantages and disadvantages of different joint approaches. To finish your project you will sand it\, polish it and correct any mistakes. Voila your table is ready to be used.    INSTRUCTOR: Lluis Mateu  Lluis Mateu is a woodworking enthusiast with more than 25 years of experience. He has built everything from wooden houses and furniture to sets for theatre and cinema productions! He has a deep passion for woodwork and loves sharing his excitement for the craft – as well as all the tricks he’s learned throughout the years!  FREE VOUCHERS FOR WEEKLY WOODWORKING:  Purchase of Ticket includes a 3-times Weekly Woodworking free Voucher\, valid for three Months after completing the course. To collect your earned Voucher\, which you will get from Lluis after you’ve finished the course.  MATERIALS:        one sheet of 1200 x 300 mm Leimholz buche (18mm thick)    Ponal glue    You can either buy them yourself or you can order them with us for 18€.  CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/working-with-wood-16/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160525150356/thumb_IMG_5895_1024.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161027T093000
+DTEND;VALUE=DATE-TIME:20161027T110000
+DTSTAMP:20160922T154141
+CREATED:20160127T133140
+LAST-MODIFIED:20160127T133140
+UID:33964-1477560600-1477566000@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. Every week we have different startups and interesting projects pitching.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-44/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161027T150000
+DTEND;VALUE=DATE-TIME:20161027T163000
+DTSTAMP:20160922T154141
+CREATED:20160802T143518
+LAST-MODIFIED:20160802T143518
+UID:35126-1477580400-1477585800@http://www.betahaus.com/berlin
+SUMMARY:Communications - where to start?
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    Are you planning your communications activities but not sure where to start? Struggling with defining your brand or product for customers? Do you just want to sound-check some ideas? This Office Hours session (one-to-one consulting) can help.    About Event Holder    Jon\, lead and strategist at Us Berlin\, has over 7 years experience in communications\, including global product launches and brand creation. Co-ordinating the team of experts at Us Berlin\, in everything from copywriting and conception to web development and campaigns\, he can help you:      Simplify and define your messaging or position    Define audiences and relevant attributes to these    Prioritise channels of communication - what is the most efficient and useful    Push the boundaries of what is possible    Learn how to make your ideas happen    Important Information      To secure your spot please register in advance by sending an email to jon@usberlin.co. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait for Jon.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email jon@usberlin.co to let him know.  
+URL:http://www.betahaus.com/berlin/event/communications-where-to-start-10/2016-10-27/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/jon-sykesDSC_9166.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161027T190000
+DTEND;VALUE=DATE-TIME:20161027T220000
+DTSTAMP:20160922T154141
+CREATED:20160916T104149
+LAST-MODIFIED:20160916T104513
+UID:35321-1477594800-1477605600@http://www.betahaus.com/berlin
+SUMMARY:UX Design &amp; Usability
+DESCRIPTION:Develop an interaction-rich experience  User experience design and usability are critical factors for all companies to develop sustainable customer relationships. Also\, as a rule of thumb\, you can say\, every 1 euro you invest in Usability and UX\, saves 10 euros in development and 100 euros after the initial product launch. These are only two facts\, why there is such a high demand of UX experts at the moment.  This UX design &amp; Usability course for beginners will teach you all the important basics from scratch about user centered design\, web and application design and usability testing. In each session\, we will explore the most relevant topics in theory and do practical exercises along an imaginary project that you later can use as a first example in your portfolio.  AFTER THE COURSE\, YOU WILL BE ABLE TO:        Create a design strategy for your own projects    Develop interview guidelines for user research and usability tests    Set up an information architecture for your next project    Transform your product ideas into scribbles and wireframes    Decide about appropriate ux and usability methods in your projects    Choose the right software and tools in each design step    Conduct a card sorting and usability test    Implement ux and usability practices into your design team    Present first examples of your ux and usability work in your portfolio    &nbsp;  SESSIONOVERVIEW   Session 1  In the first session\, we will get to know eachother and start diving into the basic foundations of UX Design. We will get familiar with VIMM analysis\, mental models and basic gestalt principles. You will also learn how to create a design strategy.  Session 2  In the second session\, you will learn basic knowledge about user centered design. After the theoretical part\, we will practice how to create personae\, conduct user interviews\, perform a task flow analysis and develop a roadmap for the project.  Session 3  In the third session\, we will get deeper into the topic of web and application design. You'll learn about navigation and get familiar with different navigation patterns. Afterwards you'll practice how to develop an own information architecture. You'll also learn about different software for UX Design and practice how to sketch and wireframe a digital product.  Session 4  In the last session of the course\, we will cover the topic of practical usability testing. After a theoretical introduction\, we will perform our own card sorting to test our information architecture\, develop interview guidelines for a usability test and perform our own little test in the group.  &nbsp;  INSTRUCTOR: NICOLE FUHR  Nicole Fuhr is an empathetic user experience designer with a behavioral science and marketing background and 7 years of experience in creating digital products and coworking with graphic designers\, developers and product managers.  She worked with several digital agencies\, startups and non-profit-organizations as a UX design lead and created awarded projects for brands like ZDF\, Pro Sieben\, UEFA Champions League\, L'Oréal Paris\, WWF\, Bosch and many more.  NEEDED  You don't need a computer or software to attend this course. Please bring some paper and pens for the exercises.  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/ux-design-usability/
+CATEGORIES:Art & Design,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160916104130/usability-.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161026T150000
+DTEND;VALUE=DATE-TIME:20161026T170000
+DTSTAMP:20160922T154141
+CREATED:20160802T135101
+LAST-MODIFIED:20160802T135101
+UID:35116-1477494000-1477501200@http://www.betahaus.com/berlin
+SUMMARY:Managing Your People &amp; Culture
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description:    Truly engaged and motivated working people are the greatest competitive resource in every organization. A committed employee helps shape a great company culture and is a multiplier for every HR Business Strategy. This is the office hour (one-on-one session) with Bridgery.    Topics we cover:      Sustainable Recruiting    Employer Branding    HR Innovation Management    Talent &amp; Culture Management    Retention Strategy    About Event Holder    Bridgery focuses on empowering Managers &amp; HR Professionals to create people-centred innovation by engaging interdisciplinary teams and crafting sustainable HR solutions with innovative methods such as Design Thinking\, Positive Psychology\, OKR’s and Lean Management.    Important Information      To secure your spot please register in advance by sending an email to nina@bridgery.de . In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email nina@bridgery.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/managing-your-people-culture-23/2016-10-26/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/nina-buschle-bridgery.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161025T130000
+DTEND;VALUE=DATE-TIME:20161025T140000
+DTSTAMP:20160922T154141
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34667-1477400400-1477404000@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-10-25/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161025T190000
+DTEND;VALUE=DATE-TIME:20161025T210000
+DTSTAMP:20160922T154141
+CREATED:20160912T113624
+LAST-MODIFIED:20160912T113624
+UID:35288-1477422000-1477429200@http://www.betahaus.com/berlin
+SUMMARY:In-depth Photoshop
+DESCRIPTION:Start your graphic design journey  Photoshop is a highly powerful tool which can help users to create truly fantastic graphics. From working with photography\, prepping items for online use and creating websites to illustrating and working with typography\, there is something for every designer who wants to use this program. The beginner is usually faced with the question\, where to do I start and how do I make things look professional?  Our Photoshop for Beginners class aims to teach the basics\, from scratch\, through mini projects and top tips on how to get to grips with how Photoshop works\, it will benefit your design work and aid your imagination. You will leave with the confidence to use a large number of tools\, in a professional way.  SESSION OVERVIEW  FIRST SESSION: OCT 25th  First session will start with the basics of Photoshop and how to get started by covering the introduction to pixels\, user interface\, document setup. We will go into tools and pallets\, layers and history.  SECOND SESSION: OCT 26th  Checking skills after the first lesson and then moving on to more functions like the selection tools\, adjustments on photography and mastering cropping.  THIRD SESSION: NOV 1st  In the third session we will continue from the previous session by working with type\, learning how to work with colour and tackling masks and paths.  FOURTH SESSION: NOV 2nd  In the final session participants can bring ideas for their own project and get help and inspiration kickstarting it off in Photoshop  INSTRUCTOR: Sarah Kennedy  Sarah Kennedy is a designer who has been working with Photoshop for last 13 years: using it to create artworks for a range of clients across fashion\, branding\, illustration\, web and products. Her multi disciplined portfolio and skills will help participants on the course with any ideas they want to bring to Photoshop.  NEEDED  A Laptop and Photoshop CS6 or CC already installed (preferably the English version) Adobe offer a free 30 day trail version of Photoshop which can be used during the course.  WHERE AT BETAHAUS  Once you arrive climb up to the first floor and you will find your class  CERTIFICATE:   After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/in-depth-photoshop-3/
+CATEGORIES:Art & Design,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160419092532/db612c1a-6868-421f-9bca-a8ca1746eb4d.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161024T180000
+DTEND;VALUE=DATE-TIME:20161024T210000
+DTSTAMP:20160922T154141
+CREATED:20160811T095326
+LAST-MODIFIED:20160915T144834
+UID:35164-1477332000-1477342800@http://www.betahaus.com/berlin
+SUMMARY:Rapid Prototyping
+DESCRIPTION:How to design a product using 3D printing.  Do you want to turn your creativity into something social-minded and useful? Do you have an idea you want to work on\, or a project in mind? Do you frequently work with designers and think it’d be good to be able to put yourself in their shoes? Or are you simply curious to know what’s behind most of the design projects you encounter?  Twice a week for a month\, you will be learning all there is to know in order to run a successful project\, from basic research and design methodology to knowledge about materials\, production techniques and ecodesign. You will discover the many hidden facets of the design practice: how to integrate a project within a complex system\, how to build a working prototype\, as well as how to communicate and distribute your project.  SESSION OVERVIEW  Session 1   Learning the basics of the 3D printing industry. How to design a basic object by using 123D design. By the end of the session each participant will start designing their test creations in 123D design.  Session 2   Learn about all the functions in 123D design. Move on to get familiar with the machine and materials used. Every participant will print their creations. After that you will be presented with a challenge which the goals is to solve using prototypes made with 3D printer.  Session 3   Basics of product design and prototyping. Dividing in groups or pairs (depending on the group size). Working through creative thinking and prototyping their product. We will start session 3 by getting familiar with product design methodology and the steps used in rapid prototyping. Everyone will be divided in groups where you will put your creative thinking processes in solving the challenge from Session 1.  Session 4   In last session\, the groups will finish their prototypes and put all their 3D printing knowledge into use\, while operating the 3D printer. At the end of the session\, each group will hold a short presentation discovering each other's solutions.  INSTRUCTOR: Vegter Van Slooten  Vegter is a product designer from the Netherlands who moved to Berlin four years ago. After getting a 3D printer\, he never left its side for long. from toys to spare parts\, from prototypes to small production\, everything has been done here at the Betahaus (except for guns\, no guns guys\, please). Currently Vegter is working on 3D printed jewelry and working as a freelance product designer. He studied industrial product design at the Saxion University in Enschede. He has been teaching 3D printing courses for architects\, Deutsche Bahn and at the betahaus for last 3 years.  CERTIFICATE:   After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/rapid-prototyping-2/
+CATEGORIES:Technology,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160811095216/open-design-city_0601.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161021T130000
+DTEND;VALUE=DATE-TIME:20161021T190000
+DTSTAMP:20160922T154141
+CREATED:20160919T121424
+LAST-MODIFIED:20160919T121425
+UID:35327-1477054800-1477076400@http://www.betahaus.com/berlin
+SUMMARY:Brand Booster
+DESCRIPTION:Supercharge your brand  If you are a busy entrepreneur\, startup or freelance professional\, chances are that brand building is not at the top of your list. The only time that your brand takes center stage is when you feel that you haven’t tapped into the full potential of branding and you know that something is holding you back.  This course will take you through well defined action-steps that can be easily implemented to boost your brand experience. You will be provided by Benno’s secret brand building formula so you can lead your business to much greater success. The BRAND BOOSTER! workshop is full of examples that will have you looking at your business in a whole new light.  The workshop is ideal for startups\, freelancers and entrepreneurs looking to build and grow their very own brand. A strong brand helps you to charge higher prices\, work with only the customers you want\, recruit highly motivated employees and create much more customer engagement.  Early Bird Ticket available until 10th of October for 90 euro.    SESSION OVERVIEW:  You will learn why a Brand is much more than a logo and why your logo still counts. We will start to create your a Brand Identity and you will soon realise why emotions count. Dig deeper with discovering your brand values\, learn what brand positioning is good for and what that damn USP is all about. You will define your target groups with creating personas\, create a compelling brand story and learn how to use branded content for your marketing. In the end we will dive into tips and ways to grow your brand even further with tools like offline events\, audio branding\, e-mail marketing and so much much more...  INSTRUCTOR: Benno Sawitzki  Benno Sawitzki is an expert in branding\, digital marketing and e-commerce. He runs his own marketing agency EFFEKTLABOR for more then ten years now and gives regular keynotes at events like the Entrepreneurship Summit\, Startup Camp or Music Tech Fest to name a few. He’s inspired by great design\, innovative business concepts and the latest trends in technology and marketing. Running several MeetUps in Berlin like the Masters of Marketing MeetUp or the Music Marketing Meetup he is always in touch with the core of Berlins creative entrepreneurs. Besides business he loves electronic music\, nature &amp; traveling and all kinds of freaky spiritual stuff.  CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/brand-booster-2/
+LOCATION:prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160919121350/branding-.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161021T140000
+DTEND;VALUE=DATE-TIME:20161021T180000
+DTSTAMP:20160922T154141
+CREATED:20160915T102848
+LAST-MODIFIED:20160916T110430
+UID:35302-1477058400-1477072800@http://www.betahaus.com/berlin
+SUMMARY:Brainstorm with a VC!
+DESCRIPTION:This betahaus | Office Hours is an exclusive one-day only\, one-on-one free consultancy session (30 mins) with experts.    Events Description  Founders\, you are invited to apply for the Redstone Office Hours @ Betahaus Berlin on Friday October 21 starting at 2 PM. We are looking forward to discuss your most pressing questions in a one-on-one session!  About Event Holder  REDSTONE  Redstone Digital is a Berlin based venture capital management company investing in high opportunity targets on all financing stages. We manage diverse corporate and institutional investment funds.  JULIUS BACHMANN  Prior to joining Redstone Julius was an associate for angel syndicate flight.vc on US deals and later helped to set up the UK investment operations. He worked at German online insurance broker start-up Finanzchef24 in operations and business development and co-founded Startup Weekend Switzerland during his studies in St. Gallen\, Singapore and London. Julius started his career as a consultant with Ernst &amp; Young in Switzerland and is a passionate guitar player and mountaineer.  BASTIAN FAULHABER  Bastian holds university degrees in engineering and business from the Technical University of Munich and ESCP Europe. During his studies he gained international experience in New York\, London\, Paris and Munich as well as worked for Rocket Internet in Indonesia’s biggest eCommerce company. Bastian has always been involved in extracurricular engagement like working for a student consultancy in Germany and South Africa\, gaining experiences as a management consultant at PwC and being the co-founder of a social media company. He is an ambitious marathon runner and biker crossing the Alps already several times.  VIDEESHA KUNKULAGUNTA  Videesha has over a decade of work experience in the areas of business/product development\, sales\, finance and venture capital. Before moving to Berlin she worked as an Associate for London based Venture Capital fund PROfounders Capital. She has recently been awarded a Digital Policy Fellowship to investigate pressing policy or regulatory issues for the transatlantic digital economy by the German Marshall Fund of the United States a public policy think tank. Formerly she was an Entrepreneur in Residence for FTSE 250 Telco TalkTalk Plc working on strategic innovation and data driven customer relationship management. At the start of her career she worked as a Credit Analyst for Lehman Brothers and transitioned to a generalist Private Banking role with exposure to product and business development at Barclays Wealth in London and Singapore. Beside her work at Redstone Digital she is an avid traveler\, design enthusiast and angel investor  Important Information      To secure your spot please register in advance.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/brainstorm-with-a-vc/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160915102826/juliusBachmann.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161020T093000
+DTEND;VALUE=DATE-TIME:20161020T110000
+DTSTAMP:20160922T154141
+CREATED:20160127T132954
+LAST-MODIFIED:20160919T150332
+UID:33963-1476955800-1476961200@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ Play-o-logy
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have Play-o-logy presenting with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-43/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161020T170000
+DTEND;VALUE=DATE-TIME:20161020T190000
+DTSTAMP:20160922T154141
+CREATED:20150520T090927
+LAST-MODIFIED:20150520T090927
+UID:34632-1476982800-1476990000@http://www.betahaus.com/berlin
+SUMMARY:Betahaus Food Assembly's weekly collection
+DESCRIPTION:Every week you find great products direct from local quality farms.    1. Simply register as a member of the Betahaus Food Assembly on www.thefoodassembly.de. This is free and doesn't commit you to ordering the same produce each week.    2. Shop online. We've got organic vegetable and fruit\, meat\, eggs\, cheese\, honey\, jams\, cakes\, and much more to discover.    3. Collect your local produce every Thursday at The Betahaus in Kreuzberg between 5-7pm.    It's fairer\, better and (for a lot of people) closer than the local supermarket. Come and meet the producers and support local farms and craft.    We hope to see you soon!    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betahaus-food-assemblys-weekly-collection/2016-10-20/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/spring-party-picture.jpg
+ORGANIZER;CN=Violette Bonnebas:MAILTO:betahausassembly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161019T160000
+DTEND;VALUE=DATE-TIME:20161019T180000
+DTSTAMP:20160922T154141
+CREATED:20160802T141819
+LAST-MODIFIED:20160920T092630
+UID:35121-1476892800-1476900000@http://www.betahaus.com/berlin
+SUMMARY:Get Funding!
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    With these Office Hours (1 on 1 sessions) you will gain insights into the seed investors perspective and support on topics such as business modelling\, go 2 market approach\, target group structuring and on funding need/valuation etc.    About Event Holder (WestTech Ventures and Project Flying Elephant)    WestTech Ventures is a technology-oriented early-stage investor in Berlin. WestTech invests in startups in the pre-seed phase\, during founding and building of the company in the seed phase and continues to support the growth stage and the exit. The focus of WestTech is on topics such as: software\, software engineering\, B2B\, SaaS\, mobile services\, media\, media technology and education. eCommerce and Games projects are not in their focus. WestTech Ventures also has launched Project Flying Elephant\, a Deep Tech Incubator. The program supports strong tech teams with up to €50\,000 in funding as well mentoring\, workshops\, office space and various high-quality services.      Masoud Kamali\, is the CEO and Founder of WestTech and also the Founder of the S&amp;S Media Group. The group is a publisher of magazines\, books and online portals and as conference organizer for major technologies from Java and .NET to web development and mobile technologies. He studied computer science and philosophy in Frankfurt am Main and lived and worked in Singapore and Silicon Valley.    Alexander Kölpin is COO and Partner at WestTech Ventures. He is a co-founder of the Berlin Web Week\, co-founded and was the COO of the SeedVC German Startups Group Berlin AG. Prior to this he was e.g. management consultant at inubit AG (now Bosch Software Innovations) and Arthur Andersen. He holds postgraduate degrees in Economics\, European Studies and Sociology from Berlin\, Exeter (UK) and Krakow (PL).    Fabian Leipelt is the Business Analyst of WestTech and also the programm manager of the Project Flying Elephant. He studied Management at the University of Leipzig. During his studies he spent time abroad in Slovenia and Indonesia. His experience includes also working for Groupon in Australia and Germany.    Important Information:      To secure your spot please register in advance.     Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.  
+URL:http://www.betahaus.com/berlin/event/get-funding-21-2016-10-19/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160125145322/Foto_WestTech-Ventures.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161019T160000
+DTEND;VALUE=DATE-TIME:20161019T180000
+DTSTAMP:20160922T154141
+CREATED:20160802T142504
+LAST-MODIFIED:20160802T142504
+UID:35122-1476892800-1476900000@http://www.betahaus.com/berlin
+SUMMARY:Data science, machine learning &amp; AI
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    Big data is suddenly everywhere. Its applications seem to be limitless and its role in our lives is becoming increasingly important. However\, big data without data science is blind. In order to derive useful insights from data\, the power of machine learning needs to be unleashed. Only then may businesses benefit from new perspectives\, such as to understand their customers better or to monitor key processes in real-time. But is that really “the new oil”? How does it work? And what use is it to me and my business? In this Office Hours session (1-on-1)\, Paul helps you disentangle the world of data science\, machine learning\, and artificial intelligence\, and talks you through how that might apply to your project.    About Event Holder    Dr. Paul von Bünau is the managing director of idalab\, a Berlin-based analytics consulting boutique specialising in high-end mathematical modelling. He advises clients ranging from multinational banks and biotechnology companies\, to the digital sector and its innovative start-ups. He holds a Ph.D. in statistical data analysis from TU Berlin and an M.Sc. in pure mathematics from the University of St. Andrews.    Important Information      To secure your spot please register in advance by sending an email to serena.rota@idalab.de.    In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please prepare and come to the session with your own questions.    Once you arrive\, please go to reception and wait. The session will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email serena.rota@idalab.de.  
+URL:http://www.betahaus.com/berlin/event/data-science-machine-learning-ai-3/2016-10-19/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160324125734/DRVON.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161018T130000
+DTEND;VALUE=DATE-TIME:20161018T140000
+DTSTAMP:20160922T154141
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34626-1476795600-1476799200@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-10-18/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161018T180000
+DTEND;VALUE=DATE-TIME:20161018T210000
+DTSTAMP:20160922T154141
+CREATED:20160915T094414
+LAST-MODIFIED:20160915T094414
+UID:35301-1476813600-1476824400@http://www.betahaus.com/berlin
+SUMMARY:Weekly Woodworking
+DESCRIPTION:Every Tuesday evening\, we have “Woodworking” at betahaus! All the machines and tools in the woodshop are available to use… PLUS\, a woodworking professional will be in the workshop to help you with all your wonderful ideas. Join us!  Important things to know about woodworking sessions:  Before registering for a Woodworking Evening\, you MUST have taken “Working with Wood”        You have to REGISTER ONLINE for this event (obligatory)!    Your registration is only valid for the date you signed up for.    Registration options:        book single ticket 15eur    book a free ticket and use one of the Vouchers from Introduction to Woodshop    WHERE AT BETAHAUS?  Go inside and walk straight to the Open Design City (ODC)  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the session In case you are using the Free option\, please bring the Voucher with you as well.  This course was created by betahaus I Academy. Check out the whole Program www.academy.betahaus.com
+URL:http://www.betahaus.com/berlin/event/weekly-woodworking-105/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160504093514/b3aed604-ec8b-43ca-aea0-8e3050a68e3b.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161014T110000
+DTEND;VALUE=DATE-TIME:20161014T160000
+DTSTAMP:20160922T154141
+CREATED:20160919T103117
+LAST-MODIFIED:20160919T103117
+UID:35324-1476442800-1476460800@http://www.betahaus.com/berlin
+SUMMARY:Internet of Things and connected hardware
+DESCRIPTION:This betahaus | Office Hours is an exclusive one-day only\, one-on-one free consultancy session (30 mins) with an expert.    Events Description  Matt has been working with connected hardware for a decade\, has developed IoT platforms and products\, advises hardware startups\, and now runs a new Internet of Things startup accelerator in London\, UK\, aimed at startups across Europe. This session is for startups that involve IoT and hardware\, to compare notes\, and to discuss the new accelerator.  About Event Holder  Matt is MD of R/GA IoT Venture Studio UK &lt;http://www.rgaiot.com&gt;. Matt was previously co-founder CEO of BERG\, the London design studio responsible for Little Printer\, an early (and cute!) connected gadget for the home. He is an advisor to two London-based hardware startups  Important Information      To secure your spot please register in advance by sending an email to matt@interconnected.org. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/internet-of-things-and-connected-hardware/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160919103035/Matt-Webb-Twitter-avatar-April-2016-small.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161014T180000
+DTEND;VALUE=DATE-TIME:20161014T210000
+DTSTAMP:20160922T154141
+CREATED:20160830T141536
+LAST-MODIFIED:20160830T141536
+UID:35245-1476468000-1476478800@http://www.betahaus.com/berlin
+SUMMARY:Working with Wood
+DESCRIPTION:Hands on wood experience  Got a cool woodworking project that you want to start? Perhaps you want to join some of our woodworking evenings? Well\, you’ll need access to professional tools\, and know how to use them!  In this two-day course for rookies\, Lluis will give you a basic introduction into the machines and tools in the betahaus woodshop.  But it won’t just be learning the basics and getting to know the machines\, you will be building your own cool piece of furniture to be used as a Laptop desk or just a beautiful wooden bed tray. Through a shared\, basic\, and take-home project you will acquire enough skills to start working on simple projects afterwards.  SESSION OVERVIEW  First Session\, Friday: You will get to know the material and dig in into planning. How to approach the project with sketch. Once you perfected your design on paper you will transfer the measurements on the wood piece. How to measure the right way\, calculate material thickness and offcuts. In the last stage of first session you will make your first cut and learn who to securely use the table saw.  Second Session\, Saturday: On the second sessions you will continue working on your cuts and trying out different machines like miter saw\, the drill press and sanders. The time to assemble your table design will come. Learn to make different joints the advantages and disadvantages of different joint approaches. To finish your project you will sand it\, polish it and correct any mistakes. Voila your table is ready to be used.    INSTRUCTOR: Lluis Mateu  Lluis Mateu is a woodworking enthusiast with more than 25 years of experience. He has built everything from wooden houses and furniture to sets for theatre and cinema productions! He has a deep passion for woodwork and loves sharing his excitement for the craft – as well as all the tricks he’s learned throughout the years!  FREE VOUCHERS FOR WEEKLY WOODWORKING:  Purchase of Ticket includes a 3-times Weekly Woodworking free Voucher\, valid for three Months after completing the course. To collect your earned Voucher\, which you will get from Lluis after you've finished the course.  MATERIALS:        one sheet of 1200 x 300 mm Leimholz buche (18mm thick)    Ponal glue    You can either buy them yourself or you can order them with us for 18€.  CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/working-with-wood-15/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160525150356/thumb_IMG_5895_1024.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161013T093000
+DTEND;VALUE=DATE-TIME:20161013T110000
+DTSTAMP:20160922T154141
+CREATED:20160127T132557
+LAST-MODIFIED:20160909T093726
+UID:33962-1476351000-1476356400@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ ROOBAR
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have ROOBAR with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-42/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161013T170000
+DTEND;VALUE=DATE-TIME:20161013T190000
+DTSTAMP:20160922T154141
+CREATED:20150520T090927
+LAST-MODIFIED:20150520T090927
+UID:34602-1476378000-1476385200@http://www.betahaus.com/berlin
+SUMMARY:Betahaus Food Assembly's weekly collection
+DESCRIPTION:Every week you find great products direct from local quality farms.    1. Simply register as a member of the Betahaus Food Assembly on www.thefoodassembly.de. This is free and doesn't commit you to ordering the same produce each week.    2. Shop online. We've got organic vegetable and fruit\, meat\, eggs\, cheese\, honey\, jams\, cakes\, and much more to discover.    3. Collect your local produce every Thursday at The Betahaus in Kreuzberg between 5-7pm.    It's fairer\, better and (for a lot of people) closer than the local supermarket. Come and meet the producers and support local farms and craft.    We hope to see you soon!    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betahaus-food-assemblys-weekly-collection/2016-10-13/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/spring-party-picture.jpg
+ORGANIZER;CN=Violette Bonnebas:MAILTO:betahausassembly@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T150000
+DTEND;VALUE=DATE-TIME:20161012T170000
+DTSTAMP:20160922T154141
+CREATED:20160802T135101
+LAST-MODIFIED:20160802T135101
+UID:35115-1476284400-1476291600@http://www.betahaus.com/berlin
+SUMMARY:Managing Your People &amp; Culture
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description:    Truly engaged and motivated working people are the greatest competitive resource in every organization. A committed employee helps shape a great company culture and is a multiplier for every HR Business Strategy. This is the office hour (one-on-one session) with Bridgery.    Topics we cover:      Sustainable Recruiting    Employer Branding    HR Innovation Management    Talent &amp; Culture Management    Retention Strategy    About Event Holder    Bridgery focuses on empowering Managers &amp; HR Professionals to create people-centred innovation by engaging interdisciplinary teams and crafting sustainable HR solutions with innovative methods such as Design Thinking\, Positive Psychology\, OKR’s and Lean Management.    Important Information      To secure your spot please register in advance by sending an email to nina@bridgery.de . In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email nina@bridgery.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/managing-your-people-culture-23/2016-10-12/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/nina-buschle-bridgery.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161012T190000
+DTEND;VALUE=DATE-TIME:20161019T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T121150
+LAST-MODIFIED:20160726T124743
+UID:35067-1476298800-1476914400@http://www.betahaus.com/berlin
+SUMMARY:Coffee Course
+DESCRIPTION:Brew your perfect cup       EARLY BIRD UNTIL 12TH OF SEPTEMBER    &nbsp;    We joined forces with our friends at Coffee Circle Berlin and created a course based upon the most popular drinks on earth: Coffee. Come in and learn about roasting\, tasting\, brewing filter coffee and creating a perfect espresso. We'll add an extra shot to the mix by teaching you how to make that perfect heart shape in your cappuccino.    &nbsp;        &nbsp;    Workshop 1\, October 12th 7 - 10 PM  Coffee Fundamentals - Roasting To Tasting  In this workshop we explore the fundamentals of coffee. You learn where and how coffee plants grow and how beans are processed. We roast a green coffee sample and demonstrate to you how to roast coffee at home yourself. Afterwards we focus on the sensory aspect of coffee and we taste and discuss the difference between various coffees in what’s called a “cupping“ - a professional coffee tasting.    Workshop 2\, October 16th\, 12PM- 3PM or 4-7PM (depends which group you're in)  The Perfect Espresso &amp; Latte Art – A Barista Course  This second workshop is all about the barista in you. We guide you through all the steps of working with a professional espresso machine and teach you how to properly steam milk in order to produce latte art. The group size will be smaller so that each one of you gets the opportunity to work with the machine her/himself. Get ready for your own yummy cappuccino!    Workshop 3\, October 19th\, 7-9PM  The Comeback Of Filter Coffee – How Do Brew Great Coffee At Home  Filter coffee was long perceived as a boring and dying way of preparing coffee. Something no one except your grandparents did. As most of us know by now\, that couldn’t be further from the truth. Filter coffee is back and bigger than ever. In this session we explore how to grind coffee\, the ideal brewing techniques\, and what water to use for brewing. You get to brew different types of coffee yourself in the very best filter devices\, such as Hario v60\, the Chemex\, the Aeropress\, and the good old Press Pot.    INSTRUCTOR: Hannes Fendrich  "Hannes Fendrich is coffee roaster and green bean buying for Coffee Circle Berlin and has lead over 50 workshops and courses on coffee. He has won different titles in the German Coffee Competitions and is definitely an expert in multiple aspects of coffee: In 2013 and 2015 he won the German Brewers Cup and in 2015 he also placed second at the German Coffee Roasting Competition. As Hannes has been to coffee growing areas in Ethiopia he can give you all information from seed to cup.    CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de    Where at betahaus?  Reception area    Please print your ticket and bring it to the first lesson!
+URL:http://www.betahaus.com/berlin/event/coffee-course-3/
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725121132/1506-Kaffeeklatsch-72-670x5021.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161011T130000
+DTEND;VALUE=DATE-TIME:20161011T140000
+DTSTAMP:20160922T154141
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34579-1476190800-1476194400@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-10-11/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161011T180000
+DTEND;VALUE=DATE-TIME:20161011T210000
+DTSTAMP:20160922T154141
+CREATED:20160915T093334
+LAST-MODIFIED:20160915T094002
+UID:35298-1476208800-1476219600@http://www.betahaus.com/berlin
+SUMMARY:Weekly Woodworking
+DESCRIPTION:Every Tuesday evening\, we have “Woodworking” at betahaus! All the machines and tools in the woodshop are available to use… PLUS\, a woodworking professional will be in the workshop to help you with all your wonderful ideas. Join us!  Important things to know about woodworking sessions:  Before registering for a Woodworking Evening\, you MUST have taken “Working with Wood”        You have to REGISTER ONLINE for this event (obligatory)!    Your registration is only valid for the date you signed up for.    Registration options:        book single ticket 15eur    book a free ticket and use one of the Vouchers from Introduction to Woodshop    WHERE AT BETAHAUS?  Go inside and walk straight to the Open Design City (ODC)  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the session In case you are using the Free option\, please bring the Voucher with you as well.  This course was created by betahaus I Academy. Check out the whole Program www.academy.betahaus.com
+URL:http://www.betahaus.com/berlin/event/weekly-woodworking-104/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160504093514/b3aed604-ec8b-43ca-aea0-8e3050a68e3b.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161010T153000
+DTEND;VALUE=DATE-TIME:20161010T173000
+DTSTAMP:20160922T154141
+CREATED:20160802T150719
+LAST-MODIFIED:20160802T150719
+UID:35135-1476113400-1476120600@http://www.betahaus.com/berlin
+SUMMARY:Let's talk about your brand?
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description  You should take into consideration that the way you present yourself or your product is one of the key factors for your success and it is something that is often not taken seriously into consideration.    Google the word image and you will find:      a representation of the external form of a person or thing in art – Synonyms: likeness\, resemblance        a simile or metaphor    …and finally\,        the general impression that a person\, organization\, or product presents to the public – Synonyms:  public perception\, persona\, profile\, reputation\, stature\, standing; face    What is not in Google is our process. We use all these meanings of the word “image” to dive into your project and determine what are the main aspects to be transmitted to the public.    The 30 minutes free session will help you to find out these key values that needs to be synthesized. It will enable you to develop a design that can be understood by many.    Check some of our results here: http://www.nanana.me      About Event holder    Denis Alschul    Graduated in Media and Communication Science at the University of Passau-Germany\, concentrated his studies on the research of Sharing Economy. As Community Manager at AGORA COLLECTIVE\, became an expert in team building\, project management and short cuts finder for the execution of creative ideas. Also was invited as a speaker to lead a discussion about innovative forms of work at the Youth European Partnership Forum 2015\, in Riga/Latvia.    Luter Filho    With 12 years of experience in advertising agencies around Rio de Janeiro\, São Paulo\, Budapest and Berlin\, Luter is a heavy concept thinker with planner skills. Awarded internationally\, Luter also represented Brazil in the Young Lion Competition during the Cannes Lions Festival\, in 2010    Important Information    For all betahaus members this office hour is for free      To secure your spot please register in advance by sending an email to contact@nanana.me. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email contact@nanana.me to let them know.  
+URL:http://www.betahaus.com/berlin/event/lets-talk-about-your-brand-5/2016-10-10/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222133731/DenisLuter_Photo.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161010T153000
+DTEND;VALUE=DATE-TIME:20161010T173000
+DTSTAMP:20160922T154141
+CREATED:20160804T151618
+LAST-MODIFIED:20160804T151618
+UID:35148-1476113400-1476120600@http://www.betahaus.com/berlin
+SUMMARY:Insights into Tax and Accounting Matters
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    Besides pushing forward your business idea\, networking and all the other important things\, it is essential that your business meets the legal tax and accounting requirements. Your potential business partners\, investors and employees will keep a watchful eye on how you are positioned in these areas.    During this event you will get an overview of      relevant forms of German taxes and system of taxation    legal forms of companies from a tax perspective    accounting and tax requirements\, especially during the start-up phase    Furthermore\, there will be room for discussion of your specific issues to enable you to take the right next steps.  About Event Holder    This is one-on-one session with Henry Franz.    Henry is Certified Public Accountant and Tax Advisor with more than 10 years experience in the auditing\, tax and accounting field. He has provided consulting services for several successful start-ups with national and international background.    Important Information      This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception ask for Meeting Room 2. The event will take place there.    Only one session (30 minutes) per person per month.    To secure your spot please register in advance and send an email to henry.franz@hecht-kollegen.de and introduce yourself. If you have any questions please email henry.franz@hecht-kollegen.de    If you would like to cancel\, please have the courtesy to email henry.franz@hecht-kollegen.de to let him know.    Please print your ticket and bring it to the session!  
+URL:http://www.betahaus.com/berlin/event/insights-into-tax-and-accounting-matters-17/2016-10-10/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/Henry-Franz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161008T110000
+DTEND;VALUE=DATE-TIME:20161008T170000
+DTSTAMP:20160922T154141
+CREATED:20160823T135349
+LAST-MODIFIED:20160823T135349
+UID:35222-1475924400-1475946000@http://www.betahaus.com/berlin
+SUMMARY:Front End Code
+DESCRIPTION:Become a web developer in 5 weeks  Through this intensive 5-week course you will learn the building blocks of web design. You will cover all bases\, from coding sessions to design and user experience! Take the first steps to your career in web development.  This course is a focus on front end web development. You will learn the basics of HTML\, CSS and Javascript and by the end of the course you will be able to use these skills to build a responsive portfolio website.  EARLY BIRD AVAILABLE UNTIL 15th OF SEPTEMBER   After the course\, you will be able to        Build a one page website    Code with HTML\, CSS and Javascript    Select and integrate different image formats    Upload your website to a live serverUse basic UX and UI principles    Understand the design to development workflow    Test your website on different browsers and devices      SESSION 1  In this session you’ll get to know your tutor and classmates and get straight into coding. You’ll install common web development tools and use them to create your very first website. By the end of the session you’ll be able to create a short profile of yourself with text\, colours and images. You’ll also learn how to upload your website to a server via FTP.  SESSION 2  In this session you'll learn how to use cascading style sheets (CSS) to control the layout and design of web pages. We'll cover positioning elements on the page\, web fonts\, colours\, gradients and more\, and then put it all together to create a responsive portfolio page.  SESSION 3  In this session we take a break from coding and look at the design workflow for front end development. We’ll cover approaches to designing for the responsive web\, web typography\, accessibility\, and user interface design (UI). In the second half of the session\, you’ll have a chance to practice designing for the web by making style tiles and wireframe layouts.  SESSION 4  In this session we’ll add animations and interactivity to our web pages with Javascript. You’ll learn about variables\, functions and control statements\, and use them to write simple Javascript programs. We’ll also take a look at the popular jQuery library. At the end of the day you’ll be building an image slider and a slide out menu.  SESSION 5  In our final session we will cover the use of professional development frameworks. You'll learn how to rapidly prototype a website with Bootstrap and about the role of CSS pre-compilers and Javascript libraries. Depending on class demand\, we'll also look at more sophisticated HTML elements including audio\, video and forms. Finally\, you'll learn how to test your website in a range of browsers and devices so you can be confident sharing it with the world. By now\, you'll be able to combine your new skills to create a multi-page website with a navigation menu\, image slider and more.  INSTRUCTOR: Melanie Thewlis  Melanie Thewlis is an Australian web developer living in Berlin. As co-founder of Little Web Giants\, an online marketing and web development agency\, she has worked with businesses and non-profit organisations on four continents. She's worked as lead developer on a diverse range of web projects\, from fashion\, media and environmental startups to data visualizations of climate change and gentrification.  REQUIREMENTS:  Please bring your laptop to every session.  CERTIFICATE:   After completing this course you will only receive a certificate from betahaus | Academy.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/front-end-code-4/
+CATEGORIES:Business,Technology,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160527120814/man-person-apple-iphone-large1.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161007T190000
+DTEND;VALUE=DATE-TIME:20161007T220000
+DTSTAMP:20160922T154141
+CREATED:20160825T164918
+LAST-MODIFIED:20160913T121206
+UID:35226-1475866800-1475877600@http://www.betahaus.com/berlin
+SUMMARY:Easy Marketing
+DESCRIPTION:Craft a story that sells   Every business has a story to tell\, but not all stories were story well. Whenever you are pitching yourself\, you are telling a story. Based on how you tell the story\, your success varies. Why? Because a good story is the backbone of word-of-mouth marketing. This course will teach you through step-by-step process on how to master good storytellingfor business. Once you accomplish it\, you can easily reuse the storytelling skills and apply it to every aspect of your business or personal life.  EARLY BIRD AVAILABLE UNTIL 15th OF SEPTEMBER  &nbsp;  After this workshop\, you will be able to:        Tell your story efficiently    Look at your business in a completely new way    Learn to connect with their market and entice buyers in a new way    Approach your marketing / communication efforts afresh and with a consistent perspective and story approach    Create a unique personality of your business    Draw in the right buyers    Use business storytelling profitably for your business (even if it’s a new business)    SESSION OVERVIEW   Session 1   We will kick off the workshop with an introduction to storytelling\, understanding the root-concept and talk about how storytelling can be a game-changer for your business. After we learned the real meaning of storytelling we will take a look into important elements which build an effective story.    Session 2   During the second session it’s time to work on your own story while connecting it to your audience. Afterwards you will learn to structures and finalize your business story. We end up the course by presenting our story to each other and get some real-time feedback. The whole workshop well be very interactive and based on practical exercises.    INSTRUCTOR: Reema Singhal  Reema Singhal earns her bread\, butter and all the happiness in the world by helping small businesses in spreading their ideas. She works tirelessly by crafting businesses’ pitch\, story &amp; delivery in an exciting and communicative way. She has a background in International Marketing and content\, and currently works independently in Berlin. Some of her ideas and advice are reflected in her blog.  Additional Info:  Lunch menu is included in the price and will be provided on every session.  Certificates:  After completing the course you will receive a certificate from betahaus | Academy.    QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/easy-marketing/
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160825164918/presentting-1.png
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161006T040000
+DTEND;VALUE=DATE-TIME:20161006T180000
+DTSTAMP:20160922T154141
+CREATED:20160530T132526
+LAST-MODIFIED:20160622T090257
+UID:34898-1475726400-1475776800@http://www.betahaus.com/berlin
+SUMMARY:Crowdfunding Startnext
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (20 mins) with experts from our community to our community.    Event Description    This Office Hours (1 on 1 sessions) will give you insights into crowdfunding\, an innovate model to finance ideas\, projects and startups with the support of many people.    During the Crowdfunding office hour the team from Startnext offers direct counselling for project starters who are interested in financing their project via Crowdfunding. We take the time to guide you individually through the most important steps of building and performing a campaign and are happy to share insights into success as well as communication strategies.    Ask us how to design your pitch video\, images\, project description and rewards to present your idea as convincing as possible.    Your questions will be answered by our Crowdfunding expert Markus Streichardt who counsels project starters on a daily basis at Startnext.    Startnext is the leading Crowdfunding Community in the German speaking area. Situated in the heart of Berlin we are a platform for artists\, creative people\, inventors and entrepreneurs and offer a very high success rate for our project starters.    We are excited to getting to know you and hearing more about your project\, idea or startup.    Important Information      Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place there.    Only one session (20 minutes) per person per month.    Please book your time slot here: www.calendly.com/startnext-betahaus      If you would like to cancel\, please have the courtesy to let Startnext now. You’ll find the contact in your Calendly confirmation e-mail    
+URL:http://www.betahaus.com/berlin/event/crowdfunding-startnext-18/2016-10-06/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160530132526/Startnext-Markus_Streichardt_web.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161006T093000
+DTEND;VALUE=DATE-TIME:20161006T110000
+DTSTAMP:20160922T154141
+CREATED:20160127T113815
+LAST-MODIFIED:20160914T131412
+UID:33961-1475746200-1475751600@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast w/ MGH, TravelersBox and Circuit
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!  Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week\, we have MGH\, TravelersBox and Circuit presenting with us.  Looking forward to seeing you!  If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-41/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161006T190000
+DTEND;VALUE=DATE-TIME:20161006T220000
+DTSTAMP:20160922T154141
+CREATED:20160725T150034
+LAST-MODIFIED:20160915T164418
+UID:35071-1475780400-1475791200@http://www.betahaus.com/berlin
+SUMMARY:Soda Pop
+DESCRIPTION:Beats Coke  Learn how to use yeasts in the air and starter cultures like water kefir grains or kombucha SCOBYs\, ginger beer\, and more. Participants will learn how to transform their favourite fruits and flavours into fizzy drinks and raw vinegars. Mix and match and take home a custom soda pop.  ABOUT THE WORKSHOP:  In this interactive\, tasty and bubbling workshop\, participants will leave knowing their ‘kvass’ from ‘kefirs’\, how to brew ‘kombuch’a and beyond!  The workshop is interactive\, informational and delicious. So come prepared with curious tastebuds and an open mind to the world of fermentation.  SESSION OVERVIEW:  We will first cover the principles of wild fermentation\, how one can create their own ginger beer and use natural yeasts to inoculate other drinks to create naturally carbonated and healthy herbal sodas. We will then talk more about cultured fermentation\, such as water kefir\, milk kefir\, and kombucha. Probiotic sodas and snacks are provided so that participants can find the taste that suits them best. Using your favourite taste\, we will be mixing and pouring and swirling our own soda pops to be taken home and continue the fermentation process.  INSTRUCTOR: ALEXIS GOERTZ  The 25 year old Canadian Bacteria-Barista\, Alexis\, co-founded Edible Alchemy in Winnipeg\, Canada in 2013\, and after exploring more of the world of fermentation over many travels brought Edible Alchemy to Berlin in September 2014. The enthusiasm and desire to share about the wondrous world of fermentation has brought Edible Alchemy to classrooms\, festivals\, farmer’s markets\, rooftops\, studio spaces and on European and Canadian tours. Working with fermentation is an accessible way to have a little laboratory in the kitchen\, which Alexis loves doing experiments and seeing people get really excited about taking back traditional food\, deskilling to create self-reliance.  MATERIALS:  All the materials will be provided at the workshop.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/soda-pop-3/
+CATEGORIES:DIY,DIY & CRAFTS / Academy /
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160725145937/Alexis-Goertz.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161005T190000
+DTEND;VALUE=DATE-TIME:20161005T220000
+DTSTAMP:20160922T154141
+CREATED:20160812T085747
+LAST-MODIFIED:20160812T085852
+UID:35172-1475694000-1475704800@http://www.betahaus.com/berlin
+SUMMARY:PANDA Drink &amp; Drive
+DESCRIPTION:Glutamat präsentiert: We-are-PANDA ist eine Initiative\, die sich für mehr Frauen in Führung einsetzt und dafür verschiedene Formate anbietet\, bei denen Frauen sich vernetzen\, gegenseitig weiterbringen und Kontakte zu Unternehmen knüpfen können.    PANDA Drink&amp;Drive ist das Afterwork-Event für die mittlerweile fast 800 Frauen des PANDA-Netzwerks\, bei dem Führungsfrauen in verschiedenen Städten informell zu Drinks\, Austausch und Networking zusammenkommen.    Der Impuls am 05.10. kommt von Inga Höltmann und gibt persönliche Einblicke und Gesprächsstoff zum Thema Scheitern.
+URL:http://www.betahaus.com/berlin/event/panda-drink-drive/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160811130641/Panda.jpg
+ORGANIZER;CN=glutamat:MAILTO:kontakt@glutamat.co
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161004T130000
+DTEND;VALUE=DATE-TIME:20161004T140000
+DTSTAMP:20160922T154141
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34545-1475586000-1475589600@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-10-04/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161004T160000
+DTEND;VALUE=DATE-TIME:20161004T173000
+DTSTAMP:20160922T154141
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35130-1475596800-1475602200@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-10-04/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161004T180000
+DTEND;VALUE=DATE-TIME:20161004T210000
+DTSTAMP:20160922T154141
+CREATED:20160823T095342
+LAST-MODIFIED:20160823T095342
+UID:35220-1475604000-1475614800@http://www.betahaus.com/berlin
+SUMMARY:Weekly Woodworking
+DESCRIPTION:Every Tuesday evening\, we have “Woodworking” at betahaus! All the machines and tools in the woodshop are available to use… PLUS\, a woodworking professional will be in the workshop to help you with all your wonderful ideas. Join us!  Important things to know about woodworking sessions:  Before registering for a Woodworking Evening\, you MUST have taken “Working with Wood”        You have to REGISTER ONLINE for this event (obligatory)!    Your registration is only valid for the date you signed up for.    Registration options:        book single ticket 15eur    book a free ticket and use one of the Vouchers from Introduction to Woodshop    WHERE AT BETAHAUS?  Go inside and walk straight to the Open Design City (ODC)  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the session In case you are using the Free option\, please bring the Voucher with you as well.  This course was created by betahaus I Academy. Check out the whole Program www.academy.betahaus.com
+URL:http://www.betahaus.com/berlin/event/weekly-woodworking-103/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160504093514/b3aed604-ec8b-43ca-aea0-8e3050a68e3b.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160930T110000
+DTEND;VALUE=DATE-TIME:20160930T130000
+DTSTAMP:20160922T154141
+CREATED:20160921T162819
+LAST-MODIFIED:20160921T171504
+UID:35334-1475233200-1475240400@http://www.betahaus.com/berlin
+SUMMARY:Pimp my sales funnels
+DESCRIPTION:This betahaus | Office Hours is an exclusive two-day only\, one-on-one free consultancy session (30 mins) with experts.    Events Description  The digital age makes it possible for start-ups to achieve break even and grow sales very fast. This could make the next financial round needless for these companies - with the correct sales channels with a high ROI and profits.  Nescho and Janina will help you to find the right marketing to push the sales and to develop sales channels with a high ROI and profits. They will show you how to build smart sales funnels\, optimize your value ladder and earn more from new and existing clients.   About Event Holder  Nescho and Janina are digital sales experts and passionate entrepreneurs. They have more than a decade of experience in creating go-to-market strategies\, sales campaigns and sales funnels.  They know how to promote product launches\, how to drive community engagement\, and how to turn offline efforts into an online result that creates sales. And there’s more.  The clients of Top Ideas .digital (www.topideas.digital) range from Fortune 500 companies to small and booming businesses with excellent ideas\, products and proofs of concept. Their strength is planning\, creating and executing campaigns on a national and international level in the core European markets.  Important Information      To secure your spot please register in advance by sending an email to nescho.topalov@topideas.digital    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/pimp-my-sales-funnels-2/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160921162157/Nescho_Janina_TopIdeas.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160930T180000
+DTEND;VALUE=DATE-TIME:20160930T210000
+DTSTAMP:20160922T154141
+CREATED:20160812T154702
+LAST-MODIFIED:20160829T094740
+UID:35186-1475258400-1475269200@http://www.betahaus.com/berlin
+SUMMARY:Working with Wood
+DESCRIPTION:Hands on wood experience  Got a cool woodworking project that you want to start? Perhaps you want to join some of our woodworking evenings? Well\, you’ll need access to professional tools\, and know how to use them!  In this two-day course for rookies\, Lluis will give you a basic introduction into the machines and tools in the betahaus woodshop.  But it won’t just be learning the basics and getting to know the machines\, you will be building your own cool piece of furniture to be used as a Laptop desk or just a beautiful wooden bed tray. Through a shared\, basic\, and take-home project you will acquire enough skills to start working on simple projects afterwards.  SESSION OVERVIEW  First Session\, Friday: You will get to know the material and dig in into planning. How to approach the project with sketch. Once you perfected your design on paper you will transfer the measurements on the wood piece. How to measure the right way\, calculate material thickness and offcuts. In the last stage of first session you will make your first cut and learn who to securely use the table saw.  Second Session\, Saturday: On the second sessions you will continue working on your cuts and trying out different machines like miter saw\, the drill press and sanders. The time to assemble your table design will come. Learn to make different joints the advantages and disadvantages of different joint approaches. To finish your project you will sand it\, polish it and correct any mistakes. Voila your table is ready to be used.    INSTRUCTOR: Lluis Mateu  Lluis Mateu is a woodworking enthusiast with more than 25 years of experience. He has built everything from wooden houses and furniture to sets for theatre and cinema productions! He has a deep passion for woodwork and loves sharing his excitement for the craft – as well as all the tricks he’s learned throughout the years!  FREE VOUCHERS FOR WEEKLY WOODWORKING:  Purchase of Ticket includes a 3-times Weekly Woodworking free Voucher\, valid for three Months after completing the course. To collect your earned Voucher\, which you will get from Lluis after you’ve finished the course.  MATERIALS:        one sheet of 1200 x 300 mm Leimholz buche (18mm thick)    Ponal glue    You can either buy them yourself or you can order them with us for 18€.  CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/working-with-wood-12/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160209143652/Working-with-wood11.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160929T093000
+DTEND;VALUE=DATE-TIME:20160929T110000
+DTSTAMP:20160922T154141
+CREATED:20160127T113458
+LAST-MODIFIED:20160921T163009
+UID:33960-1475141400-1475146800@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast with Little Web Giants, Luminami and Top Ideas
+DESCRIPTION:Betabreakfast is our famous weekly community breakfast. Presentations are in English and non-members are also welcomed!    Did you just arrive in Berlin? Is this your first time at betahaus? Or are you one of the many members of the ‘haus? Regardless\, come along to betabreakfast and get inspired over nice breakfast and a cup of coffee/tea. It’s the perfect way to discover new ideas\, meet creative minds &amp; startups and make friends in Berlin. This week we have Little Web Giants\, Luminami and Top Ideas presenting with us.    Looking forward to seeing you! If you are not a betahaus | member\, please buy a ticket! If you’d like to present your startup or idea feel free to drop us a line at katka@betahaus.de.
+URL:http://www.betahaus.com/berlin/event/betabreakfast-40/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160126094928/betabreakfast-wide-klein-770x357.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160929T140000
+DTEND;VALUE=DATE-TIME:20160929T160000
+DTSTAMP:20160922T154141
+CREATED:20160921T162757
+LAST-MODIFIED:20160921T171458
+UID:35333-1475157600-1475164800@http://www.betahaus.com/berlin
+SUMMARY:Pimp my sales funnels
+DESCRIPTION:This betahaus | Office Hours is an exclusive two-day only\, one-on-one free consultancy session (30 mins) with experts.    Events Description  The digital age makes it possible for start-ups to achieve break even and grow sales very fast. This could make the next financial round needless for these companies - with the correct sales channels with a high ROI and profits.  Nescho and Janina will help you to find the right marketing to push the sales and to develop sales channels with a high ROI and profits. They will show you how to build smart sales funnels\, optimize your value ladder and earn more from new and existing clients.   About Event Holder  Nescho and Janina are digital sales experts and passionate entrepreneurs. They have more than a decade of experience in creating go-to-market strategies\, sales campaigns and sales funnels.  They know how to promote product launches\, how to drive community engagement\, and how to turn offline efforts into an online result that creates sales. And there’s more.  The clients of Top Ideas .digital (www.topideas.digital) range from Fortune 500 companies to small and booming businesses with excellent ideas\, products and proofs of concept. Their strength is planning\, creating and executing campaigns on a national and international level in the core European markets.  Important Information      To secure your spot please register in advance by sending an email to nescho.topalov@topideas.digital    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person.  
+URL:http://www.betahaus.com/berlin/event/pimp-my-sales-funnels/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160921162157/Nescho_Janina_TopIdeas.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160929T190000
+DTEND;VALUE=DATE-TIME:20160929T220000
+DTSTAMP:20160922T154141
+CREATED:20160825T165231
+LAST-MODIFIED:20160919T150556
+UID:35229-1475175600-1475186400@http://www.betahaus.com/berlin
+SUMMARY:3 Ways of Pitching
+DESCRIPTION:A 360° Workshop on Pitching   When you pitch you have a minute amount of time to make a good first impression so that your audience feels confident in what you have to say. You want to shine when speaking to them and make them connect with your product immediately!  Your body language tells a lot\, but the crucial part of a successful pitch is what you have to say\, the structure and personification of your story. In this 6-hour workshop you will learn how to write your pitch according to your audience. Win that first impression and take your business to skyrocketing heights.  You will work thoroughly on ways to pitch your idea to potential customers\, investors\, sponsors\, media\, supporters etc. You will gain in-depth understanding on how the concept of your idea needs to be tailored to your audience’s life. Learn to carefully place your idea in people’s minds without using the standard sales pitch.  This is perfect for startups\, small businesses and marketing &amp; sales professionals.  SESSION OVERVIEW:  During the session you will be working hands-on on developing your pitch and adapting the concept. Through analysing examples you will learn how to win attention and respect within 30 seconds. By the end of the workshop you will obtain a practical step-by-step method to generate your pitch and have a prepared pitch for your individual business situation\, to be used online as well as offline.  INSTRUCTOR: Reema Singhal  Reema Singhal earns her bread\, butter and all the happiness in the world by helping small businesses in spreading their ideas. She works tirelessly by crafting businesses’ pitch\, story &amp; delivery in an exciting and communicative way. She has a background in International Marketing and content\, and currently works independently in Berlin. Some of her ideas and advice are reflected in her blog  CERTIFICATE:  After completing this course you will receive a certificate from betahaus | Academy  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the workshop!
+URL:http://www.betahaus.com/berlin/event/3-ways-of-pitching/
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160825165231/IMG_23802.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160928T130000
+DTEND;VALUE=DATE-TIME:20160928T150000
+DTSTAMP:20160922T154141
+CREATED:20160615T090538
+LAST-MODIFIED:20160622T100354
+UID:34935-1475067600-1475074800@http://www.betahaus.com/berlin
+SUMMARY:Expat Coaching
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Events Description  Need to find a new flat asap?  Got a work permit application coming up?  Confused about how to start freelancing?  Not finding enough work?  Got a weird letter in the mail that says you owe money?  Trying to put your kids in school?  Expath can help!  Join our Office Hours for 1-on-1 coaching on your life in Berlin as an expat.  Bring us your questions and issues\, forms\, documents\, etc. and we'll help you find solutions\, outline an action plan\, write an email or make a phone call in German\, fill out your forms\, etc..  (Note: We can provide basic general information about work permits\, freelance taxes and invoicing and insurance\, but for official legal\, tax or insurance advice\, we will need to refer you on to a lawyer\, tax or insurance professional.) Not sure if we can cover your questions? Just email us the details of your situation and we'll let you know!  About Event Holder  Tia Robinson is the cofounder of Expath\, a German language school that also helps expats deal with life in Berlin.  She currently runs Expath's workshops 'Getting started in Berlin\,' 'Finding a job in Berlin\,' 'Finding a flat in Berlin' and 'How to become a freelancer in Berlin.'  Tia has over 15 years' experience in language teaching and school management\, HR and business operations.  Originally from Ohio\, USA\, Tia has worked as a freelancer\, employee and business operator in Berlin\, has permanent residency and is now working on German citizenship.   Important Information    For all betahaus members this Office Hours session is for free      To secure your spot please register in advance by sending an email to coaching@expath.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email coaching@expath.de.  
+URL:http://www.betahaus.com/berlin/event/expat-coaching-3/2016-09-28/
+CATEGORIES:Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160510144823/Tia2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160928T150000
+DTEND;VALUE=DATE-TIME:20160928T170000
+DTSTAMP:20160922T154141
+CREATED:20160324T123017
+LAST-MODIFIED:20160802T134521
+UID:34458-1475074800-1475082000@http://www.betahaus.com/berlin
+SUMMARY:Managing Your People &amp; Culture
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description:    Truly engaged and motivated working people are the greatest competitive resource in every organization. A committed employee helps shape a great company culture and is a multiplier for every HR Business Strategy. This is the office hour (one-on-one session) with Bridgery.    Topics we cover:      Sustainable Recruiting    Employer Branding    HR Innovation Management    Talent &amp; Culture Management    Retention Strategy    About Event Holder    Bridgery focuses on empowering Managers &amp; HR Professionals to create people-centred innovation by engaging interdisciplinary teams and crafting sustainable HR solutions with innovative methods such as Design Thinking\, Positive Psychology\, OKR’s and Lean Management.    Important Information      To secure your spot please register in advance by sending an email to nina@bridgery.de . In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email nina@bridgery.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/managing-your-people-culture-22-2016-09-28/2016-09-28/
+CATEGORIES:Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/nina-buschle-new-profile-photo.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160928T160000
+DTEND;VALUE=DATE-TIME:20160928T180000
+DTSTAMP:20160922T154141
+CREATED:20160802T141819
+LAST-MODIFIED:20160920T092640
+UID:35120-1475078400-1475085600@http://www.betahaus.com/berlin
+SUMMARY:Get Funding!
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description    With these Office Hours (1 on 1 sessions) you will gain insights into the seed investors perspective and support on topics such as business modelling\, go 2 market approach\, target group structuring and on funding need/valuation etc.    About Event Holder (WestTech Ventures and Project Flying Elephant)    WestTech Ventures is a technology-oriented early-stage investor in Berlin. WestTech invests in startups in the pre-seed phase\, during founding and building of the company in the seed phase and continues to support the growth stage and the exit. The focus of WestTech is on topics such as: software\, software engineering\, B2B\, SaaS\, mobile services\, media\, media technology and education. eCommerce and Games projects are not in their focus. WestTech Ventures also has launched Project Flying Elephant\, a Deep Tech Incubator. The program supports strong tech teams with up to €50\,000 in funding as well mentoring\, workshops\, office space and various high-quality services.      Masoud Kamali\, is the CEO and Founder of WestTech and also the Founder of the S&amp;S Media Group. The group is a publisher of magazines\, books and online portals and as conference organizer for major technologies from Java and .NET to web development and mobile technologies. He studied computer science and philosophy in Frankfurt am Main and lived and worked in Singapore and Silicon Valley.    Alexander Kölpin is COO and Partner at WestTech Ventures. He is a co-founder of the Berlin Web Week\, co-founded and was the COO of the SeedVC German Startups Group Berlin AG. Prior to this he was e.g. management consultant at inubit AG (now Bosch Software Innovations) and Arthur Andersen. He holds postgraduate degrees in Economics\, European Studies and Sociology from Berlin\, Exeter (UK) and Krakow (PL).    Fabian Leipelt is the Business Analyst of WestTech and also the programm manager of the Project Flying Elephant. He studied Management at the University of Leipzig. During his studies he spent time abroad in Slovenia and Indonesia. His experience includes also working for Groupon in Australia and Germany.    Important Information:      To secure your spot please register in advance.     Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.  
+URL:http://www.betahaus.com/berlin/event/get-funding-21/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160125145322/Foto_WestTech-Ventures.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160927T130000
+DTEND;VALUE=DATE-TIME:20160927T140000
+DTSTAMP:20160922T154141
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34454-1474981200-1474984800@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-09-27/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160927T180000
+DTEND;VALUE=DATE-TIME:20160927T210000
+DTSTAMP:20160922T154141
+CREATED:20160816T120057
+LAST-MODIFIED:20160816T120057
+UID:35193-1474999200-1475010000@http://www.betahaus.com/berlin
+SUMMARY:Weekly Woodworking
+DESCRIPTION:Every Tuesday evening\, we have “Woodworking” at betahaus! All the machines and tools in the woodshop are available to use… PLUS\, a woodworking professional will be in the workshop to help you with all your wonderful ideas. Join us!  Important things to know about woodworking sessions:  Before registering for a Woodworking Evening\, you MUST have taken “Working with Wood”        You have to REGISTER ONLINE for this event (obligatory)!    Your registration is only valid for the date you signed up for.    Registration options:        book single ticket 15eur    book a free ticket and use one of the Vouchers from Introduction to Woodshop    WHERE AT BETAHAUS?  Go inside and walk straight to the Open Design City (ODC)  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the session In case you are using the Free option\, please bring the Voucher with you as well.  This course was created by betahaus I Academy. Check out the whole Program www.academy.betahaus.com
+URL:http://www.betahaus.com/berlin/event/weekly-woodworking-102/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160504093514/b3aed604-ec8b-43ca-aea0-8e3050a68e3b.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

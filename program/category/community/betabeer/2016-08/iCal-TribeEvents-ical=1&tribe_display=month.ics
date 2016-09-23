@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160825T180000
+DTEND;VALUE=DATE-TIME:20160825T220000
+DTSTAMP:20160922T160724
+CREATED:20160317T112236
+LAST-MODIFIED:20160816T141132
+UID:34377-1472148000-1472162400@http://www.betahaus.com/berlin
+SUMMARY:Betabeer Summer Block Party
+DESCRIPTION:Always wondered who that guy in the left corner of the coworking space is? Still looking forward to meeting the lady you’re passing on the stairs every morning? This is the time to get to know your betahaus coworking community! Join us\, no need to rsvp\, just close your laptop and come say hi!  This month\, betabeer will take place outside! Let’s hang out in the sun\, BBQ\, and play some ping pong! We’ll provide some food but feel free to bring your own things too. As usual\, there’ll be plenty of free beer. Feel free to bring your friends - the more the merrier!  Open for everyone  Time: 18h – 22h  Location: outside near the cafe (covered area)  &nbsp;    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betabeer-11-2016-07-28-2016-08-25/2016-08-25/
+LOCATION:Prinzessinstraße 19-20, Berlin, berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:betabeer,Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160816135646/Betabeer-10.jpg
+END:VEVENT
+END:VCALENDAR

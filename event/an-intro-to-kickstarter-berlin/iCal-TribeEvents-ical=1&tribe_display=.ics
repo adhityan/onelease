@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161018T190000
+DTEND;VALUE=DATE-TIME:20161018T210000
+DTSTAMP:20160922T153520
+CREATED:20160829T083502
+LAST-MODIFIED:20160829T083502
+UID:34946-1476817200-1476824400@http://www.betahaus.com/berlin
+SUMMARY:An Intro to Kickstarter: Berlin
+DESCRIPTION:An Intro to Kickstarter: Berlin    Join Outreach Lead and Kickstarter creator Monika Kanokova for a primer on Kickstarter: the world’s largest community of people dedicated to bringing creative projects to life. In this workshop\, you’ll get pointers to help you craft a great campaign\, rally a community around your project\, and make your idea a reality.    These talks will be presented in English.    ---    Monika Kanokova\, Outreach Lead bei Kickstarter hat bereits zwei eigene Projekte veröffentlicht und gibt in diesem Workshop Tipps aus erster Hand zur Erstellung einer 1A-Kampagne. Hier erfährst du\, wie du deine Idee in die Wirklichkeit umsetzen kannst\, indem du dein Projekt auf Kickstarter\, der weltweit größten Community von Menschen zur Verwirklichung von kreativen Projekten\, publik machst.    Diese Veranstaltung wird auf Englisch gehalten.
+URL:http://www.betahaus.com/berlin/event/an-intro-to-kickstarter-berlin/
+CATEGORIES:Art & Design
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160620082405/12190823_10153769164584885_6777100078051042050_n.jpg
+END:VEVENT
+END:VCALENDAR

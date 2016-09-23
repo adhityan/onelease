@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160929T180000
+DTEND;VALUE=DATE-TIME:20160929T220000
+DTSTAMP:20160922T153425
+CREATED:20160317T112236
+LAST-MODIFIED:20160915T125501
+UID:34490-1475172000-1475186400@http://www.betahaus.com/berlin
+SUMMARY:Betabeer with Luminami and Ping Päng Tournament!
+DESCRIPTION:Always wondered who that guy in the left corner of the coworking space is? Still looking forward to meeting the lady you’re passing on the stairs every morning? This is the time to get to know your betahaus coworking community! Join us for a special edition of betabeer. This month we have a Ping Päng (a.k.a Ping Pong) tournament hosted by FSB and an innovative origami workshop held by LUMINAMI.    There will be a BBQ and free beers as usual. No need to rsvp\, just close your laptop and walk in.  You’re welcome to bring friends!    Open for everyone  The LOFT - 6pm  &nbsp;    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betabeer-11-2016-07-28-2016-09-29/2016-09-29/
+LOCATION:Prinzessinstraße 19-20, Berlin, berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:betabeer,Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160816135646/Betabeer-10.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161116T100000
+DTEND;VALUE=DATE-TIME:20161116T150000
+DTSTAMP:20160922T153349
+CREATED:20160829T141456
+LAST-MODIFIED:20160829T141457
+UID:35242-1479290400-1479308400@http://www.betahaus.com/berlin
+SUMMARY:Customer Development
+DESCRIPTION:Your guide to sale success  In this workshop consisting of three sessions you will master in-depth customer development methods\, intense sales knowledge\, acquisition tools and sales funnel strategies. The customer development process is key for every entrepreneur who is following the principles of the Lean Startup and every freelancer in the digitals and medias. Before you sell and scale you have to understand who your customers are\, what they want to buy and how you can sell it best. This course is hand tailored from instructors 16 years of sales knowledge as a Key Account Manager\, Entrepreneur\, Startup Employee and Sales Coach for over 50 Startups in various Accelerator programs.  Course methodology:        The Customer Development Process and how you can use it    The seven Sales Funnel steps: from client research to acquisition\, to negotiation\, to developing clients.    The three layers: Sales Strategy\, Acquisition\, Pitching and all the useful tools\, group exercises\, valuable feedback and personal training    SESSION OVERVIEW  Session 1  How do you validate and verify your customers and why is it wise to do it in the first place? Dive into the most important matters of sales strategy and ground your activities with useful exercises like Customer Insight Interviews\, the 15-Word-Sales-Pitch and the Customer Development Life Cycle.    Session 2   Using the right CRM-Tools\, mastering acquisition and negotiation is part of the second session. Learn about the Sales Funnel and how to plan and track the right activities to get the desired results.    Session 3   What are the techniques to grow your Sales Funnel? How can you develop a constant flow of leads? How can you increase your inbound leads and stop craving for deals? The last day of the Customer Development Course is about the constant work of convincing and winning clients.  INSTRUCTOR: JÖRN HENDRIK   Jörn Hendrik was a career changer right away. Starting as a craftsman in the family business of his father\, he quickly discovered his talent as a salesman and networker. For more than a decade he proved his sales and leadership-skills in B2C and B2B sales-companies. But his vision to change business by making it a more transparent and people-centric world\, finally led him to change tie and cubefarm with laptop and coworking-space. Together with Inken Arntzen he founded the career orientation program "Superhelden-Training" which is workshop\, book project and online platform all in one.  CERTIFICATE:   After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/customer-development-2/
+LOCATION:prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:Business,BUSINESS & MARKETING /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160829141352/photo-1457213453084-d386450c6252-e14604550284131.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

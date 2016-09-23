@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20170223T180000
+DTEND;VALUE=DATE-TIME:20170223T220000
+DTSTAMP:20160922T153518
+CREATED:20160317T112236
+LAST-MODIFIED:20160317T112236
+UID:35223-1487872800-1487887200@http://www.betahaus.com/berlin
+SUMMARY:Betabeer Games Night with Pilsner Urquell
+DESCRIPTION:You better start practicing your poker face because this month's Beta Beer will be a game night! Come around and enjoy some FREE PIZZA with your FREE BEER\, all while getting a little competitive with your coworking friends. Other than Poker\, we will also have games such as Risk\, Settlers of Catan\, and Backgammon. Feel free to bring along your own games. Snacks will also be provided.  No need to rsvp\, and make sure to bring your friends!  Reception - 6pm  &nbsp;    &nbsp;
+URL:http://www.betahaus.com/berlin/event/betabeer-11-2016-07-28/2017-02-23/
+LOCATION:Prinzessinstraße 19-20, Berlin, berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:betabeer,Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160311133743/Website-Event-Pic-and-Banner-see-if-it-fits.jpg
+END:VEVENT
+END:VCALENDAR

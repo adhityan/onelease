@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20150604T093000
+DTEND;VALUE=DATE-TIME:20150604T110000
+DTSTAMP:20160922T164203
+CREATED:20150414T125733
+LAST-MODIFIED:20150522T132629
+UID:31771-1433410200-1433415600@http://www.betahaus.com/berlin
+SUMMARY:Betabreakfast with Deutsche Bahn, Vai Kai and Berliner Mätchen
+DESCRIPTION:Betabreakfast is our weekly community breakfast. No matter if you are new in town\, the first time at betahaus or a member since the beginning this is the perfect way to get to know creative minds and start ups in Berlin. Brötchen and fresh coffee will be served. This week we have DB Infra 4.0 startup acceleration program\, Vai Kai and Berliner Mätchen with us. Looking forward to seeing you! The presentations will be held in English. If you are not a betahaus | member\, please buy a ticket! If you'd like to present your startup / idea feel free to drop us a line at katka@betahaus.de
+URL:http://www.betahaus.com/berlin/event/betabrakfast-7/
+CATEGORIES:Art & Design,Business,Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/140109-_Betahaus_web_0024.jpg
+END:VEVENT
+END:VCALENDAR

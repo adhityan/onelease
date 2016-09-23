@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160920T100000
+DTEND;VALUE=DATE-TIME:20160920T120000
+DTSTAMP:20160922T154317
+CREATED:20160802T151142
+LAST-MODIFIED:20160802T151142
+UID:35139-1474365600-1474372800@http://www.betahaus.com/berlin
+SUMMARY:Perfect Your Text!
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description      You should be as confident about your written content as you are about your business idea. I will help you achieve that confidence. In this one-on-one session\, I can review the content of your investors pitch\, business plan\, website text\, marketing materials\, presentations\, or other texts to ensure that your writing is correct\, clear\, concise\, and compelling. (Content in English only.)  I will help you recognize and fix issues such as:        Grammar &amp; punctuation    Unclear sentence structures    Passive or bland word choices    Inconsistencies in formatting          About Event Holder - Bernadette Geyer      This is a one-on-one session with Bernadette Geyer\, founder of Geyer Editorial Services (http://geyereditorial.com).    For more than ten years\, Geyer has provided freelance writing and editing services for small businesses\, startups\, and entrepreneurs. She has copy edited pitch decks\, sales decks\, website text\, and business plans. Geyer has reviewed and crafted blog posts\, landing pages\, and digital newsletters. She has also copy edited in-app text and messaging for social apps.    When Geyer copy edits\, she ensures that brand style remains consistent throughout all of the company's materials – both print and digital. She works with companies to establish a consistent in-house style guide for use in all content creation.    Geyer is originally from the United States and moved to Berlin in 2013.          Important Information    For all betahaus members this Office Hours is for free      To secure your spot please register in advance by sending an email to bernadettegeyer@gmail.com. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to communicate this by sending an email to bernadettegeyer@gmail.com.    
+URL:http://www.betahaus.com/berlin/event/perfect-your-text-2/
+CATEGORIES:Business,Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160421102223/Geyer.HomePage.Headshot_1.jpg
+END:VEVENT
+END:VCALENDAR

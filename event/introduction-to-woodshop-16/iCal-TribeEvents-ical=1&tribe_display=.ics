@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20150620T100000
+DTEND;VALUE=DATE-TIME:20150620T180000
+DTSTAMP:20160922T164218
+CREATED:20150413T105453
+LAST-MODIFIED:20150610T184916
+UID:31752-1434794400-1434823200@http://www.betahaus.com/berlin
+SUMMARY:Introduction to Woodshop
+DESCRIPTION:  Got a cool woodworking project that you want to start? Perhaps you want to join in with our woodworking evenings? Well you'll need access to professional tools\, and you should know how to use them!  In this one-day course for rookies\, Lluis will give you a basic introduction into the machines and tools in the betahaus woodshop. You will learn the following:       Planning: How to approach a project with a quick sketch   Measuring: How to measure the right way\, calculating material thickness and offcut   Tools: You'll learn how to properly and securely use the table saw\,  miter saw\, the drill press\, sander and diverse hand tools                  But all of it it won't be just learning and meeting the machines\, during the whole time you will be building your own piece of cool furniture to be used as a Laptop desk or just a beautiful wooden bed tray.  Through a shared\, basic take-home project you will acquire enough skills to start working on simple projects afterwards.  Purchase of Ticket includes a 3-times Weekly Woodworking free Voucher\, valid for three Months after completing the course. To collect your earned Voucher\, please drop by at the Reception after your Woodshop course has finished\, from Monday to Friday (8:00 am - 8:00 pm) with your receipt from Introduction to the Woodshop and collect your Vouchers!  Materials needed:        one sheet of 1200 x 300 mm Leimholz buche (18mm thick)   Ponal glue    You can either buy them yourself (e.g. at Modulor close to betahaus) or you can order them with us for 18€.  ------------------------------------------------------------------------  WORKSHOP HOLDERS  Lluis Mateu\, a woodworking enthusiast who has more than 25 years of experience. He has built everything from wooden houses\, over furniture to sets for theatre and cinema productions. He hasn't gotten bored of it and loves to pass on the excitement as well as all the tricks he's learned throughout the years.  ------------------------------------------------------------------------  Any questions? Drop us a line at education@betahaus.de  Please print your ticket and bring it to the workshop!  Can't join us this time? We have more courses!  Please check our Woodshop Program for all our scheduled woodworking courses\, or have a look at www.betahaus.de/education for all courses from betahaus.  
+URL:http://www.betahaus.com/berlin/event/introduction-to-woodshop-16/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:Art & Design,DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/Betahaus-Woodshop.jpg
+END:VEVENT
+END:VCALENDAR

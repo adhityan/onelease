@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160920T100000
+DTEND;VALUE=DATE-TIME:20160920T120000
+DTSTAMP:20160922T161834
+CREATED:20160802T151142
+LAST-MODIFIED:20160802T151142
+UID:35139-1474365600-1474372800@http://www.betahaus.com/berlin
+SUMMARY:Perfect Your Text!
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Event Description      You should be as confident about your written content as you are about your business idea. I will help you achieve that confidence. In this one-on-one session\, I can review the content of your investors pitch\, business plan\, website text\, marketing materials\, presentations\, or other texts to ensure that your writing is correct\, clear\, concise\, and compelling. (Content in English only.)  I will help you recognize and fix issues such as:        Grammar &amp; punctuation    Unclear sentence structures    Passive or bland word choices    Inconsistencies in formatting          About Event Holder - Bernadette Geyer      This is a one-on-one session with Bernadette Geyer\, founder of Geyer Editorial Services (http://geyereditorial.com).    For more than ten years\, Geyer has provided freelance writing and editing services for small businesses\, startups\, and entrepreneurs. She has copy edited pitch decks\, sales decks\, website text\, and business plans. Geyer has reviewed and crafted blog posts\, landing pages\, and digital newsletters. She has also copy edited in-app text and messaging for social apps.    When Geyer copy edits\, she ensures that brand style remains consistent throughout all of the company's materials – both print and digital. She works with companies to establish a consistent in-house style guide for use in all content creation.    Geyer is originally from the United States and moved to Berlin in 2013.          Important Information    For all betahaus members this Office Hours is for free      To secure your spot please register in advance by sending an email to bernadettegeyer@gmail.com. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and wait. The event will take place at reception.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to communicate this by sending an email to bernadettegeyer@gmail.com.    
+URL:http://www.betahaus.com/berlin/event/perfect-your-text-2/
+CATEGORIES:Business,Community,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160421102223/Geyer.HomePage.Headshot_1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160920T140000
+DTEND;VALUE=DATE-TIME:20160920T160000
+DTSTAMP:20160922T161834
+CREATED:20160908T154016
+LAST-MODIFIED:20160909T090844
+UID:35280-1474380000-1474387200@http://www.betahaus.com/berlin
+SUMMARY:Startups &amp; Corporates in the Digital Transformation
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    &nbsp;    Event description:    Corporations\, governmental agencies\, non-profits and other medium and large organizations are partnering with start-ups in order to monetize data and digital assets. Data might be the new oil\, but applications\, platforms\, hardware\, cloud services\, databases\, analytics engines\, delivery\, project &amp; process management\, collaboration tools and more are all part of the refinery necessary to create a winning strategy for the digital era.    This event is meant to answer specific questions and concerns\, as well as give practical advice about partnerships between startups and larger organizations. Whether you are a startup looking to be part of a corporate big data implementation or an organization looking to modernize your business model and operations through partnerships with startups\, we can answer your questions.    Topics can include:      Hot use cases in the market and how different industries could leverage data to modernize their business models.    Examples of what different companies have done successfully.    What is working in different innovation ecosystems.    How to approach and work with innovation partners.    &nbsp;    About the event holder:    Elizabeth Press\, founder of D3M Labs\, understands innovation partnerships from both the corporate and the startup side.    D3M Labs is a consultancy that empowers organizations to cultivate strategic advantages through monetization of digital assets and partnerships with innovators. As one of her core activities\, Elizabeth scouts startups globally on behalf of her clients. Organizations D3M Labs has worked with include Betahaus and Mondelez\, as well as large players in mobility\, automotive\, mechanical engineering and financial services. As an intrapreneur at Dell\, Elizabeth built up and managed global advanced analytics functions. At Dell\, Elizabeth worked with a geographically diverse set of emerging vendors. Before Dell\, she worked in top-tier strategy consulting and quantitative finance. Elizabeth mentors at the ReDI school of Digital Integration. She has a BA in International Relations from Tufts University and an MSc in International Economics and Business from the Stockholm School of Economics.    She has published papers on predictive analytics\, as well as knowledge management and innovation and was an official Dell Social Subject Matter Expert on Decision Management and Organizational Transformation. She is also a speaker at Data Natives Berlin.    &nbsp;    Important Information      To secure your spot please register in advance by sending an email to Elizabeth.Press@d3mlabs.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation.    Once you arrive\, please go to reception. The event will take place at reception.    Only one session (30 minutes) per person per Office Hours day. Only one consultation per quarter.    If you would like to cancel\, please have the courtesy to email Elizabeth.Press@d3mlabs.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/startups-corporates-in-the-digital-transformation/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160908154016/IMG_5983_cropped_1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160920T160000
+DTEND;VALUE=DATE-TIME:20160920T173000
+DTSTAMP:20160922T161834
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35129-1474387200-1474392600@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-09-20/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+END:VCALENDAR

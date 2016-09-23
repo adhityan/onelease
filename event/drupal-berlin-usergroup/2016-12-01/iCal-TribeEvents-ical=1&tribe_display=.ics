@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161201T193000
+DTEND;VALUE=DATE-TIME:20161201T230000
+DTSTAMP:20160922T162206
+CREATED:20140925T110912
+LAST-MODIFIED:20140925T110912
+UID:34858-1480620600-1480633200@http://www.betahaus.com/berlin
+SUMMARY:Drupal Berlin Usergroup
+DESCRIPTION:Bei dieser monatlichen Veranstaltung treffen sich die Berliner Anwender und Entwickler des CMS DRUPAL.    Drupal ist eine unter der GNU General Public License veröffentlichte und von einer breiten Community stetig weiterentwickelte Software.    Sie dient in erster Linie dem Erstellen\, Publizieren und Organisieren verschiedenster Inhalte einer Website.    Aufgrund ihres modularen Aufbaus ist in höchstem Maße ein flexibler Einsatz in allen nur erdenklichen Bereichen möglich.    Also egal\, ob Intranet oder Internet\, ob e-Government\, Commerce oder Community\, ob redaktionelle Inhalte oder "user generated content".    Drupal ist die Lösung! Bei unserem Treffen im betahaus geht es uns um einen möglichst breiten Austausch. Jeder Interessierte\, unabhängig vom Wissensstand\, ist willkommen!!! Es werden Sessions und Flashtalks gehalten. Individuelle Probleme können angesprochen und hoffentlich auch gelöst werden.    Informiert euch vorab über geplante Vorträge und stimmt über Themenvorschläge ab.    Join The Drupal Community!
+URL:http://www.betahaus.com/berlin/event/drupal-berlin-usergroup/2016-12-01/
+CATEGORIES:Community,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/dug_berlin_betahaus-e1386171675109.jpg
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20151116T180000
+DTEND;VALUE=DATE-TIME:20151116T210000
+DTSTAMP:20160922T154901
+CREATED:20150828T090628
+LAST-MODIFIED:20151015T140731
+UID:32666-1447696800-1447707600@http://www.betahaus.com/berlin
+SUMMARY:Design for 3D Printing
+DESCRIPTION:COURSE CONTENT:  For those who are already familiar to 3D printing\, we don’t have to explain you that 3D printing is bound to revolutionize the way we will work and live. The technology is still in its infancy\, but it’s rapidly developing into a future where fixing broken household items is just a matter of printing\, and Amazon no longer sends you stuff – just the 3D files. Betahaus dives headfirst into 3D printing waters with a 360 degrees course on 3D printing and developing. Focused on printing useful objects &amp; products\, you’ll discover the possibilities and boundaries of 3D printing\, learn how to turn your own designs into real functional objects\, and operate a 3D printer by yourself. Whether it’s a set of wheels for your dishwasher\, a long-lost knob for your stereo or an awesome self-designed vase\, we’ll teach you to bring your ideas to reality. The hands-on 3D printing course is for anfänger/novices up to designers. No experience is required!  COURSE OVERVIEW  Session 1 // 16th of November  Theory on 3D printing\, the pro's and con's of different techniques and a peek into the future of 3D printing. Learn how to design in a simple 3D modelling program and print a self designed chess piece.  Session 2 // 18th of November  Learn about 3D printing services and 3D model databases. Design a dice and get help with your own design project.  THINGS NEEDED  Your laptop a 3-button mouse makerware and 123d design already installed on your laptop. Your mac will need • OS 10.7 or later • At least 3GB RAM • At least 2.5GB free disk space. Your PC will need • Windows 7 • 2GHz or faster processor • At least 2GB RAM • At least 1.5GB free disk space. Install and test the software prior to booking. We have a brand new\, fully-equipped\, in-house 3D printing space with a MakerBot Replicator 2 at your disposal and a field expert who will guide you through the learning process. The course will consist of 2 evenings with classes of 3 hours each.  COURSE HOLDER: The workshop is held by Vegter van Slooten. Vegter is a product designer from the Netherlands who moved to Berlin four years ago. After getting a 3D printer\, he never left its side for long. from toys to spare parts\, from prototypes to small production\, everything has been done here at the Betahaus (except for guns\, no guns guys\, please). Currently Vegter is working on 3D printed jewelry (www.slooproducts.com) and working as a freelance product designer. He studied industrial product design at the Saxion University in Enschede. He has been teaching 3D printing courses for architects\, Deutsche Bahn and at the betahaus for a couple of years.  QUESTIONS?  Drop us a line at education@betahaus.de  WHERE AT BETAHAUS?  Once your arrive\, drop by the reception (1st floor) and ask for further directions.  Please print your ticket and bring it to the first session of the course!
+URL:http://www.betahaus.com/berlin/event/3dprinting/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:3D printing,Art & Design,DIY,DIY & CRAFTS / Academy /,hardwareco lab,Technology
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/890.jpg
+END:VEVENT
+END:VCALENDAR

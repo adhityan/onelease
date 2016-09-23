@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20160922T170000
+DTEND;VALUE=DATE-TIME:20160922T190000
+DTSTAMP:20160922T152104
+CREATED:20160915T120430
+LAST-MODIFIED:20160915T120430
+UID:35305-1474563600-1474570800@http://www.betahaus.com/berlin
+SUMMARY:Ya Beta Run!
+DESCRIPTION:Looking for a way to exercise and meet new friends and like-minded people in the betahaus community?  All the while getting to know the city ‘off the beaten track’? Take a break from a long day at work and join us for a run!  In collaboration with Simply Run Berlin\, every Thursday at 5PM we’ll meet for a weekly run through the city. Under the expert guidance of Simply Run\, we’ll explore some of Berlin’s hidden gems and afterwards\, there’ll be opportunities to get to know your fellow runners over a refreshing drink.   Free for betahaus members. Sign up now and let’s get moving!
+URL:http://www.betahaus.com/berlin/event/ya-beta-run/2016-09-22/
+LOCATION:Prinzessinenstraße 19-20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160915120401/simply-run2.jpg
+END:VEVENT
+END:VCALENDAR

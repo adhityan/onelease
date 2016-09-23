@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20150625T180000
+DTEND;VALUE=DATE-TIME:20150625T210000
+DTSTAMP:20160922T164207
+CREATED:20150114T130808
+LAST-MODIFIED:20150114T130808
+UID:31236-1435255200-1435266000@http://www.betahaus.com/berlin
+SUMMARY:betabeer
+DESCRIPTION:This is the time to get to know your coworkers!    So get up from the desk an join us for the betabeer\, our monthly get together for betahaus | members!    We’ll have cold beers and a special host\, so stay tuned.    We are all looking forward to have you over for a drink. It s the best way to get to know your coworkers better after all!    No need to rsvp just come along!
+URL:http://www.betahaus.com/berlin/event/betabeer-4/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/BETABEER.jpg
+END:VEVENT
+END:VCALENDAR

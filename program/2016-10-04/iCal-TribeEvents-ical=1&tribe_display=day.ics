@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161004T130000
+DTEND;VALUE=DATE-TIME:20161004T140000
+DTSTAMP:20160922T162740
+CREATED:20160222T154557
+LAST-MODIFIED:20160222T154557
+UID:34545-1475586000-1475589600@http://www.betahaus.com/berlin
+SUMMARY:Tupperware Tuesday
+DESCRIPTION:Want to get to know your coworkers? Expand your network in the community?  Bring something to eat &amp; join us for Tupperware Tuesday! Every Tuesday from 1 to 2PM in the Reception Area. Let’s have lunch together\, exchange ideas\, talk business\, and think-tank about each others’ challenges. Drinks are provided for by us! Tupperware Tuesday is a members-only event\, but you're welcome to bring guests!     &nbsp;
+URL:http://www.betahaus.com/berlin/event/tupperware-tuesday-2/2016-10-04/
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160222154557/Tupperware-Tuesday-pic1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161004T160000
+DTEND;VALUE=DATE-TIME:20161004T173000
+DTSTAMP:20160922T162740
+CREATED:20160802T150120
+LAST-MODIFIED:20160802T150120
+UID:35130-1475596800-1475602200@http://www.betahaus.com/berlin
+SUMMARY:Do the right thing! Law Office Hour
+DESCRIPTION:betahaus | Office Hours are one-on-one free consultancy sessions (30 mins) with experts from our community to our community.    Ludmilla and Jan are the founders of KUHLEN\, a corporate law firm with digital DNA specialised in start-ups. Every first and third Tuesday of the month they will answer all your questions concerning topics as founding\, shares\, vesting\, contracts\, funding or exits. Or maybe you need help developing a negotiation strategy? As entrepreneur you have to negotiate in numerous situations: with co-founders\, investors\, employees etc.    Ludmilla and Jan are experts in strategic negotiation and will help you to develop a perfect strategy for your situation.    For all betahaus members this law office hour is for free.    Important Information    For all betahaus members this law office hour is for free      To secure your spot please register in advance by sending an email to K@kuhlen-berlin.de. In your email please indicate which 30-minute time slot you would like on the day. Your preferred 30-minute time slot must be within the specified time frame for this Office Hours session    This Office Hours session is free exclusively for betahaus members only.    Office Hours is a one-on-one consultation session. Not a group workshop or a presentation. Please come prepared with your own questions.    Once you arrive\, please go to reception and ask for directions to Meeting Room 2. The event will take place in Meeting Room 2 and the OH holder will be waiting for you in the room at your specified time.    Only one session (30 minutes) per person per month.    If you would like to cancel\, please have the courtesy to email K@kuhlen-berlin.de to let them know.  
+URL:http://www.betahaus.com/berlin/event/do-the-right-thing-law-office-hour-17/2016-10-04/
+CATEGORIES:Business,Office Hours
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/KUHLEN32.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161004T180000
+DTEND;VALUE=DATE-TIME:20161004T210000
+DTSTAMP:20160922T162740
+CREATED:20160823T095342
+LAST-MODIFIED:20160823T095342
+UID:35220-1475604000-1475614800@http://www.betahaus.com/berlin
+SUMMARY:Weekly Woodworking
+DESCRIPTION:Every Tuesday evening\, we have “Woodworking” at betahaus! All the machines and tools in the woodshop are available to use… PLUS\, a woodworking professional will be in the workshop to help you with all your wonderful ideas. Join us!  Important things to know about woodworking sessions:  Before registering for a Woodworking Evening\, you MUST have taken “Working with Wood”        You have to REGISTER ONLINE for this event (obligatory)!    Your registration is only valid for the date you signed up for.    Registration options:        book single ticket 15eur    book a free ticket and use one of the Vouchers from Introduction to Woodshop    WHERE AT BETAHAUS?  Go inside and walk straight to the Open Design City (ODC)  QUESTIONS?  Drop us a line at academy@betahaus.de  Please print your ticket and bring it to the session In case you are using the Free option\, please bring the Voucher with you as well.  This course was created by betahaus I Academy. Check out the whole Program www.academy.betahaus.com
+URL:http://www.betahaus.com/berlin/event/weekly-woodworking-103/
+LOCATION:Prinzessinnenstraße 19 - 20, Berlin, 10969, Germany
+GEO:13.4122168;52.5026083
+CATEGORIES:DIY,DIY & CRAFTS / Academy /,Woodshop
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160504093514/b3aed604-ec8b-43ca-aea0-8e3050a68e3b.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR

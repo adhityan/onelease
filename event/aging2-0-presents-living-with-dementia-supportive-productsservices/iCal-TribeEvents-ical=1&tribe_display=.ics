@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161006T190000
+DTEND;VALUE=DATE-TIME:20161006T213000
+DTSTAMP:20160922T153926
+CREATED:20160914T135252
+LAST-MODIFIED:20160914T135252
+UID:35266-1475780400-1475789400@http://www.betahaus.com/berlin
+SUMMARY:Aging2.0 presents: Living With Dementia: Supportive Products&amp;Services
+DESCRIPTION:Let us get together to talk about how to support those with dementia as well as their relatives\, caregivers and friends. What products&amp;services are already out there or still needed?    We invite (startup) companies\, social associations and unions of any kind to talk about their supportive products and their ideas on this topic. We also warmly invite you to come to this meetup to either just share your personal experiences and give your input\, or to just listen and to let the group know your dementia-sensitive or age-related questions. We are looking forward to meeting you! Let us make this another inspiring and solution-oriented meetup.
+URL:http://www.betahaus.com/berlin/event/aging2-0-presents-living-with-dementia-supportive-productsservices/
+CATEGORIES:Business,Community,Technology
+ATTACH;FMTTYPE=image/png:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160905170213/aging2.0-2.png
+ORGANIZER;CN=Carolin Makus:MAILTO:info@carolinmakus.de
+END:VEVENT
+END:VCALENDAR

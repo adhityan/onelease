@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//betahaus | Berlin - ECPv3.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:betahaus | Berlin
+X-ORIGINAL-URL:http://www.betahaus.com/berlin
+X-WR-CALDESC:Events for betahaus | Berlin
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20161024T180000
+DTEND;VALUE=DATE-TIME:20161024T210000
+DTSTAMP:20160922T153952
+CREATED:20160811T095326
+LAST-MODIFIED:20160915T144834
+UID:35164-1477332000-1477342800@http://www.betahaus.com/berlin
+SUMMARY:Rapid Prototyping
+DESCRIPTION:How to design a product using 3D printing.  Do you want to turn your creativity into something social-minded and useful? Do you have an idea you want to work on\, or a project in mind? Do you frequently work with designers and think it’d be good to be able to put yourself in their shoes? Or are you simply curious to know what’s behind most of the design projects you encounter?  Twice a week for a month\, you will be learning all there is to know in order to run a successful project\, from basic research and design methodology to knowledge about materials\, production techniques and ecodesign. You will discover the many hidden facets of the design practice: how to integrate a project within a complex system\, how to build a working prototype\, as well as how to communicate and distribute your project.  SESSION OVERVIEW  Session 1   Learning the basics of the 3D printing industry. How to design a basic object by using 123D design. By the end of the session each participant will start designing their test creations in 123D design.  Session 2   Learn about all the functions in 123D design. Move on to get familiar with the machine and materials used. Every participant will print their creations. After that you will be presented with a challenge which the goals is to solve using prototypes made with 3D printer.  Session 3   Basics of product design and prototyping. Dividing in groups or pairs (depending on the group size). Working through creative thinking and prototyping their product. We will start session 3 by getting familiar with product design methodology and the steps used in rapid prototyping. Everyone will be divided in groups where you will put your creative thinking processes in solving the challenge from Session 1.  Session 4   In last session\, the groups will finish their prototypes and put all their 3D printing knowledge into use\, while operating the 3D printer. At the end of the session\, each group will hold a short presentation discovering each other's solutions.  INSTRUCTOR: Vegter Van Slooten  Vegter is a product designer from the Netherlands who moved to Berlin four years ago. After getting a 3D printer\, he never left its side for long. from toys to spare parts\, from prototypes to small production\, everything has been done here at the Betahaus (except for guns\, no guns guys\, please). Currently Vegter is working on 3D printed jewelry and working as a freelance product designer. He studied industrial product design at the Saxion University in Enschede. He has been teaching 3D printing courses for architects\, Deutsche Bahn and at the betahaus for last 3 years.  CERTIFICATE:   After completing this course you will receive a certificate from betahaus | Academy.  QUESTIONS:  Drop us a line at academy@betahaus.de
+URL:http://www.betahaus.com/berlin/event/rapid-prototyping-2/
+CATEGORIES:Technology,WEB & DESIGN /Academy/
+ATTACH;FMTTYPE=image/jpeg:http://d2tjgupm4m2jnv.cloudfront.net/wp/assets/sites/2/20160811095216/open-design-city_0601.jpg
+ORGANIZER;CN=betahaus I Academy:MAILTO:academy@betahaus.de
+END:VEVENT
+END:VCALENDAR
