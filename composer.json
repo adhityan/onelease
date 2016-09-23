@@ -1,0 +1,10 @@
+{
+	"config": {
+        "vendor-dir": "vendor"
+    },
+    "require": {
+    	"php": "*",
+        "ext-mbstring": "*",
+        "ext-memcached": "*"
+    }
+}
