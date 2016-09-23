@@ -2,6 +2,7 @@
 <html class="wf-loading wf-museo-n1-loading wf-museo-n9-loading wf-museosans-n1-loading wf-museosans-i1-loading wf-museosans-n3-loading wf-museosans-n5-loading wf-museosans-n7-loading wf-museosans-n9-loading wf-minionpro-n7-loading wf-minionpro-i7-loading wf-minionpro-i4-loading wf-minionpro-n4-loading js svg responsejs" lang="en-US">
 <head>
     <meta charset="utf-8">
+    <base href="http://onelease.com/" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link type="text/css" media="all" href="wp-content/cache/autoptimize/2/css/autoptimize_2dd28918820e67a1d57d6aea9558d4b0.css" rel="stylesheet">
     <title>Onelease | Coworking - Let's work together!</title>
@@ -139,7 +140,6 @@
                     <li class="menu-program"><a href="program/index.html">Events</a></li>
                     <li class="menu-space"><a href="space/index.html">Spaces</a></li>
                     <li class="menu-cafe"><a href="spaces/cafe/index.html">Cafe</a></li>
-                    <li class="menu-academy"><a target="_blank" href="http://academy.betahaus.com/">Academy</a></li>
                     <li class="menu-blog"><a href="blog/index.html">Blog</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
