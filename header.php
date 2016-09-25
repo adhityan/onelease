@@ -129,17 +129,17 @@
                     <li class="dropdown">
                         <a href="index.html#" class="dropdown-toggle active-city" data-toggle="dropdown">Mumbai <b class="caret"></b></a>
                         <ul id="menu-locations" class="dropdown-menu">
-                            <li class="menu-mumbai"><a href="/mumbai">Mumbai</a></li>
-                            <li class="menu-delhi"><a href="/delhi">Delhi</a></li>
+                            <li class="menu-mumbai"><a href="/">Mumbai</a></li>
+                            <li class="menu-delhi"><a href="/">Delhi</a></li>
                         </ul>
                     </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="menu-coworking"><a href="pricing/index.html">Coworking</a></li>
+<!--                    <li class="menu-coworking"><a href="pricing/index.html">Coworking</a></li>-->
                     <li class="menu-community"><a href="community/index.html">Community</a></li>
 <!--                    <li class="menu-program"><a href="program/index.html">Events</a></li>-->
-                    <li class="menu-space"><a href="space/index.html">Spaces</a></li>
-                    <li class="menu-cafe"><a href="spaces/cafe/index.html">Cafe</a></li>
+<!--                    <li class="menu-space"><a href="space/index.html">Spaces</a></li>-->
+<!--                    <li class="menu-cafe"><a href="spaces/cafe/index.html">Cafe</a></li>-->
                 </ul>
             </div><!-- /.navbar-collapse -->
         </nav>
