@@ -35,7 +35,7 @@
             <div class="col-md-12 belowtheline">
                 <hr>
                 <p class="pull-left">© 2016 Onelease.com</p>
-                <p class="pull-right">The Finest of Coworking in India</p>
+                <p class="pull-right">The Finest of coworking spaces in India</p>
             </div>
         </div>
     </div>
