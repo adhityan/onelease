@@ -2,7 +2,7 @@
 <html class="wf-loading wf-museo-n1-loading wf-museo-n9-loading wf-museosans-n1-loading wf-museosans-i1-loading wf-museosans-n3-loading wf-museosans-n5-loading wf-museosans-n7-loading wf-museosans-n9-loading wf-minionpro-n7-loading wf-minionpro-i7-loading wf-minionpro-i4-loading wf-minionpro-n4-loading js svg responsejs" lang="en-US">
 <head>
     <meta charset="utf-8">
-    <base href="http://onelease.com/" />
+    <base href="http://www.onelease.in/" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link type="text/css" media="all" href="wp-content/cache/autoptimize/2/css/autoptimize_2dd28918820e67a1d57d6aea9558d4b0.css" rel="stylesheet">
     <title>Onelease | Coworking - Let's work together!</title>
