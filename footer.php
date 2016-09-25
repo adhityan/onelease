@@ -7,25 +7,25 @@
                         <ul class="nav spaces"><h4>About us</h4>
                             <li class="menu-our-story"><a href="story/index.html">Our Story</a></li>
 <!--                            <li class="menu-press"><a href="press/index.html">Press</a></li>-->
-                            <li class="menu-faq"><a href="faq/index.html">FAQ</a></li>
-                            <li class="menu-contact"><a href="contact/index.html">Contact</a></li>
+<!--                            <li class="menu-faq"><a href="faq/index.html">FAQ</a></li>-->
+<!--                            <li class="menu-contact"><a href="contact/index.html">Contact</a></li>-->
                         </ul>
                     </div>
                 </div>
                 <div class="pull-left">
                     <div class="navbar">
                         <ul class="nav spaces"><h4>Our Spaces</h4>
-                            <li class="menu-berlin"><a href="/mumbai">Mumbai</a></li>
-                            <li class="menu-hamburg"><a href="/delhi">New Delhi</a></li>
+                            <li class="menu-berlin"><a href="/">Mumbai</a></li>
+                            <li class="menu-hamburg"><a href="/">New Delhi</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="pull-left">
                     <div class="navbar">
                         <ul class="nav spaces"><h4>Social</h4>
-                            <li class="menu-facebook"><a href="http://www.facebook.com/betahaus">Facebook</a></li>
-                            <li class="menu-twitter"><a href="http://www.twitter.com/betahaus">Twitter</a></li>
-                            <li class="menu-instagram"><a href="https://www.instagram.com/betahaus/">Instagram</a></li>
+                            <li class="menu-facebook"><a href="http://www.facebook.com/onelease">Facebook</a></li>
+                            <li class="menu-twitter"><a href="http://www.twitter.com/onelease">Twitter</a></li>
+                            <li class="menu-instagram"><a href="https://www.instagram.com/onelease/">Instagram</a></li>
                         </ul>
                     </div>
                 </div>
@@ -35,7 +35,7 @@
             <div class="col-md-12 belowtheline">
                 <hr>
                 <p class="pull-left">© 2016 Onelease.com</p>
-                <p class="pull-right">The Finest in Coworking in India</p>
+                <p class="pull-right">The Finest of Coworking in India</p>
             </div>
         </div>
     </div>
