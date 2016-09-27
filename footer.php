@@ -6,9 +6,9 @@
 <!--                    <div class="navbar">-->
 <!--                        <ul class="nav spaces"><h4>About us</h4>-->
 <!--                            <li class="menu-our-story"><a href="story/index.html">Our Story</a></li>-->
-<!--<!--                            <li class="menu-press"><a href="press/index.html">Press</a></li>-->-->
-<!--<!--                            <li class="menu-faq"><a href="faq/index.html">FAQ</a></li>-->-->
-<!--<!--                            <li class="menu-contact"><a href="contact/index.html">Contact</a></li>-->-->
+<!--<!--                            <li class="menu-press"><a href="press/index.html">Press</a></li>-->
+<!--<!--                            <li class="menu-faq"><a href="faq/index.html">FAQ</a></li>-->
+<!--<!--                            <li class="menu-contact"><a href="contact/index.html">Contact</a></li>-->
 <!--                        </ul>-->
 <!--                    </div>-->
 <!--                </div>-->
