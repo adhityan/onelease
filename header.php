@@ -136,7 +136,7 @@
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
 <!--                    <li class="menu-coworking"><a href="pricing/index.html">Coworking</a></li>-->
-                    <li class="menu-community"><a href="community/index.html">Community</a></li>
+                    <li class="menu-community"><a href="community/index.html">About</a></li>
 <!--                    <li class="menu-program"><a href="program/index.html">Events</a></li>-->
 <!--                    <li class="menu-space"><a href="space/index.html">Spaces</a></li>-->
 <!--                    <li class="menu-cafe"><a href="spaces/cafe/index.html">Cafe</a></li>-->
