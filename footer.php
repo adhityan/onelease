@@ -2,16 +2,16 @@
     <div class="footer container">
         <div class="row">
             <div class="col-md-12">
-                <div class="pull-left">
-                    <div class="navbar">
-                        <ul class="nav spaces"><h4>About us</h4>
-                            <li class="menu-our-story"><a href="story/index.html">Our Story</a></li>
-<!--                            <li class="menu-press"><a href="press/index.html">Press</a></li>-->
-<!--                            <li class="menu-faq"><a href="faq/index.html">FAQ</a></li>-->
-<!--                            <li class="menu-contact"><a href="contact/index.html">Contact</a></li>-->
-                        </ul>
-                    </div>
-                </div>
+<!--                <div class="pull-left">-->
+<!--                    <div class="navbar">-->
+<!--                        <ul class="nav spaces"><h4>About us</h4>-->
+<!--                            <li class="menu-our-story"><a href="story/index.html">Our Story</a></li>-->
+<!--<!--                            <li class="menu-press"><a href="press/index.html">Press</a></li>-->-->
+<!--<!--                            <li class="menu-faq"><a href="faq/index.html">FAQ</a></li>-->-->
+<!--<!--                            <li class="menu-contact"><a href="contact/index.html">Contact</a></li>-->-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
                 <div class="pull-left">
                     <div class="navbar">
                         <ul class="nav spaces"><h4>Our Spaces</h4>
@@ -33,8 +33,8 @@
         <div class="row">
             <div class="col-md-12 belowtheline">
                 <hr>
-                <p class="pull-left">© 2016 Onelease.com</p>
-                <p class="pull-right">The Finest of coworking spaces in India</p>
+                <p class="pull-left">© 2016 Onelease.in</p>
+                <p class="pull-right">The Finest of office spaces in India</p>
             </div>
         </div>
     </div>
