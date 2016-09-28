@@ -5,7 +5,7 @@
     <base href="http://www.onelease.in/" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link type="text/css" media="all" href="wp-content/cache/autoptimize/2/css/autoptimize_2dd28918820e67a1d57d6aea9558d4b0.css" rel="stylesheet">
-    <title>Onelease | Coworking - Let's work together!</title>
+    <title>Onelease</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noodp, noydir, index, follow, archive"><!-- Desktop Browsers -->
     <link rel="shortcut icon" type="image/x-icon" href="wp-content/themes/betahaus2013/assets/img/favicon/favicon.ico">
