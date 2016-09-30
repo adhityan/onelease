@@ -24,7 +24,7 @@
                     <div class="navbar">
                         <ul class="nav spaces"><h4>Social</h4>
                             <li class="menu-facebook"><a href="http://www.facebook.com/oneleasedotin">Facebook</a></li>
-                            <li class="menu-twitter"><a href="http://www.twitter.com/oneleasedotin">Twitter</a></li>
+                            <li class="menu-twitter"><a href="http://www.twitter.com/onelease">Twitter</a></li>
                         </ul>
                     </div>
                 </div>
