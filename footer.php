@@ -141,7 +141,7 @@
 
                     <!-- copyright -->
                     <div class="copyright">
-                        <a href="index.html">
+                        <a href="/">
                             <img src="images/onelease-footerlogo.png" style="height: 25px;" alt="Onelease Demo">
                         </a>
                         <p>© 2016 All rights reserved. <a href="#">ONELEASE</a>.</p>
