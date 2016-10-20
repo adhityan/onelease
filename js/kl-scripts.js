@@ -363,7 +363,7 @@ var SEARCH_DOMAIN = 'hogash-demos.com/kallyas_html/';
 			}, 700);
 		});
 	}
-// END Scroll to top 
+// END Scroll to top
 
 
 // Load Date in the current div 
@@ -805,7 +805,94 @@ var SEARCH_DOMAIN = 'hogash-demos.com/kallyas_html/';
 			register($form_pop);
 		});
 	}
-// END MailChimp working newsletter 
+// END MailChimp working newsletter
+
+
+// Login popup
+	function doLogin($login_popup) {
+		if(!$login_popup){
+			return false;
+		}
+
+		if($login_popup.serializeArray()[0].value.length == 0) {
+			$('#login_notification').text('Username cannot be empty!').fadeIn();
+			return false;
+		}
+
+		if($login_popup.serializeArray()[1].value.length == 0) {
+			$('#login_notification').text('Password cannot be empty!').fadeIn();
+			return false;
+		}
+
+		$.ajax({
+			type		: $login_popup.attr('method'),
+			url			: $login_popup.attr('action'),
+			data		: $login_popup.serialize(),
+			cache       : false,
+			dataType    : 'json',
+			contentType	: "application/json; charset=utf-8",
+
+			error       : function(err) {
+				$('#login_notification').text('No internet connection!').fadeIn();
+			},
+			success     : function(data) {
+				if (!data.success) {
+					$('#login_notification').text(data.message).fadeIn();
+				}
+				else window.location.reload();
+			}
+		});
+	}
+
+	var $login_popup = $('#login_panel_popup');
+	if($login_popup){
+		$('#login_submit_button').on('click', function(event) {
+			if(event) event.preventDefault();
+			doLogin($login_popup);
+		});
+	}
+// END Login popup
+
+
+// Forgot password
+	function doForgotPassword($forgot_password) {
+		if(!$forgot_password){
+			return false;
+		}
+
+		if($forgot_password.serializeArray()[0].value.length == 0) {
+			$('#forgot_notification').text('Username cannot be empty!').fadeIn();
+			return false;
+		}
+
+		$.ajax({
+			type		: $forgot_password.attr('method'),
+			url			: $forgot_password.attr('action'),
+			data		: $forgot_password.serialize(),
+			cache       : false,
+			dataType    : 'json',
+			contentType	: "application/json; charset=utf-8",
+
+			error       : function(err) {
+				$('#forgot_notification').text('No internet connection!').fadeIn();
+			},
+			success     : function(data) {
+				if (!data.success) {
+					$('#forgot_notification').text(data.message).fadeIn();
+				}
+				else window.location.reload();
+			}
+		});
+	}
+
+	var $forgot_password = $('#forgot_password_popup');
+	if($forgot_password){
+		$('#forgot_submit_button').on('click', function(event) {
+			if(event) event.preventDefault();
+			doForgotPassword($forgot_password);
+		});
+	}
+// END Forgot password
 
 
 // Bubble Boxes

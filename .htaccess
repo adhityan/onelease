@@ -7,5 +7,5 @@ Options -Indexes
 RewriteCond %{ENV:REDIRECT_STATUS} 200
 RewriteRule ^ - [L]
 
-#RewriteRule ^(.*).html$ application.php?load=$1.html [L,NC]
-#RewriteRule ^(/)?$ application.php?load=index.html [L,NC]
+RewriteRule ^(.*).html$ index.php?load=$1.html [L,NC]
+RewriteRule ^(/)?$ index.php?load=home.html [L,NC]
