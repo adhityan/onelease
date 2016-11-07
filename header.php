@@ -321,10 +321,10 @@
                         <a href="/">HOME</a>
                     </li>
                     <li class="">
-                        <a href="#whyus">WHY ONELEASE</a>
+                        <a href="/#whyus">WHY ONELEASE</a>
                     </li>
                     <li class="">
-                        <a href="#ourlocations">LOCATIONS</a>
+                        <a href="/#ourlocations">LOCATIONS</a>
                     </li>
                     <li class="">
                         <a href="#footer">CONTACT</a>

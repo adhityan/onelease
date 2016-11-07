@@ -9,7 +9,6 @@
                         <ul class="menu">
                             <li><a href="#">Andheri</a></li>
                             <li><a href="#">Bengaluru</a></li>
-                            <li><a href="#">BKC</a></li>
                             <li><a href="#">Delhi NCR</a></li>
                             <li><a href="#">Colaba</a></li>
                             <li><a href="#">Hyderabad</a></li>
