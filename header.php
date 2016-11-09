@@ -186,7 +186,7 @@
             <!-- top-header -->
             <div class="kl-top-header clearfix">
                 <!-- HEADER ACTION -->
-                <div class="header-links-container ">
+                <div class="header-links-container" style="margin-right: 0px">
                     <ul class="topnav navRight topnav">
                         <!-- Login trigger -->
                         <li>
@@ -199,7 +199,7 @@
                     </ul>
 
                     <!-- header search -->
-                    <div id="search" class="header-search">
+                    <!-- <div id="search" class="header-search">
                         <a href="#" class="searchBtn "><span class="glyphicon glyphicon-search icon-white"></span></a>
                         <div class="search-container">
                             <form id="searchform" class="header-searchform" action="#" method="post" target="_self">
@@ -208,7 +208,7 @@
                                 <button type="submit" id="searchsubmit" class="searchsubmit glyphicon glyphicon-search icon-white"></button>
                             </form>
                         </div>
-                    </div>
+                    </div> -->
                     <!--/ header search -->
                 </div>
                 <!--/ HEADER ACTION -->
